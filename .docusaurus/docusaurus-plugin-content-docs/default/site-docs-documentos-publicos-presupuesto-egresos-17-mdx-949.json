@@ -1,0 +1,27 @@
+{
+  "unversionedId": "documentos-publicos/presupuesto-egresos-17",
+  "id": "documentos-publicos/presupuesto-egresos-17",
+  "isDocsHomePage": false,
+  "title": "Presupuesto de Egresos de 2017",
+  "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
+  "source": "@site/docs/documentos-publicos/presupuesto-egresos-17.mdx",
+  "sourceDirName": "documentos-publicos",
+  "slug": "/documentos-publicos/presupuesto-egresos-17",
+  "permalink": "/documentos-publicos/presupuesto-egresos-17",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/presupuesto-egresos-17.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Primera Acta de Sesión de Cabildo (2017)",
+    "permalink": "/documentos-publicos/acta-cabildo"
+  },
+  "next": {
+    "title": "Lista de Servidores Públicos Papalotla 2017-2021",
+    "permalink": "/documentos-publicos/servidores-publicos17"
+  }
+}

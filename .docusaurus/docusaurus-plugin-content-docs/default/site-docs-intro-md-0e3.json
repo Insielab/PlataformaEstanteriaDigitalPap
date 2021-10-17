@@ -1,0 +1,28 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+  "description": "La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+    "permalink": "/historias-constumbres/impacto-volkswagen"
+  },
+  "next": {
+    "title": "Primera Acta de Sesión de Cabildo (2017)",
+    "permalink": "/documentos-publicos/acta-cabildo"
+  }
+}

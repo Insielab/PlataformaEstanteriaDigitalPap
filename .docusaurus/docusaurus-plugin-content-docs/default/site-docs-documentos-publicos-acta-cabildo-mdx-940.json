@@ -1,0 +1,27 @@
+{
+  "unversionedId": "documentos-publicos/acta-cabildo",
+  "id": "documentos-publicos/acta-cabildo",
+  "isDocsHomePage": false,
+  "title": "Primera Acta de Sesión de Cabildo (2017)",
+  "description": "|Autor:|  |",
+  "source": "@site/docs/documentos-publicos/acta-cabildo.mdx",
+  "sourceDirName": "documentos-publicos",
+  "slug": "/documentos-publicos/acta-cabildo",
+  "permalink": "/documentos-publicos/acta-cabildo",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/acta-cabildo.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Presupuesto de Egresos de 2017",
+    "permalink": "/documentos-publicos/presupuesto-egresos-17"
+  }
+}

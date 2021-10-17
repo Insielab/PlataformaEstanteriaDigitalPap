@@ -1,0 +1,22 @@
+{
+  "permalink": "/blog/aviso-de-privacidad",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-mdx-blog-post copy.mdx",
+  "source": "@site/blog/2021-10-17-mdx-blog-post copy.mdx",
+  "title": "Aviso de privacidad",
+  "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
+  "date": "2021-10-17T00:00:00.000Z",
+  "formattedDate": "October 17, 2021",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 3.405,
+  "truncated": false,
+  "authors": [],
+  "nextItem": {
+    "title": "Declaraciones sobre la Mesa de Administración",
+    "permalink": "/blog/estatutos-uno"
+  }
+}

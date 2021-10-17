@@ -1,0 +1,27 @@
+{
+  "unversionedId": "documentos-publicos/fortamun",
+  "id": "documentos-publicos/fortamun",
+  "isDocsHomePage": false,
+  "title": "Informes de Aplicación de los recursos de FORTAMUN",
+  "description": "|Autor:|  Honorable Ayuntamiento de Papalotla de Xicohténcatl|",
+  "source": "@site/docs/documentos-publicos/fortamun.mdx",
+  "sourceDirName": "documentos-publicos",
+  "slug": "/documentos-publicos/fortamun",
+  "permalink": "/documentos-publicos/fortamun",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/fortamun.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Lista de Servidores Públicos Papalotla 2017-2021",
+    "permalink": "/documentos-publicos/servidores-publicos17"
+  },
+  "next": {
+    "title": "Asignación de Recursos en programas sociales municipales (2015)",
+    "permalink": "/documentos-publicos/asignación-programas"
+  }
+}

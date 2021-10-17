@@ -1,0 +1,25 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Aviso de privacidad",
+      "permalink": "/blog/aviso-de-privacidad"
+    },
+    {
+      "title": "Declaraciones sobre la Mesa de Administración",
+      "permalink": "/blog/estatutos-uno"
+    },
+    {
+      "title": "Welcome",
+      "permalink": "/blog/welcome"
+    },
+    {
+      "title": "Declaraciones sobre la Mesa de Administración",
+      "permalink": "/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/blog/long-blog-post"
+    }
+  ]
+}

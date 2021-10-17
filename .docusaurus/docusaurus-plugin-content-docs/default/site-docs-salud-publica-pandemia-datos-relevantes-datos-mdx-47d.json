@@ -1,0 +1,27 @@
+{
+  "unversionedId": "salud-publica/pandemia-datos/relevantes-datos",
+  "id": "salud-publica/pandemia-datos/relevantes-datos",
+  "isDocsHomePage": false,
+  "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+  "description": "Datos importantes:",
+  "source": "@site/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
+  "sourceDirName": "salud-publica/pandemia-datos",
+  "slug": "/salud-publica/pandemia-datos/relevantes-datos",
+  "permalink": "/salud-publica/pandemia-datos/relevantes-datos",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Asignación de Recursos en programas sociales municipales (2015)",
+    "permalink": "/documentos-publicos/asignación-programas"
+  },
+  "next": {
+    "title": "Vacunación en Papalotla de Xicohténcatl.",
+    "permalink": "/salud-publica/pandemia-datos/vacunacion"
+  }
+}

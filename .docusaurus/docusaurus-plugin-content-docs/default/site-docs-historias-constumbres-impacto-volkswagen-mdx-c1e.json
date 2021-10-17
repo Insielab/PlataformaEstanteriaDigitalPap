@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres/impacto-volkswagen",
+  "id": "historias-constumbres/impacto-volkswagen",
+  "isDocsHomePage": false,
+  "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+  "description": "|Autor:| Mariano Torres Bautista |",
+  "source": "@site/docs/historias-constumbres/impacto-volkswagen.mdx",
+  "sourceDirName": "historias-constumbres",
+  "slug": "/historias-constumbres/impacto-volkswagen",
+  "permalink": "/historias-constumbres/impacto-volkswagen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/impacto-volkswagen.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Letra de La Danza de la Muñeca",
+    "permalink": "/historias-constumbres/la-muneca-letra"
+  },
+  "next": {
+    "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+    "permalink": "/"
+  }
+}

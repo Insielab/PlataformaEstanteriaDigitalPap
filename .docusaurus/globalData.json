@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "documentos-publicos/acta-cabildo",
+              "path": "/documentos-publicos/acta-cabildo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentos-publicos/asignación-programas",
+              "path": "/documentos-publicos/asignación-programas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentos-publicos/fortamun",
+              "path": "/documentos-publicos/fortamun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentos-publicos/presupuesto-egresos-17",
+              "path": "/documentos-publicos/presupuesto-egresos-17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "documentos-publicos/servidores-publicos17",
+              "path": "/documentos-publicos/servidores-publicos17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres/agua-puebla",
+              "path": "/historias-constumbres/agua-puebla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres/arqueologia-malinche",
+              "path": "/historias-constumbres/arqueologia-malinche",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres/impacto-volkswagen",
+              "path": "/historias-constumbres/impacto-volkswagen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres/la-muneca-letra",
+              "path": "/historias-constumbres/la-muneca-letra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres/organizacion-carnaval",
+              "path": "/historias-constumbres/organizacion-carnaval",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres/senor_del_monte",
+              "path": "/historias-constumbres/senor_del_monte",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "salud-publica/pandemia-datos/relevantes-datos",
+              "path": "/salud-publica/pandemia-datos/relevantes-datos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "salud-publica/pandemia-datos/vacunacion",
+              "path": "/salud-publica/pandemia-datos/vacunacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratultions",
+              "path": "/tutorial-basics/congratultions",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

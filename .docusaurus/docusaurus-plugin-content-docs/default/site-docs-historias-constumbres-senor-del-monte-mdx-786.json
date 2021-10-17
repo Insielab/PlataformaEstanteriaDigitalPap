@@ -1,0 +1,23 @@
+{
+  "unversionedId": "historias-constumbres/senor_del_monte",
+  "id": "historias-constumbres/senor_del_monte",
+  "isDocsHomePage": false,
+  "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+  "description": "|Autor:| Sergio Suárez Cruz |",
+  "source": "@site/docs/historias-constumbres/senor_del_monte.mdx",
+  "sourceDirName": "historias-constumbres",
+  "slug": "/historias-constumbres/senor_del_monte",
+  "permalink": "/historias-constumbres/senor_del_monte",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/senor_del_monte.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Arqueología del paisaje en La Malinche",
+    "permalink": "/historias-constumbres/arqueologia-malinche"
+  }
+}

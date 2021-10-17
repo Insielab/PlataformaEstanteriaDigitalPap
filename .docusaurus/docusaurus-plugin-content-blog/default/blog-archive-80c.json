@@ -1,0 +1,196 @@
+{
+  "blogPosts": [
+    {
+      "id": "aviso-de-privacidad",
+      "metadata": {
+        "permalink": "/blog/aviso-de-privacidad",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-mdx-blog-post copy.mdx",
+        "source": "@site/blog/2021-10-17-mdx-blog-post copy.mdx",
+        "title": "Aviso de privacidad",
+        "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
+        "date": "2021-10-17T00:00:00.000Z",
+        "formattedDate": "October 17, 2021",
+        "tags": [
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 3.405,
+        "truncated": false,
+        "authors": [],
+        "nextItem": {
+          "title": "Declaraciones sobre la Mesa de Administración",
+          "permalink": "/blog/estatutos-uno"
+        }
+      }
+    },
+    {
+      "id": "estatutos-uno",
+      "metadata": {
+        "permalink": "/blog/estatutos-uno",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
+        "source": "@site/blog/2021-10-16-first-blog-post.md",
+        "title": "Declaraciones sobre la Mesa de Administración",
+        "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
+        "date": "2021-10-16T00:00:00.000Z",
+        "formattedDate": "October 16, 2021",
+        "tags": [
+          {
+            "label": "hola",
+            "permalink": "/blog/tags/hola"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 1.655,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Impossible Box de México",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "imp1"
+          }
+        ],
+        "prevItem": {
+          "title": "Aviso de privacidad",
+          "permalink": "/blog/aviso-de-privacidad"
+        },
+        "nextItem": {
+          "title": "Welcome",
+          "permalink": "/blog/welcome"
+        }
+      }
+    },
+    {
+      "id": "welcome",
+      "metadata": {
+        "permalink": "/blog/welcome",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+        "source": "@site/blog/2021-08-26-welcome/index.md",
+        "title": "Welcome",
+        "description": "Docusaurus blogging features are powered by the blog plugin.",
+        "date": "2021-08-26T00:00:00.000Z",
+        "formattedDate": "August 26, 2021",
+        "tags": [
+          {
+            "label": "facebook",
+            "permalink": "/blog/tags/facebook"
+          },
+          {
+            "label": "hello",
+            "permalink": "/blog/tags/hello"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.405,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Sébastien Lorber",
+            "title": "Docusaurus maintainer",
+            "url": "https://sebastienlorber.com",
+            "imageURL": "https://github.com/slorber.png",
+            "key": "slorber"
+          },
+          {
+            "name": "Yangshun Tay",
+            "title": "Front End Engineer @ Facebook",
+            "url": "https://github.com/yangshun",
+            "imageURL": "https://github.com/yangshun.png",
+            "key": "yangshun"
+          }
+        ],
+        "prevItem": {
+          "title": "Declaraciones sobre la Mesa de Administración",
+          "permalink": "/blog/estatutos-uno"
+        },
+        "nextItem": {
+          "title": "Declaraciones sobre la Mesa de Administración",
+          "permalink": "/blog/mdx-blog-post"
+        }
+      }
+    },
+    {
+      "id": "mdx-blog-post",
+      "metadata": {
+        "permalink": "/blog/mdx-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+        "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+        "title": "Declaraciones sobre la Mesa de Administración",
+        "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+        "date": "2021-08-01T00:00:00.000Z",
+        "formattedDate": "August 1, 2021",
+        "tags": [
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 0.175,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Sébastien Lorber",
+            "title": "Docusaurus maintainer",
+            "url": "https://sebastienlorber.com",
+            "imageURL": "https://github.com/slorber.png",
+            "key": "slorber"
+          }
+        ],
+        "prevItem": {
+          "title": "Welcome",
+          "permalink": "/blog/welcome"
+        },
+        "nextItem": {
+          "title": "Long Blog Post",
+          "permalink": "/blog/long-blog-post"
+        }
+      }
+    },
+    {
+      "id": "long-blog-post",
+      "metadata": {
+        "permalink": "/blog/long-blog-post",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
+        "source": "@site/blog/2019-05-29-long-blog-post.md",
+        "title": "Long Blog Post",
+        "description": "This is the summary of a very long blog post,",
+        "date": "2019-05-29T00:00:00.000Z",
+        "formattedDate": "May 29, 2019",
+        "tags": [
+          {
+            "label": "hello",
+            "permalink": "/blog/tags/hello"
+          },
+          {
+            "label": "docusaurus",
+            "permalink": "/blog/tags/docusaurus"
+          }
+        ],
+        "readingTime": 2.05,
+        "truncated": true,
+        "authors": [
+          {
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Impossible Box de México",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "endi"
+          }
+        ],
+        "prevItem": {
+          "title": "Declaraciones sobre la Mesa de Administración",
+          "permalink": "/blog/mdx-blog-post"
+        }
+      }
+    }
+  ]
+}

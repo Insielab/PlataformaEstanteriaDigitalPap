@@ -1,0 +1,27 @@
+{
+  "unversionedId": "documentos-publicos/asignación-programas",
+  "id": "documentos-publicos/asignación-programas",
+  "isDocsHomePage": false,
+  "title": "Asignación de Recursos en programas sociales municipales (2015)",
+  "description": "|Autor:|Honorable Ayuntamiento de Papalotla de Xicohténcatl (2015)  |",
+  "source": "@site/docs/documentos-publicos/asignación-programas.mdx",
+  "sourceDirName": "documentos-publicos",
+  "slug": "/documentos-publicos/asignación-programas",
+  "permalink": "/documentos-publicos/asignación-programas",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/asignación-programas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Informes de Aplicación de los recursos de FORTAMUN",
+    "permalink": "/documentos-publicos/fortamun"
+  },
+  "next": {
+    "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+    "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
+  }
+}

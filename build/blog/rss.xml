@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Estantería Digital de Papalotla Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>Estantería Digital de Papalotla Blog</description>
+        <lastBuildDate>Sun, 17 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aviso de privacidad]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/aviso-de-privacidad</link>
+            <guid>aviso-de-privacidad</guid>
+            <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Declaraciones sobre la Mesa de Administración]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/estatutos-uno</link>
+            <guid>estatutos-uno</guid>
+            <pubDate>Sat, 16 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/</link>
+            <guid>/</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Declaraciones sobre la Mesa de Administración]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/mdx-blog-post</link>
+            <guid>mdx-blog-post</guid>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Long Blog Post]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/long-blog-post</link>
+            <guid>long-blog-post</guid>
+            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is the summary of a very long blog post,]]></description>
+        </item>
+    </channel>
+</rss>

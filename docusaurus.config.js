@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
@@ -70,17 +70,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Mesa de Administración',
-                to: '/docs/intro',
+                to: '/blog/estatutos-uno',
               },
 
               {
                 label: 'Consejo de Contenido',
-                to: '/docs/intro',
+                to: '/blog/estatutos-uno',
               },
 
               {
                 label: 'Estatutos de finaciación',
-                to: '/docs/intro',
+                to: '/blog/estatutos-uno',
               },
 
               {
@@ -113,7 +113,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: '/blog/estatutos-uno',
               },
               {
                 label: 'GitHub',

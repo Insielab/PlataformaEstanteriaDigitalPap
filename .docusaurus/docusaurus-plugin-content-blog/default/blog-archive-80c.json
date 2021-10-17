@@ -62,14 +62,14 @@
         },
         "nextItem": {
           "title": "Welcome",
-          "permalink": "/blog/welcome"
+          "permalink": "/blog/"
         }
       }
     },
     {
-      "id": "welcome",
+      "id": "/",
       "metadata": {
-        "permalink": "/blog/welcome",
+        "permalink": "/blog/",
         "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
         "source": "@site/blog/2021-08-26-welcome/index.md",
         "title": "Welcome",
@@ -147,7 +147,7 @@
         ],
         "prevItem": {
           "title": "Welcome",
-          "permalink": "/blog/welcome"
+          "permalink": "/blog/"
         },
         "nextItem": {
           "title": "Long Blog Post",

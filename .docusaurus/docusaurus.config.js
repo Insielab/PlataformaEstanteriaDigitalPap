@@ -3,8 +3,8 @@ export default {
   "tagline": "Dinosaurs are cool",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenLinks": "ignore",
+  "onBrokenMarkdownLinks": "ignore",
   "favicon": "img/favicon.ico",
   "organizationName": "facebook",
   "projectName": "docusaurus",
@@ -62,15 +62,15 @@ export default {
           "items": [
             {
               "label": "Mesa de Administración",
-              "to": "/docs/intro"
+              "to": "/blog/estatutos-uno"
             },
             {
               "label": "Consejo de Contenido",
-              "to": "/docs/intro"
+              "to": "/blog/estatutos-uno"
             },
             {
               "label": "Estatutos de finaciación",
-              "to": "/docs/intro"
+              "to": "/blog/estatutos-uno"
             },
             {
               "label": " ",
@@ -100,7 +100,7 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "/blog"
+              "to": "/blog/estatutos-uno"
             },
             {
               "label": "GitHub",

@@ -112,6 +112,24 @@
       },
       {
         "type": "category",
+        "label": "Mapas y recursos gráficos",
+        "items": [
+          {
+            "type": "link",
+            "label": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+            "href": "/recursos-graficos/mancha-urbana"
+          },
+          {
+            "type": "link",
+            "label": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+            "href": "/recursos-graficos/altura"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "tutorial-basics",
         "items": [
           {

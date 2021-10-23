@@ -92,10 +92,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Facebook',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-graficos/altura",
+  "id": "recursos-graficos/altura",
+  "isDocsHomePage": false,
+  "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+  "description": "| Coordenadas | Nombre      |Altura sobre el nivel de mar (m.s.n.m)|",
+  "source": "@site/docs/recursos-graficos/altura.mdx",
+  "sourceDirName": "recursos-graficos",
+  "slug": "/recursos-graficos/altura",
+  "permalink": "/recursos-graficos/altura",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/altura.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+    "permalink": "/recursos-graficos/mancha-urbana"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

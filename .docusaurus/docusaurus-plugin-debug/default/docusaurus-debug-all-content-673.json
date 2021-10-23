@@ -110,6 +110,22 @@
               },
               {
                 "type": "category",
+                "label": "Mapas y recursos gráficos",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "recursos-graficos/mancha-urbana"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "recursos-graficos/altura"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
                 "label": "tutorial-basics",
                 "items": [
                   {
@@ -445,6 +461,60 @@
               }
             },
             {
+              "unversionedId": "recursos-graficos/altura",
+              "id": "recursos-graficos/altura",
+              "isDocsHomePage": false,
+              "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+              "description": "| Coordenadas | Nombre      |Altura sobre el nivel de mar (m.s.n.m)|",
+              "source": "@site/docs/recursos-graficos/altura.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/altura",
+              "permalink": "/recursos-graficos/altura",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/altura.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/mancha-urbana"
+              },
+              "next": {
+                "title": "congratultions",
+                "permalink": "/tutorial-basics/congratultions"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/mancha-urbana",
+              "id": "recursos-graficos/mancha-urbana",
+              "isDocsHomePage": false,
+              "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+              "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+              "source": "@site/docs/recursos-graficos/mancha-urbana.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/mancha-urbana",
+              "permalink": "/recursos-graficos/mancha-urbana",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/mancha-urbana.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vacunación en Papalotla de Xicohténcatl.",
+                "permalink": "/salud-publica/pandemia-datos/vacunacion"
+              },
+              "next": {
+                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/altura"
+              }
+            },
+            {
               "unversionedId": "salud-publica/pandemia-datos/relevantes-datos",
               "id": "salud-publica/pandemia-datos/relevantes-datos",
               "isDocsHomePage": false,
@@ -494,8 +564,8 @@
                 "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
               },
               "next": {
-                "title": "congratultions",
-                "permalink": "/tutorial-basics/congratultions"
+                "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/mancha-urbana"
               }
             },
             {
@@ -514,8 +584,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Vacunación en Papalotla de Xicohténcatl.",
-                "permalink": "/salud-publica/pandemia-datos/vacunacion"
+                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/altura"
               }
             }
           ]
@@ -589,14 +659,14 @@
             },
             "nextItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/blog/"
             }
           }
         },
         {
-          "id": "welcome",
+          "id": "/",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/blog/",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -674,7 +744,7 @@
             ],
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/blog/"
             },
             "nextItem": {
               "title": "Long Blog Post",
@@ -736,7 +806,7 @@
           "items": [
             "aviso-de-privacidad",
             "estatutos-uno",
-            "welcome",
+            "/",
             "mdx-blog-post",
             "long-blog-post"
           ]
@@ -748,7 +818,7 @@
           "items": [
             "aviso-de-privacidad",
             "estatutos-uno",
-            "welcome",
+            "/",
             "mdx-blog-post",
             "long-blog-post"
           ],
@@ -764,14 +834,14 @@
         "/blog/tags/facebook": {
           "name": "facebook",
           "items": [
-            "welcome"
+            "/"
           ],
           "permalink": "/blog/tags/facebook"
         },
         "/blog/tags/hello": {
           "name": "hello",
           "items": [
-            "welcome",
+            "/",
             "long-blog-post"
           ],
           "permalink": "/blog/tags/hello"

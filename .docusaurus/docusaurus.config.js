@@ -79,10 +79,10 @@ export default {
           ]
         },
         {
-          "title": "Community",
+          "title": "Comunidad",
           "items": [
             {
-              "label": "Stack Overflow",
+              "label": "Facebook",
               "href": "https://stackoverflow.com/questions/tagged/docusaurus"
             },
             {

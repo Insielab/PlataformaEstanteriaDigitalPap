@@ -1,185 +1,215 @@
 {
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
   "/blog-7f7": {
-    "component": "a6aa9e1f",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "fb00eddb"
+        "content": "content---blogfb-0-f79"
       },
       {
-        "content": "224ffe2d"
+        "content": "content---blog-224-8fd"
       },
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/-c4a": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-d-9-f-c4a"
   },
   "/blog/archive-f4c": {
-    "component": "9e4087bc",
-    "archive": "b2f554cd"
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---blog-archiveb-2-f-393"
   },
   "/blog/aviso-de-privacidad-9ce": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "b9db02ee"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-aviso-de-privacidadb-9-d-f2b"
   },
   "/blog/estatutos-uno-0de": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "71b46f46"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-estatutos-uno-71-b-7a6"
   },
   "/blog/long-blog-post-f06": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
   "/blog/mdx-blog-post-bee": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
   "/blog/tags-e13": {
-    "component": "01a85c17",
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/docusaurus-887": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "fb00eddb"
+        "content": "content---blogfb-0-f79"
       },
       {
-        "content": "224ffe2d"
+        "content": "content---blog-224-8fd"
       },
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "metadata": "a80da1cf"
+    "metadata": "metadata---blog-tags-docusaurusa-80-728"
   },
   "/blog/tags/facebook-ede": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "metadata": "031793e1"
+    "metadata": "metadata---blog-tags-facebook-031-c52"
   },
   "/blog/tags/hello-4c2": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "metadata": "30a24c52"
+    "metadata": "metadata---blog-tags-hello-30-a-bed"
   },
   "/blog/tags/hola-5ae": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "224ffe2d"
+        "content": "content---blog-224-8fd"
       }
     ],
-    "metadata": "e16015ca"
+    "metadata": "metadata---blog-tags-holae-16-18a"
   },
   "/markdown-page-be1": {
-    "component": "1f391b9e",
-    "content": "393be207"
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
   },
   "/tags-d7a": {
-    "component": "3720c009",
-    "tags": "55960ee5"
+    "component": "component---theme-doc-tags-list-page-372-89e",
+    "tags": "tags---tags-559-690"
   },
-  "/-241": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/-45d": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-96c": {
-    "component": "17896441",
-    "content": "0e384e19"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
   },
   "/documentos-publicos/acta-cabildo-f04": {
-    "component": "17896441",
-    "content": "94040710"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentos-publicos-acta-cabildo-940-97c"
   },
   "/documentos-publicos/asignación-programas-050": {
-    "component": "17896441",
-    "content": "08d876f9"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentos-publicos-asignacion-programas-08-d-9e8"
   },
   "/documentos-publicos/fortamun-722": {
-    "component": "17896441",
-    "content": "1c5fb05c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentos-publicos-fortamun-1-c-5-09e"
   },
   "/documentos-publicos/presupuesto-egresos-17-6d6": {
-    "component": "17896441",
-    "content": "9491706e"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentos-publicos-presupuesto-egresos-17949-796"
   },
   "/documentos-publicos/servidores-publicos17-e9c": {
-    "component": "17896441",
-    "content": "398b4cfc"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---documentos-publicos-servidores-publicos-17398-53c"
   },
   "/historias-constumbres/agua-puebla-f34": {
-    "component": "17896441",
-    "content": "1a03dd1b"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-agua-puebla-1-a-0-173"
   },
   "/historias-constumbres/arqueologia-malinche-aab": {
-    "component": "17896441",
-    "content": "c1469297"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-arqueologia-malinchec-14-5e4"
   },
   "/historias-constumbres/impacto-volkswagen-a2c": {
-    "component": "17896441",
-    "content": "c1e8a660"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-impacto-volkswagenc-1-e-3b8"
   },
   "/historias-constumbres/la-muneca-letra-168": {
-    "component": "17896441",
-    "content": "de931836"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-la-muneca-letrade-9-7af"
   },
   "/historias-constumbres/organizacion-carnaval-721": {
-    "component": "17896441",
-    "content": "73567b1f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-organizacion-carnaval-735-ea4"
   },
   "/historias-constumbres/senor_del_monte-f1c": {
-    "component": "17896441",
-    "content": "7865cbe6"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-senor-del-monte-786-9ee"
+  },
+  "/recursos-graficos/altura-62e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-graficos-alturae-78-8e5"
+  },
+  "/recursos-graficos/mancha-urbana-8ec": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-graficos-mancha-urbana-2-c-6-2e2"
   },
   "/salud-publica/pandemia-datos/relevantes-datos-b02": {
-    "component": "17896441",
-    "content": "47d414aa"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---salud-publica-pandemia-datos-relevantes-datos-47-d-502"
   },
   "/salud-publica/pandemia-datos/vacunacion-dcb": {
-    "component": "17896441",
-    "content": "fbf9ad94"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---salud-publica-pandemia-datos-vacunacionfbf-82f"
   },
   "/tutorial-basics/congratultions-62b": {
-    "component": "17896441",
-    "content": "bdd5af0f"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---tutorial-basics-congratultionsbdd-108"
   }
 }

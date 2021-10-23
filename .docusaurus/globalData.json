@@ -71,6 +71,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "recursos-graficos/altura",
+              "path": "/recursos-graficos/altura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-graficos/mancha-urbana",
+              "path": "/recursos-graficos/mancha-urbana",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "salud-publica/pandemia-datos/relevantes-datos",
               "path": "/salud-publica/pandemia-datos/relevantes-datos",
               "sidebar": "tutorialSidebar"

@@ -119,6 +119,54 @@
                   {
                     "type": "doc",
                     "id": "recursos-graficos/altura"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "recursos-graficos/mapa"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "recursos-graficos/escudo-e-identidades"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Planes de desarrollo",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "planes-de-desarrollo/plan-desarrollo-2017-2021"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "planes-de-desarrollo/desarrollo-artesanias"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Polémicas y resoluciones",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "polemicas-resoluciones/fallecimiento-influenza"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "polemicas-resoluciones/elecciones-san-buenaventura"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "polemicas-resoluciones/relacion-papalotla-panzacola"
                   }
                 ],
                 "collapsed": true,
@@ -461,6 +509,168 @@
               }
             },
             {
+              "unversionedId": "planes-de-desarrollo/desarrollo-artesanias",
+              "id": "planes-de-desarrollo/desarrollo-artesanias",
+              "isDocsHomePage": false,
+              "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+              "description": "|Autor:|Viridiana Elizabeth Ponce Vilchis, Ángel David Flores Domínguez|",
+              "source": "@site/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+              "sourceDirName": "planes-de-desarrollo",
+              "slug": "/planes-de-desarrollo/desarrollo-artesanias",
+              "permalink": "/planes-de-desarrollo/desarrollo-artesanias",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plan de desarrollo municipal 2017-2021",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+              },
+              "next": {
+                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+              }
+            },
+            {
+              "unversionedId": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "isDocsHomePage": false,
+              "title": "Plan de desarrollo municipal 2017-2021",
+              "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+              "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+              "sourceDirName": "planes-de-desarrollo",
+              "slug": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+                "permalink": "/recursos-graficos/escudo-e-identidades"
+              },
+              "next": {
+                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/elecciones-san-buenaventura",
+              "id": "polemicas-resoluciones/elecciones-san-buenaventura",
+              "isDocsHomePage": false,
+              "title": "Polémica por la elecciones de San Buenaventura de 2016",
+              "description": "Solicitud de impugnación de las elecciones auxiliares de San Buenaventura, Papalotla dirigio al Tribunal Electoral de Tlaxcala",
+              "source": "@site/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/elecciones-san-buenaventura",
+              "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+                "permalink": "/polemicas-resoluciones/fallecimiento-influenza"
+              },
+              "next": {
+                "title": "La complicada relación entre Panzacola y Papalotla",
+                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/fallecimiento-influenza",
+              "id": "polemicas-resoluciones/fallecimiento-influenza",
+              "isDocsHomePage": false,
+              "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+              "description": "Exhorto del diputado Alberto Amaro Corona para el esclarecimiento del fallecimento de Blanca X. por un supuesto caso falso de Influenza H1N1 EN 2009.",
+              "source": "@site/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/fallecimiento-influenza",
+              "permalink": "/polemicas-resoluciones/fallecimiento-influenza",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+              },
+              "next": {
+                "title": "Polémica por la elecciones de San Buenaventura de 2016",
+                "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "id": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "isDocsHomePage": false,
+              "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+              "description": "Archivo con la petición a la Suprema Corte de Justicia de la Nación para la invalidación de la pertenencia del territorio \"Los Lavaderos\" al municipio de Xicohtzinco.",
+              "source": "@site/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+              },
+              "next": {
+                "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+                "permalink": "/polemicas-resoluciones/fallecimiento-influenza"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/relacion-papalotla-panzacola",
+              "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
+              "isDocsHomePage": false,
+              "title": "La complicada relación entre Panzacola y Papalotla",
+              "description": "|Autor:| Oscar Zambrano Lara |",
+              "source": "@site/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Polémica por la elecciones de San Buenaventura de 2016",
+                "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
+              },
+              "next": {
+                "title": "congratultions",
+                "permalink": "/tutorial-basics/congratultions"
+              }
+            },
+            {
               "unversionedId": "recursos-graficos/altura",
               "id": "recursos-graficos/altura",
               "isDocsHomePage": false,
@@ -483,8 +693,35 @@
                 "permalink": "/recursos-graficos/mancha-urbana"
               },
               "next": {
-                "title": "congratultions",
-                "permalink": "/tutorial-basics/congratultions"
+                "title": "Mapa del Municipio de Papalotla",
+                "permalink": "/recursos-graficos/mapa"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/escudo-e-identidades",
+              "id": "recursos-graficos/escudo-e-identidades",
+              "isDocsHomePage": false,
+              "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+              "description": "|Periodo|Administración|Previsualización|",
+              "source": "@site/docs/recursos-graficos/escudo-e-identidades.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/escudo-e-identidades",
+              "permalink": "/recursos-graficos/escudo-e-identidades",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/escudo-e-identidades.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mapa del Municipio de Papalotla",
+                "permalink": "/recursos-graficos/mapa"
+              },
+              "next": {
+                "title": "Plan de desarrollo municipal 2017-2021",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
               }
             },
             {
@@ -512,6 +749,33 @@
               "next": {
                 "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
                 "permalink": "/recursos-graficos/altura"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/mapa",
+              "id": "recursos-graficos/mapa",
+              "isDocsHomePage": false,
+              "title": "Mapa del Municipio de Papalotla",
+              "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+              "source": "@site/docs/recursos-graficos/mapa.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/mapa",
+              "permalink": "/recursos-graficos/mapa",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/mapa.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/altura"
+              },
+              "next": {
+                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+                "permalink": "/recursos-graficos/escudo-e-identidades"
               }
             },
             {
@@ -584,8 +848,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
-                "permalink": "/recursos-graficos/altura"
+                "title": "La complicada relación entre Panzacola y Papalotla",
+                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
               }
             }
           ]
@@ -601,8 +865,8 @@
           "id": "aviso-de-privacidad",
           "metadata": {
             "permalink": "/blog/aviso-de-privacidad",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-mdx-blog-post copy.mdx",
-            "source": "@site/blog/2021-10-17-mdx-blog-post copy.mdx",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
+            "source": "@site/blog/2021-10-17-privacidad.mdx",
             "title": "Aviso de privacidad",
             "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
             "date": "2021-10-17T00:00:00.000Z",
@@ -613,7 +877,7 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 3.405,
+            "readingTime": 3.455,
             "truncated": false,
             "authors": [],
             "nextItem": {
@@ -756,10 +1020,10 @@
           "id": "long-blog-post",
           "metadata": {
             "permalink": "/blog/long-blog-post",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
-            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
+            "source": "@site/blog/2019-05-29-long-blog-post.mdx",
             "title": "Long Blog Post",
-            "description": "This is the summary of a very long blog post,",
+            "description": "",
             "date": "2019-05-29T00:00:00.000Z",
             "formattedDate": "May 29, 2019",
             "tags": [
@@ -772,8 +1036,8 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 2.05,
-            "truncated": true,
+            "readingTime": 0,
+            "truncated": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",

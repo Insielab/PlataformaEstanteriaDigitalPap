@@ -21,12 +21,12 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-7f7": {
+  "/blog-720": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogfb-0-f79"
+        "content": "content---blog-8-b-0-5fc"
       },
       {
         "content": "content---blog-224-8fd"
@@ -38,7 +38,7 @@
         "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---blog-15-d-5d8"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
@@ -52,20 +52,20 @@
     "component": "component---theme-blog-archive-page-9-e-4-1d8",
     "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/blog/aviso-de-privacidad-9ce": {
+  "/blog/aviso-de-privacidad-aec": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-aviso-de-privacidadb-9-d-f2b"
+    "content": "content---blog-aviso-de-privacidadb-8-e-8f6"
   },
   "/blog/estatutos-uno-0de": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-estatutos-uno-71-b-7a6"
   },
-  "/blog/long-blog-post-f06": {
+  "/blog/long-blog-post-6d5": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-long-blog-post-736-bc7"
+    "content": "content---blog-long-blog-postd-66-286"
   },
   "/blog/mdx-blog-post-bee": {
     "component": "component---theme-blog-post-pageccc-cab",
@@ -77,12 +77,12 @@
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/docusaurus-887": {
+  "/blog/tags/docusaurus-201": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogfb-0-f79"
+        "content": "content---blog-8-b-0-5fc"
       },
       {
         "content": "content---blog-224-8fd"
@@ -94,7 +94,7 @@
         "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---blog-15-d-5d8"
       }
     ],
     "metadata": "metadata---blog-tags-docusaurusa-80-728"
@@ -109,7 +109,7 @@
     ],
     "metadata": "metadata---blog-tags-facebook-031-c52"
   },
-  "/blog/tags/hello-4c2": {
+  "/blog/tags/hello-a61": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
@@ -117,7 +117,7 @@
         "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---blog-871-381"
+        "content": "content---blog-15-d-5d8"
       }
     ],
     "metadata": "metadata---blog-tags-hello-30-a-bed"
@@ -140,7 +140,7 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-45d": {
+  "/-13f": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -192,13 +192,45 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---historias-constumbres-senor-del-monte-786-9ee"
   },
+  "/planes-de-desarrollo/desarrollo-artesanias-616": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---planes-de-desarrollo-desarrollo-artesaniasb-11-1c5"
+  },
+  "/planes-de-desarrollo/plan-desarrollo-2017-2021-c9a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---planes-de-desarrollo-plan-desarrollo-2017-202116-f-8f5"
+  },
+  "/polemicas-resoluciones/elecciones-san-buenaventura-bbb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---polemicas-resoluciones-elecciones-san-buenaventura-938-217"
+  },
+  "/polemicas-resoluciones/fallecimiento-influenza-1b9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---polemicas-resoluciones-fallecimiento-influenzaf-32-180"
+  },
+  "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos-0b0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---polemicas-resoluciones-papalotla-xicohtzinco-lavaderosa-9-a-ef4"
+  },
+  "/polemicas-resoluciones/relacion-papalotla-panzacola-ccd": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---polemicas-resoluciones-relacion-papalotla-panzacolaf-42-961"
+  },
   "/recursos-graficos/altura-62e": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---recursos-graficos-alturae-78-8e5"
   },
+  "/recursos-graficos/escudo-e-identidades-913": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-graficos-escudo-e-identidadesc-82-369"
+  },
   "/recursos-graficos/mancha-urbana-8ec": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---recursos-graficos-mancha-urbana-2-c-6-2e2"
+  },
+  "/recursos-graficos/mapa-4fa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-graficos-mapab-02-2c9"
   },
   "/salud-publica/pandemia-datos/relevantes-datos-b02": {
     "component": "component---theme-doc-item-178-a40",

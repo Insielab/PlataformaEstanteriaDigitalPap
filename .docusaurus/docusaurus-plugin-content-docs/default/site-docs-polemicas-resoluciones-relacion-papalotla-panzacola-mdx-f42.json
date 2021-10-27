@@ -1,0 +1,27 @@
+{
+  "unversionedId": "polemicas-resoluciones/relacion-papalotla-panzacola",
+  "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
+  "isDocsHomePage": false,
+  "title": "La complicada relación entre Panzacola y Papalotla",
+  "description": "|Autor:| Oscar Zambrano Lara |",
+  "source": "@site/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+  "sourceDirName": "polemicas-resoluciones",
+  "slug": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+  "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Polémica por la elecciones de San Buenaventura de 2016",
+    "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

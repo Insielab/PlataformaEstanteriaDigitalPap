@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','7f7'),
+    component: ComponentCreator('/blog','720'),
     exact: true
   },
   {
@@ -55,7 +55,7 @@ export default [
   },
   {
     path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad','9ce'),
+    component: ComponentCreator('/blog/aviso-de-privacidad','aec'),
     exact: true
   },
   {
@@ -65,7 +65,7 @@ export default [
   },
   {
     path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','f06'),
+    component: ComponentCreator('/blog/long-blog-post','6d5'),
     exact: true
   },
   {
@@ -80,7 +80,7 @@ export default [
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','887'),
+    component: ComponentCreator('/blog/tags/docusaurus','201'),
     exact: true
   },
   {
@@ -90,7 +90,7 @@ export default [
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','4c2'),
+    component: ComponentCreator('/blog/tags/hello','a61'),
     exact: true
   },
   {
@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','45d'),
+    component: ComponentCreator('/','13f'),
     routes: [
       {
         path: '/',
@@ -185,14 +185,62 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/planes-de-desarrollo/desarrollo-artesanias',
+        component: ComponentCreator('/planes-de-desarrollo/desarrollo-artesanias','616'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/planes-de-desarrollo/plan-desarrollo-2017-2021',
+        component: ComponentCreator('/planes-de-desarrollo/plan-desarrollo-2017-2021','c9a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/polemicas-resoluciones/elecciones-san-buenaventura',
+        component: ComponentCreator('/polemicas-resoluciones/elecciones-san-buenaventura','bbb'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/polemicas-resoluciones/fallecimiento-influenza',
+        component: ComponentCreator('/polemicas-resoluciones/fallecimiento-influenza','1b9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos',
+        component: ComponentCreator('/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos','0b0'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/polemicas-resoluciones/relacion-papalotla-panzacola',
+        component: ComponentCreator('/polemicas-resoluciones/relacion-papalotla-panzacola','ccd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/recursos-graficos/altura',
         component: ComponentCreator('/recursos-graficos/altura','62e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/recursos-graficos/escudo-e-identidades',
+        component: ComponentCreator('/recursos-graficos/escudo-e-identidades','913'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/recursos-graficos/mancha-urbana',
         component: ComponentCreator('/recursos-graficos/mancha-urbana','8ec'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-graficos/mapa',
+        component: ComponentCreator('/recursos-graficos/mapa','4fa'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

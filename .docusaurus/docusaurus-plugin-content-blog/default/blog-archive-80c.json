@@ -4,8 +4,8 @@
       "id": "aviso-de-privacidad",
       "metadata": {
         "permalink": "/blog/aviso-de-privacidad",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-mdx-blog-post copy.mdx",
-        "source": "@site/blog/2021-10-17-mdx-blog-post copy.mdx",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
+        "source": "@site/blog/2021-10-17-privacidad.mdx",
         "title": "Aviso de privacidad",
         "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
         "date": "2021-10-17T00:00:00.000Z",
@@ -16,7 +16,7 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 3.405,
+        "readingTime": 3.455,
         "truncated": false,
         "authors": [],
         "nextItem": {
@@ -159,10 +159,10 @@
       "id": "long-blog-post",
       "metadata": {
         "permalink": "/blog/long-blog-post",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
-        "source": "@site/blog/2019-05-29-long-blog-post.md",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
+        "source": "@site/blog/2019-05-29-long-blog-post.mdx",
         "title": "Long Blog Post",
-        "description": "This is the summary of a very long blog post,",
+        "description": "",
         "date": "2019-05-29T00:00:00.000Z",
         "formattedDate": "May 29, 2019",
         "tags": [
@@ -175,8 +175,8 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 2.05,
-        "truncated": true,
+        "readingTime": 0,
+        "truncated": false,
         "authors": [
           {
             "name": "Oscar Zambrano Lara",

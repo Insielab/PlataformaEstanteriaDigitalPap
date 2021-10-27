@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-graficos/mapa",
+  "id": "recursos-graficos/mapa",
+  "isDocsHomePage": false,
+  "title": "Mapa del Municipio de Papalotla",
+  "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+  "source": "@site/docs/recursos-graficos/mapa.mdx",
+  "sourceDirName": "recursos-graficos",
+  "slug": "/recursos-graficos/mapa",
+  "permalink": "/recursos-graficos/mapa",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/mapa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+    "permalink": "/recursos-graficos/altura"
+  },
+  "next": {
+    "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+    "permalink": "/recursos-graficos/escudo-e-identidades"
+  }
+}

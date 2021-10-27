@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-graficos/escudo-e-identidades",
+  "id": "recursos-graficos/escudo-e-identidades",
+  "isDocsHomePage": false,
+  "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+  "description": "|Periodo|Administración|Previsualización|",
+  "source": "@site/docs/recursos-graficos/escudo-e-identidades.mdx",
+  "sourceDirName": "recursos-graficos",
+  "slug": "/recursos-graficos/escudo-e-identidades",
+  "permalink": "/recursos-graficos/escudo-e-identidades",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/escudo-e-identidades.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mapa del Municipio de Papalotla",
+    "permalink": "/recursos-graficos/mapa"
+  },
+  "next": {
+    "title": "Plan de desarrollo municipal 2017-2021",
+    "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+  }
+}

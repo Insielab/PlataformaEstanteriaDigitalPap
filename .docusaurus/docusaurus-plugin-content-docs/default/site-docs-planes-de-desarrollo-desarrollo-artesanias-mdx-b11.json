@@ -1,0 +1,27 @@
+{
+  "unversionedId": "planes-de-desarrollo/desarrollo-artesanias",
+  "id": "planes-de-desarrollo/desarrollo-artesanias",
+  "isDocsHomePage": false,
+  "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+  "description": "|Autor:|Viridiana Elizabeth Ponce Vilchis, Ángel David Flores Domínguez|",
+  "source": "@site/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+  "sourceDirName": "planes-de-desarrollo",
+  "slug": "/planes-de-desarrollo/desarrollo-artesanias",
+  "permalink": "/planes-de-desarrollo/desarrollo-artesanias",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plan de desarrollo municipal 2017-2021",
+    "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+  },
+  "next": {
+    "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+    "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+  }
+}

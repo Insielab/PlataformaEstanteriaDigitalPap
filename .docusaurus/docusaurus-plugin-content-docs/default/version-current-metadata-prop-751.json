@@ -123,6 +123,62 @@
             "type": "link",
             "label": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
             "href": "/recursos-graficos/altura"
+          },
+          {
+            "type": "link",
+            "label": "Mapa del Municipio de Papalotla",
+            "href": "/recursos-graficos/mapa"
+          },
+          {
+            "type": "link",
+            "label": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+            "href": "/recursos-graficos/escudo-e-identidades"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Planes de desarrollo",
+        "items": [
+          {
+            "type": "link",
+            "label": "Plan de desarrollo municipal 2017-2021",
+            "href": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+          },
+          {
+            "type": "link",
+            "label": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+            "href": "/planes-de-desarrollo/desarrollo-artesanias"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Polémicas y resoluciones",
+        "items": [
+          {
+            "type": "link",
+            "label": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+            "href": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+          },
+          {
+            "type": "link",
+            "label": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+            "href": "/polemicas-resoluciones/fallecimiento-influenza"
+          },
+          {
+            "type": "link",
+            "label": "Polémica por la elecciones de San Buenaventura de 2016",
+            "href": "/polemicas-resoluciones/elecciones-san-buenaventura"
+          },
+          {
+            "type": "link",
+            "label": "La complicada relación entre Panzacola y Papalotla",
+            "href": "/polemicas-resoluciones/relacion-papalotla-panzacola"
           }
         ],
         "collapsed": true,

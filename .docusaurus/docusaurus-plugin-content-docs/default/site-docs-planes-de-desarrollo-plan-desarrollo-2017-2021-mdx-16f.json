@@ -1,0 +1,27 @@
+{
+  "unversionedId": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+  "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+  "isDocsHomePage": false,
+  "title": "Plan de desarrollo municipal 2017-2021",
+  "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+  "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+  "sourceDirName": "planes-de-desarrollo",
+  "slug": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+  "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+    "permalink": "/recursos-graficos/escudo-e-identidades"
+  },
+  "next": {
+    "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+    "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+  }
+}

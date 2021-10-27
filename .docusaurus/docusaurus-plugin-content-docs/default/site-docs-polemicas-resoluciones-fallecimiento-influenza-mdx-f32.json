@@ -1,0 +1,27 @@
+{
+  "unversionedId": "polemicas-resoluciones/fallecimiento-influenza",
+  "id": "polemicas-resoluciones/fallecimiento-influenza",
+  "isDocsHomePage": false,
+  "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+  "description": "Exhorto del diputado Alberto Amaro Corona para el esclarecimiento del fallecimento de Blanca X. por un supuesto caso falso de Influenza H1N1 EN 2009.",
+  "source": "@site/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+  "sourceDirName": "polemicas-resoluciones",
+  "slug": "/polemicas-resoluciones/fallecimiento-influenza",
+  "permalink": "/polemicas-resoluciones/fallecimiento-influenza",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+    "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+  },
+  "next": {
+    "title": "Polémica por la elecciones de San Buenaventura de 2016",
+    "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
+  }
+}

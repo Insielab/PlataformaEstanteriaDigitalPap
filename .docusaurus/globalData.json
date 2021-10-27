@@ -71,13 +71,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "planes-de-desarrollo/desarrollo-artesanias",
+              "path": "/planes-de-desarrollo/desarrollo-artesanias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "path": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "polemicas-resoluciones/elecciones-san-buenaventura",
+              "path": "/polemicas-resoluciones/elecciones-san-buenaventura",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "polemicas-resoluciones/fallecimiento-influenza",
+              "path": "/polemicas-resoluciones/fallecimiento-influenza",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "path": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
+              "path": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "recursos-graficos/altura",
               "path": "/recursos-graficos/altura",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "recursos-graficos/escudo-e-identidades",
+              "path": "/recursos-graficos/escudo-e-identidades",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "recursos-graficos/mancha-urbana",
               "path": "/recursos-graficos/mancha-urbana",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-graficos/mapa",
+              "path": "/recursos-graficos/mapa",
               "sidebar": "tutorialSidebar"
             },
             {

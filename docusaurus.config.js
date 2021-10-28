@@ -56,7 +56,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Acutualizaciones', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla',
             label: 'Repositorio de GitHub',
             position: 'right',
           },
@@ -96,7 +96,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Facebook',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://www.facebook.com/EstanteriaDigital',
               },
               {
                 label: 'Discord',

@@ -1,7 +1,7 @@
 export default {
   "title": "Estantería Digital de Papalotla",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://estanteria.impossiblebox.me",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "ignore",
@@ -47,7 +47,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla",
           "label": "Repositorio de GitHub",
           "position": "right"
         }
@@ -83,7 +83,7 @@ export default {
           "items": [
             {
               "label": "Facebook",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "href": "https://www.facebook.com/EstanteriaDigital"
             },
             {
               "label": "Discord",

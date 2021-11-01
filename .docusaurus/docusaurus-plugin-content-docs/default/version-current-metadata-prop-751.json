@@ -186,6 +186,85 @@
       },
       {
         "type": "category",
+        "label": "Recursos estadísticos",
+        "items": [
+          {
+            "type": "category",
+            "label": "Censo de Población y Vivienda 2021",
+            "items": [
+              {
+                "type": "link",
+                "label": "Resumen | Censo de Población y Vivienda 2020",
+                "href": "/recursos-estadisticos/censo-poblacion/resumen"
+              },
+              {
+                "type": "link",
+                "label": "Población",
+                "href": "/recursos-estadisticos/censo-poblacion/poblacion"
+              },
+              {
+                "type": "link",
+                "label": "Fecundidad y migración",
+                "href": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+              },
+              {
+                "type": "link",
+                "label": "Etnicidad",
+                "href": "/recursos-estadisticos/censo-poblacion/etnicidad"
+              },
+              {
+                "type": "link",
+                "label": "Población con capacidades diferentes",
+                "href": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+              },
+              {
+                "type": "link",
+                "label": "Religión y situación conyugal",
+                "href": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+              },
+              {
+                "type": "link",
+                "label": "Educación",
+                "href": "/recursos-estadisticos/censo-poblacion/educacion"
+              },
+              {
+                "type": "link",
+                "label": "Características económicas",
+                "href": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+              },
+              {
+                "type": "link",
+                "label": "Acceso a servicios de salud",
+                "href": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+              },
+              {
+                "type": "link",
+                "label": "Características de la vivienda",
+                "href": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Archivos musicales",
+        "items": [
+          {
+            "type": "link",
+            "label": "Música del Carnaval de Papalotla",
+            "href": "/archivos-musicales.mdx/carnaval-papalotla"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "tutorial-basics",
         "items": [
           {

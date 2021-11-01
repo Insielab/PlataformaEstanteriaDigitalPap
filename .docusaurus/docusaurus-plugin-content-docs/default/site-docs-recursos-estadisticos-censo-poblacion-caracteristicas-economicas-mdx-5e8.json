@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+  "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+  "isDocsHomePage": false,
+  "title": "Características económicas",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+  "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Educación",
+    "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
+  },
+  "next": {
+    "title": "Acceso a servicios de salud",
+    "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+  }
+}

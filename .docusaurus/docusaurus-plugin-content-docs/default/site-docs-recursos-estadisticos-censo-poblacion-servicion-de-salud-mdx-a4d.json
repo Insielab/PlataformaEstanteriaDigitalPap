@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+  "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+  "isDocsHomePage": false,
+  "title": "Acceso a servicios de salud",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+  "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Características económicas",
+    "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+  },
+  "next": {
+    "title": "Características de la vivienda",
+    "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+  }
+}

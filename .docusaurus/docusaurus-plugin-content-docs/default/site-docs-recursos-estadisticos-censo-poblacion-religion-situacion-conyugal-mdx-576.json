@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+  "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+  "isDocsHomePage": false,
+  "title": "Religión y situación conyugal",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+  "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Población con capacidades diferentes",
+    "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+  },
+  "next": {
+    "title": "Educación",
+    "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
+  }
+}

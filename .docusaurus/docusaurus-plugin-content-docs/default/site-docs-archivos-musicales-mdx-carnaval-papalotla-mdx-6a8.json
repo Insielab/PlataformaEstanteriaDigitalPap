@@ -1,0 +1,27 @@
+{
+  "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",
+  "id": "archivos-musicales.mdx/carnaval-papalotla",
+  "isDocsHomePage": false,
+  "title": "Música del Carnaval de Papalotla",
+  "description": "Tabla de datos",
+  "source": "@site/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+  "sourceDirName": "archivos-musicales.mdx",
+  "slug": "/archivos-musicales.mdx/carnaval-papalotla",
+  "permalink": "/archivos-musicales.mdx/carnaval-papalotla",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Características de la vivienda",
+    "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

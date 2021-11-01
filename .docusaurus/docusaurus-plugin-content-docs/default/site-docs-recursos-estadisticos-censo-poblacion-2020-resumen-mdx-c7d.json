@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion-2020/resumen",
+  "id": "recursos-estadisticos/censo-poblacion-2020/resumen",
+  "isDocsHomePage": false,
+  "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+  "description": "ssss",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion-2020/resumen.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion-2020",
+  "slug": "/recursos-estadisticos/censo-poblacion-2020/resumen",
+  "permalink": "/recursos-estadisticos/censo-poblacion-2020/resumen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion-2020/resumen.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "La complicada relación entre Panzacola y Papalotla",
+    "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

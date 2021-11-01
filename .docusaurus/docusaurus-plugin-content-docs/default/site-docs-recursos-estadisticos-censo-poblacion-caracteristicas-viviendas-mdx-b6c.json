@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+  "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+  "isDocsHomePage": false,
+  "title": "Características de la vivienda",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+  "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Acceso a servicios de salud",
+    "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+  },
+  "next": {
+    "title": "Música del Carnaval de Papalotla",
+    "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+  }
+}

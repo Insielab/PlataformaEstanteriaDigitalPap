@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/resumen",
+  "id": "recursos-estadisticos/censo-poblacion/resumen",
+  "isDocsHomePage": false,
+  "title": "Resumen | Censo de Población y Vivienda 2020",
+  "description": "Podrás descargar los datos del Censo de Población y Vivienda 2020",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/resumen",
+  "permalink": "/recursos-estadisticos/censo-poblacion/resumen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "La complicada relación entre Panzacola y Papalotla",
+    "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+  },
+  "next": {
+    "title": "Población",
+    "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
+  }
+}

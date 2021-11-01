@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+  "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+  "isDocsHomePage": false,
+  "title": "Población con capacidades diferentes",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+  "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etnicidad",
+    "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+  },
+  "next": {
+    "title": "Religión y situación conyugal",
+    "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+  }
+}

@@ -110,11 +110,17 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','13f'),
+    component: ComponentCreator('/','990'),
     routes: [
       {
         path: '/',
         component: ComponentCreator('/','96c'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/archivos-musicales.mdx/carnaval-papalotla',
+        component: ComponentCreator('/archivos-musicales.mdx/carnaval-papalotla','296'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
@@ -217,6 +223,66 @@ export default [
       {
         path: '/polemicas-resoluciones/relacion-papalotla-panzacola',
         component: ComponentCreator('/polemicas-resoluciones/relacion-papalotla-panzacola','ccd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/caracteristicas-economicas',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/caracteristicas-economicas','75a'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas','5a3'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/educacion',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/educacion','926'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/etnicidad',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/etnicidad','ee7'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/fecundidad-migracion',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/fecundidad-migracion','0c2'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/poblacion',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/poblacion','8ef'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes','5d9'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal','e33'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/resumen',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/resumen','eea'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/recursos-estadisticos/censo-poblacion/servicion-de-salud',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/servicion-de-salud','9fa'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

@@ -174,6 +174,74 @@
               },
               {
                 "type": "category",
+                "label": "Recursos estadísticos",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Censo de Población y Vivienda 2021",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/resumen"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/poblacion"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/etnicidad"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/educacion"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Archivos musicales",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "archivos-musicales.mdx/carnaval-papalotla"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
                 "label": "tutorial-basics",
                 "items": [
                   {
@@ -187,6 +255,33 @@
             ]
           },
           "docs": [
+            {
+              "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",
+              "id": "archivos-musicales.mdx/carnaval-papalotla",
+              "isDocsHomePage": false,
+              "title": "Música del Carnaval de Papalotla",
+              "description": "Tabla de datos",
+              "source": "@site/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+              "sourceDirName": "archivos-musicales.mdx",
+              "slug": "/archivos-musicales.mdx/carnaval-papalotla",
+              "permalink": "/archivos-musicales.mdx/carnaval-papalotla",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Características de la vivienda",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+              },
+              "next": {
+                "title": "congratultions",
+                "permalink": "/tutorial-basics/congratultions"
+              }
+            },
             {
               "unversionedId": "documentos-publicos/acta-cabildo",
               "id": "documentos-publicos/acta-cabildo",
@@ -666,8 +761,278 @@
                 "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
               },
               "next": {
-                "title": "congratultions",
-                "permalink": "/tutorial-basics/congratultions"
+                "title": "Resumen | Censo de Población y Vivienda 2020",
+                "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "isDocsHomePage": false,
+              "title": "Características económicas",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Educación",
+                "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
+              },
+              "next": {
+                "title": "Acceso a servicios de salud",
+                "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "isDocsHomePage": false,
+              "title": "Características de la vivienda",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acceso a servicios de salud",
+                "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+              },
+              "next": {
+                "title": "Música del Carnaval de Papalotla",
+                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/educacion",
+              "id": "recursos-estadisticos/censo-poblacion/educacion",
+              "isDocsHomePage": false,
+              "title": "Educación",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/educacion",
+              "permalink": "/recursos-estadisticos/censo-poblacion/educacion",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Religión y situación conyugal",
+                "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+              },
+              "next": {
+                "title": "Características económicas",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/etnicidad",
+              "id": "recursos-estadisticos/censo-poblacion/etnicidad",
+              "isDocsHomePage": false,
+              "title": "Etnicidad",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/etnicidad",
+              "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Fecundidad y migración",
+                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+              },
+              "next": {
+                "title": "Población con capacidades diferentes",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "isDocsHomePage": false,
+              "title": "Fecundidad y migración",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Población",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
+              },
+              "next": {
+                "title": "Etnicidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion",
+              "id": "recursos-estadisticos/censo-poblacion/poblacion",
+              "isDocsHomePage": false,
+              "title": "Población",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/poblacion",
+              "permalink": "/recursos-estadisticos/censo-poblacion/poblacion",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resumen | Censo de Población y Vivienda 2020",
+                "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
+              },
+              "next": {
+                "title": "Fecundidad y migración",
+                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "isDocsHomePage": false,
+              "title": "Población con capacidades diferentes",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Etnicidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+              },
+              "next": {
+                "title": "Religión y situación conyugal",
+                "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "isDocsHomePage": false,
+              "title": "Religión y situación conyugal",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Población con capacidades diferentes",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+              },
+              "next": {
+                "title": "Educación",
+                "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/resumen",
+              "id": "recursos-estadisticos/censo-poblacion/resumen",
+              "isDocsHomePage": false,
+              "title": "Resumen | Censo de Población y Vivienda 2020",
+              "description": "Podrás descargar los datos del Censo de Población y Vivienda 2020",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/resumen",
+              "permalink": "/recursos-estadisticos/censo-poblacion/resumen",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "La complicada relación entre Panzacola y Papalotla",
+                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+              },
+              "next": {
+                "title": "Población",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "isDocsHomePage": false,
+              "title": "Acceso a servicios de salud",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Características económicas",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+              },
+              "next": {
+                "title": "Características de la vivienda",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
               }
             },
             {
@@ -848,8 +1213,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "La complicada relación entre Panzacola y Papalotla",
-                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+                "title": "Música del Carnaval de Papalotla",
+                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
               }
             }
           ]

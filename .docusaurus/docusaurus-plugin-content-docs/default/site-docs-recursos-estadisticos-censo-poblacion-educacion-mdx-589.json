@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/educacion",
+  "id": "recursos-estadisticos/censo-poblacion/educacion",
+  "isDocsHomePage": false,
+  "title": "Educación",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/educacion",
+  "permalink": "/recursos-estadisticos/censo-poblacion/educacion",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Religión y situación conyugal",
+    "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+  },
+  "next": {
+    "title": "Características económicas",
+    "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+  }
+}

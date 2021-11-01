@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion",
+  "id": "recursos-estadisticos/censo-poblacion/poblacion",
+  "isDocsHomePage": false,
+  "title": "Población",
+  "description": "Tabla de datos",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/poblacion",
+  "permalink": "/recursos-estadisticos/censo-poblacion/poblacion",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resumen | Censo de Población y Vivienda 2020",
+    "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
+  },
+  "next": {
+    "title": "Fecundidad y migración",
+    "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+  }
+}

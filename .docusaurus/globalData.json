@@ -11,6 +11,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "archivos-musicales.mdx/carnaval-papalotla",
+              "path": "/archivos-musicales.mdx/carnaval-papalotla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "documentos-publicos/acta-cabildo",
               "path": "/documentos-publicos/acta-cabildo",
               "sidebar": "tutorialSidebar"
@@ -98,6 +103,56 @@
             {
               "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
               "path": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "path": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "path": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/educacion",
+              "path": "/recursos-estadisticos/censo-poblacion/educacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/etnicidad",
+              "path": "/recursos-estadisticos/censo-poblacion/etnicidad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "path": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/poblacion",
+              "path": "/recursos-estadisticos/censo-poblacion/poblacion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "path": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "path": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/resumen",
+              "path": "/recursos-estadisticos/censo-poblacion/resumen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "path": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
               "sidebar": "tutorialSidebar"
             },
             {

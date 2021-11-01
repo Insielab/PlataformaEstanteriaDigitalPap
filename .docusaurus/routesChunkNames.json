@@ -140,13 +140,17 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-13f": {
+  "/-990": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
   "/-96c": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---0-e-3-279"
+  },
+  "/archivos-musicales.mdx/carnaval-papalotla-296": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---archivos-musicales-mdx-carnaval-papalotla-6-a-8-978"
   },
   "/documentos-publicos/acta-cabildo-f04": {
     "component": "component---theme-doc-item-178-a40",
@@ -215,6 +219,46 @@
   "/polemicas-resoluciones/relacion-papalotla-panzacola-ccd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---polemicas-resoluciones-relacion-papalotla-panzacolaf-42-961"
+  },
+  "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas-75a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-caracteristicas-economicas-5-e-8-a1f"
+  },
+  "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas-5a3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-caracteristicas-viviendasb-6-c-838"
+  },
+  "/recursos-estadisticos/censo-poblacion/educacion-926": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-educacion-589-bbb"
+  },
+  "/recursos-estadisticos/censo-poblacion/etnicidad-ee7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-etnicidade-4-a-9a4"
+  },
+  "/recursos-estadisticos/censo-poblacion/fecundidad-migracion-0c2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-fecundidad-migracion-79-f-9bd"
+  },
+  "/recursos-estadisticos/censo-poblacion/poblacion-8ef": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-poblacionb-21-46d"
+  },
+  "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes-5d9": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-poblacion-capacidad-diferentes-5-e-5-c91"
+  },
+  "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal-e33": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-religion-situacion-conyugal-576-af7"
+  },
+  "/recursos-estadisticos/censo-poblacion/resumen-eea": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-resumend-73-d1b"
+  },
+  "/recursos-estadisticos/censo-poblacion/servicion-de-salud-9fa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---recursos-estadisticos-censo-poblacion-servicion-de-saluda-4-d-d5b"
   },
   "/recursos-graficos/altura-62e": {
     "component": "component---theme-doc-item-178-a40",

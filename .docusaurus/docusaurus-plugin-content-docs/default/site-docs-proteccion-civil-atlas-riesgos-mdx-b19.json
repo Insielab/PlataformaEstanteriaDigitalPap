@@ -1,0 +1,27 @@
+{
+  "unversionedId": "proteccion-civil/atlas-riesgos",
+  "id": "proteccion-civil/atlas-riesgos",
+  "isDocsHomePage": false,
+  "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+  "description": "|Autor:| Acierto consultores, S.C. / H. Ayuntamiento de Papalotla de Xicohténcatl |",
+  "source": "@site/docs/proteccion-civil/atlas-riesgos.mdx",
+  "sourceDirName": "proteccion-civil",
+  "slug": "/proteccion-civil/atlas-riesgos",
+  "permalink": "/proteccion-civil/atlas-riesgos",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/proteccion-civil/atlas-riesgos.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Música del Carnaval de Papalotla",
+    "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+  },
+  "next": {
+    "title": "Reglamento de tránsito municipal",
+    "permalink": "/leyes-estatales-municipales/regalamento-transito"
+  }
+}

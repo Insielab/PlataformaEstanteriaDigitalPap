@@ -76,6 +76,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "leyes-estatales-municipales/regalamento-transito",
+              "path": "/leyes-estatales-municipales/regalamento-transito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "planes-de-desarrollo/desarrollo-artesanias",
               "path": "/planes-de-desarrollo/desarrollo-artesanias",
               "sidebar": "tutorialSidebar"
@@ -103,6 +108,11 @@
             {
               "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
               "path": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proteccion-civil/atlas-riesgos",
+              "path": "/proteccion-civil/atlas-riesgos",
               "sidebar": "tutorialSidebar"
             },
             {

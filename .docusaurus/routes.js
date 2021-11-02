@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','990'),
+    component: ComponentCreator('/','390'),
     routes: [
       {
         path: '/',
@@ -191,6 +191,12 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
+        path: '/leyes-estatales-municipales/regalamento-transito',
+        component: ComponentCreator('/leyes-estatales-municipales/regalamento-transito','7b5'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
         path: '/planes-de-desarrollo/desarrollo-artesanias',
         component: ComponentCreator('/planes-de-desarrollo/desarrollo-artesanias','616'),
         exact: true,
@@ -223,6 +229,12 @@ export default [
       {
         path: '/polemicas-resoluciones/relacion-papalotla-panzacola',
         component: ComponentCreator('/polemicas-resoluciones/relacion-papalotla-panzacola','ccd'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/proteccion-civil/atlas-riesgos',
+        component: ComponentCreator('/proteccion-civil/atlas-riesgos','bbb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

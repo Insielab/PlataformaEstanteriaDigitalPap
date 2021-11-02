@@ -1,0 +1,27 @@
+{
+  "unversionedId": "leyes-estatales-municipales/regalamento-transito",
+  "id": "leyes-estatales-municipales/regalamento-transito",
+  "isDocsHomePage": false,
+  "title": "Reglamento de tránsito municipal",
+  "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+  "source": "@site/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+  "sourceDirName": "leyes-estatales-municipales",
+  "slug": "/leyes-estatales-municipales/regalamento-transito",
+  "permalink": "/leyes-estatales-municipales/regalamento-transito",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+    "permalink": "/proteccion-civil/atlas-riesgos"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

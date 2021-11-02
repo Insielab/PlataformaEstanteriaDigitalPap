@@ -265,6 +265,32 @@
       },
       {
         "type": "category",
+        "label": "Protección civil",
+        "items": [
+          {
+            "type": "link",
+            "label": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+            "href": "/proteccion-civil/atlas-riesgos"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Leyes estatales y municipales",
+        "items": [
+          {
+            "type": "link",
+            "label": "Reglamento de tránsito municipal",
+            "href": "/leyes-estatales-municipales/regalamento-transito"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
         "label": "tutorial-basics",
         "items": [
           {

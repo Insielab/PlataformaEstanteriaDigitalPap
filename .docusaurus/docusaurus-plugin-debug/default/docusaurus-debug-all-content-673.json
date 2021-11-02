@@ -242,6 +242,30 @@
               },
               {
                 "type": "category",
+                "label": "Protección civil",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "proteccion-civil/atlas-riesgos"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Leyes estatales y municipales",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "leyes-estatales-municipales/regalamento-transito"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
                 "label": "tutorial-basics",
                 "items": [
                   {
@@ -278,8 +302,8 @@
                 "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
               },
               "next": {
-                "title": "congratultions",
-                "permalink": "/tutorial-basics/congratultions"
+                "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+                "permalink": "/proteccion-civil/atlas-riesgos"
               }
             },
             {
@@ -604,6 +628,33 @@
               }
             },
             {
+              "unversionedId": "leyes-estatales-municipales/regalamento-transito",
+              "id": "leyes-estatales-municipales/regalamento-transito",
+              "isDocsHomePage": false,
+              "title": "Reglamento de tránsito municipal",
+              "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+              "source": "@site/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+              "sourceDirName": "leyes-estatales-municipales",
+              "slug": "/leyes-estatales-municipales/regalamento-transito",
+              "permalink": "/leyes-estatales-municipales/regalamento-transito",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+                "permalink": "/proteccion-civil/atlas-riesgos"
+              },
+              "next": {
+                "title": "congratultions",
+                "permalink": "/tutorial-basics/congratultions"
+              }
+            },
+            {
               "unversionedId": "planes-de-desarrollo/desarrollo-artesanias",
               "id": "planes-de-desarrollo/desarrollo-artesanias",
               "isDocsHomePage": false,
@@ -763,6 +814,33 @@
               "next": {
                 "title": "Resumen | Censo de Población y Vivienda 2020",
                 "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
+              }
+            },
+            {
+              "unversionedId": "proteccion-civil/atlas-riesgos",
+              "id": "proteccion-civil/atlas-riesgos",
+              "isDocsHomePage": false,
+              "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+              "description": "|Autor:| Acierto consultores, S.C. / H. Ayuntamiento de Papalotla de Xicohténcatl |",
+              "source": "@site/docs/proteccion-civil/atlas-riesgos.mdx",
+              "sourceDirName": "proteccion-civil",
+              "slug": "/proteccion-civil/atlas-riesgos",
+              "permalink": "/proteccion-civil/atlas-riesgos",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/proteccion-civil/atlas-riesgos.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Música del Carnaval de Papalotla",
+                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+              },
+              "next": {
+                "title": "Reglamento de tránsito municipal",
+                "permalink": "/leyes-estatales-municipales/regalamento-transito"
               }
             },
             {
@@ -1213,8 +1291,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Música del Carnaval de Papalotla",
-                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+                "title": "Reglamento de tránsito municipal",
+                "permalink": "/leyes-estatales-municipales/regalamento-transito"
               }
             }
           ]

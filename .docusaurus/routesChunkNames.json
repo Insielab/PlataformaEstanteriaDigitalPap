@@ -140,7 +140,7 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-990": {
+  "/-390": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -196,6 +196,10 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---historias-constumbres-senor-del-monte-786-9ee"
   },
+  "/leyes-estatales-municipales/regalamento-transito-7b5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---leyes-estatales-municipales-regalamento-transito-0-ec-195"
+  },
   "/planes-de-desarrollo/desarrollo-artesanias-616": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---planes-de-desarrollo-desarrollo-artesaniasb-11-1c5"
@@ -219,6 +223,10 @@
   "/polemicas-resoluciones/relacion-papalotla-panzacola-ccd": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---polemicas-resoluciones-relacion-papalotla-panzacolaf-42-961"
+  },
+  "/proteccion-civil/atlas-riesgos-bbb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---proteccion-civil-atlas-riesgosb-19-ca1"
   },
   "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas-75a": {
     "component": "component---theme-doc-item-178-a40",

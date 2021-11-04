@@ -1,0 +1,27 @@
+{
+  "unversionedId": "salud-publica/pandemia-datos/positivo-presidente",
+  "id": "salud-publica/pandemia-datos/positivo-presidente",
+  "isDocsHomePage": false,
+  "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+  "description": "|Autor:|Oscar Zambrano Lara|",
+  "source": "@site/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
+  "sourceDirName": "salud-publica/pandemia-datos",
+  "slug": "/salud-publica/pandemia-datos/positivo-presidente",
+  "permalink": "/salud-publica/pandemia-datos/positivo-presidente",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vacunación en Papalotla de Xicohténcatl.",
+    "permalink": "/salud-publica/pandemia-datos/vacunacion"
+  },
+  "next": {
+    "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+    "permalink": "/recursos-graficos/mancha-urbana"
+  }
+}

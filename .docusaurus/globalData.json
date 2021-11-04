@@ -186,6 +186,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "salud-publica/pandemia-datos/positivo-presidente",
+              "path": "/salud-publica/pandemia-datos/positivo-presidente",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "salud-publica/pandemia-datos/relevantes-datos",
               "path": "/salud-publica/pandemia-datos/relevantes-datos",
               "sidebar": "tutorialSidebar"

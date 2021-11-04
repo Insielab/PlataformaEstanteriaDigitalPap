@@ -11,9 +11,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/salud-publica/pandemia-datos/vacunacion.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +21,7 @@
     "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
   },
   "next": {
-    "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
-    "permalink": "/recursos-graficos/mancha-urbana"
+    "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+    "permalink": "/salud-publica/pandemia-datos/positivo-presidente"
   }
 }

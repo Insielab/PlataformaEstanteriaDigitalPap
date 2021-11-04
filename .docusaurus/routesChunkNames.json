@@ -140,7 +140,7 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-390": {
+  "/-2e6": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -283,6 +283,10 @@
   "/recursos-graficos/mapa-4fa": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---recursos-graficos-mapab-02-2c9"
+  },
+  "/salud-publica/pandemia-datos/positivo-presidente-be3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---salud-publica-pandemia-datos-positivo-presidentea-2-a-5a3"
   },
   "/salud-publica/pandemia-datos/relevantes-datos-b02": {
     "component": "component---theme-doc-item-178-a40",

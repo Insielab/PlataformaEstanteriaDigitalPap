@@ -110,7 +110,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','390'),
+    component: ComponentCreator('/','2e6'),
     routes: [
       {
         path: '/',
@@ -319,6 +319,12 @@ export default [
       {
         path: '/recursos-graficos/mapa',
         component: ComponentCreator('/recursos-graficos/mapa','4fa'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/salud-publica/pandemia-datos/positivo-presidente',
+        component: ComponentCreator('/salud-publica/pandemia-datos/positivo-presidente','be3'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

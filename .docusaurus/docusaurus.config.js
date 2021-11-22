@@ -43,7 +43,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Acutualizaciones",
+          "label": "Actualizaciones",
           "position": "left"
         },
         {
@@ -66,11 +66,11 @@ export default {
             },
             {
               "label": "Consejo de Contenido",
-              "to": "/blog/estatutos-uno"
+              "to": "/blog/consejo"
             },
             {
               "label": "Estatutos de finaciación",
-              "to": "/blog/estatutos-uno"
+              "to": "/blog/estatutos"
             },
             {
               "label": " ",
@@ -86,24 +86,20 @@ export default {
               "href": "https://www.facebook.com/EstanteriaDigital"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Twitter",
               "href": "https://twitter.com/docusaurus"
             }
           ]
         },
         {
-          "title": "Declaraciones sobre la Administración de la Estantería",
+          "title": "Sobre la la Estantería",
           "items": [
             {
-              "label": "Blog",
+              "label": "¿Qué es?",
               "to": "/blog/estatutos-uno"
             },
             {
-              "label": "GitHub",
+              "label": "¿Quiénes somos?",
               "href": "https://github.com/facebook/docusaurus"
             }
           ]

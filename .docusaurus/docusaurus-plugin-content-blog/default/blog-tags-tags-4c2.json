@@ -1,9 +1,23 @@
 {
+  "/blog/tags/actualizacion": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/actualizacion",
+    "name": "actualizacion",
+    "count": 1,
+    "permalink": "/blog/tags/actualizacion"
+  },
+  "/blog/tags/navidad": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/navidad",
+    "name": "navidad",
+    "count": 1,
+    "permalink": "/blog/tags/navidad"
+  },
   "/blog/tags/docusaurus": {
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/docusaurus",
     "name": "docusaurus",
-    "count": 5,
+    "count": 4,
     "permalink": "/blog/tags/docusaurus"
   },
   "/blog/tags/hola": {
@@ -26,5 +40,12 @@
     "name": "hello",
     "count": 2,
     "permalink": "/blog/tags/hello"
+  },
+  "/blog/tags/estatutos": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/estatutos",
+    "name": "estatutos",
+    "count": 1,
+    "permalink": "/blog/tags/estatutos"
   }
 }

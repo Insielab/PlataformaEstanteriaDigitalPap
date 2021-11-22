@@ -1,0 +1,34 @@
+{
+  "permalink": "/blog/actualizacion-navidad",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
+  "source": "@site/blog/2021-12-17-actualizacion-navidad.mdx",
+  "title": "Actualización Árbol de Navidad",
+  "description": "actualizacion-arbol",
+  "date": "2021-12-17T00:00:00.000Z",
+  "formattedDate": "December 17, 2021",
+  "tags": [
+    {
+      "label": "actualizacion",
+      "permalink": "/blog/tags/actualizacion"
+    },
+    {
+      "label": "navidad",
+      "permalink": "/blog/tags/navidad"
+    }
+  ],
+  "readingTime": 0.005,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "nextItem": {
+    "title": "Aviso de privacidad",
+    "permalink": "/blog/aviso-de-privacidad"
+  }
+}

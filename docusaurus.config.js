@@ -54,7 +54,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             position: 'left',
             label: 'Documentos',
           },
-          {to: '/blog', label: 'Acutualizaciones', position: 'left'},
+          {to: '/blog', label: 'Actualizaciones', position: 'left'},
           {
             href: 'https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla',
             label: 'Repositorio de GitHub',
@@ -75,12 +75,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
               {
                 label: 'Consejo de Contenido',
-                to: '/blog/estatutos-uno',
+                to: '/blog/consejo',
               },
 
               {
                 label: 'Estatutos de finaciación',
-                to: '/blog/estatutos-uno',
+                to: '/blog/estatutos',
               },
 
               {
@@ -99,24 +99,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 href: 'https://www.facebook.com/EstanteriaDigital',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
               },
             ],
           },
           {
-            title: 'Declaraciones sobre la Administración de la Estantería',
+            title: 'Sobre la la Estantería',
             items: [
               {
-                label: 'Blog',
+                label: '¿Qué es?',
                 to: '/blog/estatutos-uno',
               },
               {
-                label: 'GitHub',
+                label: '¿Quiénes somos?',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],

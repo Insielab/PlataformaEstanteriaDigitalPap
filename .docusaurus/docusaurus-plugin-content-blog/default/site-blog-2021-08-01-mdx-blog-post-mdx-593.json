@@ -1,26 +1,26 @@
 {
-  "permalink": "/blog/mdx-blog-post",
+  "permalink": "/blog/estatutos",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-  "title": "Declaraciones sobre la Mesa de Administración",
-  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "title": "Estatutos de financiación y gastos",
+  "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
   "date": "2021-08-01T00:00:00.000Z",
   "formattedDate": "August 1, 2021",
   "tags": [
     {
-      "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "label": "estatutos",
+      "permalink": "/blog/tags/estatutos"
     }
   ],
-  "readingTime": 0.175,
+  "readingTime": 1.24,
   "truncated": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
     }
   ],
   "prevItem": {
@@ -28,7 +28,7 @@
     "permalink": "/blog/"
   },
   "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
+    "title": "Declaración sobre el Consejo de Contenido",
+    "permalink": "/blog/consejo"
   }
 }

@@ -40,12 +40,17 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','720'),
+    component: ComponentCreator('/blog','e0a'),
     exact: true
   },
   {
     path: '/blog/',
     component: ComponentCreator('/blog/','c4a'),
+    exact: true
+  },
+  {
+    path: '/blog/actualizacion-navidad',
+    component: ComponentCreator('/blog/actualizacion-navidad','651'),
     exact: true
   },
   {
@@ -59,18 +64,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/consejo',
+    component: ComponentCreator('/blog/consejo','a2d'),
+    exact: true
+  },
+  {
+    path: '/blog/estatutos',
+    component: ComponentCreator('/blog/estatutos','f19'),
+    exact: true
+  },
+  {
     path: '/blog/estatutos-uno',
     component: ComponentCreator('/blog/estatutos-uno','0de'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post','6d5'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post','bee'),
     exact: true
   },
   {
@@ -79,8 +84,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/actualizacion',
+    component: ComponentCreator('/blog/tags/actualizacion','8eb'),
+    exact: true
+  },
+  {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','201'),
+    component: ComponentCreator('/blog/tags/docusaurus','98d'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/estatutos',
+    component: ComponentCreator('/blog/tags/estatutos','4ad'),
     exact: true
   },
   {
@@ -96,6 +111,11 @@ export default [
   {
     path: '/blog/tags/hola',
     component: ComponentCreator('/blog/tags/hola','5ae'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/navidad',
+    component: ComponentCreator('/blog/tags/navidad','77e'),
     exact: true
   },
   {

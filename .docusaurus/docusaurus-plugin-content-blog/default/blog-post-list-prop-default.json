@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Actualización Árbol de Navidad",
+      "permalink": "/blog/actualizacion-navidad"
+    },
+    {
       "title": "Aviso de privacidad",
       "permalink": "/blog/aviso-de-privacidad"
     },
@@ -14,12 +18,8 @@
       "permalink": "/blog/"
     },
     {
-      "title": "Declaraciones sobre la Mesa de Administración",
-      "permalink": "/blog/mdx-blog-post"
-    },
-    {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post"
+      "title": "Estatutos de financiación y gastos",
+      "permalink": "/blog/estatutos"
     }
   ]
 }

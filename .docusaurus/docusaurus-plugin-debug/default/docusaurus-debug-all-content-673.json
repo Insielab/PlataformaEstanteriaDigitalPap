@@ -1336,6 +1336,43 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "actualizacion-navidad",
+          "metadata": {
+            "permalink": "/blog/actualizacion-navidad",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
+            "source": "@site/blog/2021-12-17-actualizacion-navidad.mdx",
+            "title": "Actualización Árbol de Navidad",
+            "description": "actualizacion-arbol",
+            "date": "2021-12-17T00:00:00.000Z",
+            "formattedDate": "December 17, 2021",
+            "tags": [
+              {
+                "label": "actualizacion",
+                "permalink": "/blog/tags/actualizacion"
+              },
+              {
+                "label": "navidad",
+                "permalink": "/blog/tags/navidad"
+              }
+            ],
+            "readingTime": 0.005,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "nextItem": {
+              "title": "Aviso de privacidad",
+              "permalink": "/blog/aviso-de-privacidad"
+            }
+          }
+        },
+        {
           "id": "aviso-de-privacidad",
           "metadata": {
             "permalink": "/blog/aviso-de-privacidad",
@@ -1354,6 +1391,10 @@
             "readingTime": 3.46,
             "truncated": false,
             "authors": [],
+            "prevItem": {
+              "title": "Actualización Árbol de Navidad",
+              "permalink": "/blog/actualizacion-navidad"
+            },
             "nextItem": {
               "title": "Declaraciones sobre la Mesa de Administración",
               "permalink": "/blog/estatutos-uno"
@@ -1448,36 +1489,36 @@
               "permalink": "/blog/estatutos-uno"
             },
             "nextItem": {
-              "title": "Declaraciones sobre la Mesa de Administración",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "Estatutos de financiación y gastos",
+              "permalink": "/blog/estatutos"
             }
           }
         },
         {
-          "id": "mdx-blog-post",
+          "id": "estatutos",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/blog/estatutos",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-            "title": "Declaraciones sobre la Mesa de Administración",
-            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "title": "Estatutos de financiación y gastos",
+            "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
             "date": "2021-08-01T00:00:00.000Z",
             "formattedDate": "August 1, 2021",
             "tags": [
               {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "label": "estatutos",
+                "permalink": "/blog/tags/estatutos"
               }
             ],
-            "readingTime": 0.175,
+            "readingTime": 1.24,
             "truncated": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
               }
             ],
             "prevItem": {
@@ -1485,19 +1526,19 @@
               "permalink": "/blog/"
             },
             "nextItem": {
-              "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "title": "Declaración sobre el Consejo de Contenido",
+              "permalink": "/blog/consejo"
             }
           }
         },
         {
-          "id": "long-blog-post",
+          "id": "consejo",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/blog/consejo",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
             "source": "@site/blog/2019-05-29-long-blog-post.mdx",
-            "title": "Long Blog Post",
-            "description": "",
+            "title": "Declaración sobre el Consejo de Contenido",
+            "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos",
             "date": "2019-05-29T00:00:00.000Z",
             "formattedDate": "May 29, 2019",
             "tags": [
@@ -1510,7 +1551,7 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0,
+            "readingTime": 0.69,
             "truncated": false,
             "authors": [
               {
@@ -1518,12 +1559,12 @@
                 "title": "Dirección General de Impossible Box de México",
                 "url": "https://github.com/endiliey",
                 "imageURL": "https://github.com/endiliey.png",
-                "key": "endi"
+                "key": "imp1"
               }
             ],
             "prevItem": {
-              "title": "Declaraciones sobre la Mesa de Administración",
-              "permalink": "/blog/mdx-blog-post"
+              "title": "Estatutos de financiación y gastos",
+              "permalink": "/blog/estatutos"
             }
           }
         }
@@ -1535,30 +1576,44 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 5,
+            "totalCount": 6,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
+            "actualizacion-navidad",
             "aviso-de-privacidad",
             "estatutos-uno",
             "/",
-            "mdx-blog-post",
-            "long-blog-post"
+            "estatutos",
+            "consejo"
           ]
         }
       ],
       "blogTags": {
+        "/blog/tags/actualizacion": {
+          "name": "actualizacion",
+          "items": [
+            "actualizacion-navidad"
+          ],
+          "permalink": "/blog/tags/actualizacion"
+        },
+        "/blog/tags/navidad": {
+          "name": "navidad",
+          "items": [
+            "actualizacion-navidad"
+          ],
+          "permalink": "/blog/tags/navidad"
+        },
         "/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "aviso-de-privacidad",
             "estatutos-uno",
             "/",
-            "mdx-blog-post",
-            "long-blog-post"
+            "consejo"
           ],
           "permalink": "/blog/tags/docusaurus"
         },
@@ -1580,9 +1635,16 @@
           "name": "hello",
           "items": [
             "/",
-            "long-blog-post"
+            "consejo"
           ],
           "permalink": "/blog/tags/hello"
+        },
+        "/blog/tags/estatutos": {
+          "name": "estatutos",
+          "items": [
+            "estatutos"
+          ],
+          "permalink": "/blog/tags/estatutos"
         }
       },
       "blogTagsListPath": "/blog/tags"

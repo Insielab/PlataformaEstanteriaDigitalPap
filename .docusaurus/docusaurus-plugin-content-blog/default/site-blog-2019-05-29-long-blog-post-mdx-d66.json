@@ -1,9 +1,9 @@
 {
-  "permalink": "/blog/long-blog-post",
+  "permalink": "/blog/consejo",
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
   "source": "@site/blog/2019-05-29-long-blog-post.mdx",
-  "title": "Long Blog Post",
-  "description": "",
+  "title": "Declaración sobre el Consejo de Contenido",
+  "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos",
   "date": "2019-05-29T00:00:00.000Z",
   "formattedDate": "May 29, 2019",
   "tags": [
@@ -16,7 +16,7 @@
       "permalink": "/blog/tags/docusaurus"
     }
   ],
-  "readingTime": 0,
+  "readingTime": 0.69,
   "truncated": false,
   "authors": [
     {
@@ -24,11 +24,11 @@
       "title": "Dirección General de Impossible Box de México",
       "url": "https://github.com/endiliey",
       "imageURL": "https://github.com/endiliey.png",
-      "key": "endi"
+      "key": "imp1"
     }
   ],
   "prevItem": {
-    "title": "Declaraciones sobre la Mesa de Administración",
-    "permalink": "/blog/mdx-blog-post"
+    "title": "Estatutos de financiación y gastos",
+    "permalink": "/blog/estatutos"
   }
 }

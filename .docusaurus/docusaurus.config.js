@@ -13,7 +13,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/oscarzl/estanteriadigital/sidebars.js",
+          "sidebarPath": "/home/impbox21/estanteriadigital/sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
         },
@@ -22,7 +22,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/oscarzl/estanteriadigital/src/css/custom.css"
+          "customCss": "/home/impbox21/estanteriadigital/src/css/custom.css"
         }
       }
     ]
@@ -105,7 +105,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Estantería Digital de Papalotla/Impossible Box de México. Construido con  Docusaurus."
+      "copyright": "Copyright © 2022 Estantería Digital de Papalotla/Impossible Box de México. Construido con  Docusaurus."
     },
     "prism": {
       "theme": {

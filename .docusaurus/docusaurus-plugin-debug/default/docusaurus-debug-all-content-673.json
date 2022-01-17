@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/oscarzl/estanteriadigital/sidebars.js",
-          "contentPath": "/home/oscarzl/estanteriadigital/docs",
-          "contentPathLocalized": "/home/oscarzl/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/impbox21/estanteriadigital/sidebars.js",
+          "contentPath": "/home/impbox21/estanteriadigital/docs",
+          "contentPathLocalized": "/home/impbox21/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [

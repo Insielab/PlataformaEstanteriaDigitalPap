@@ -130,7 +130,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','2e6'),
+    component: ComponentCreator('/','7c6'),
     routes: [
       {
         path: '/',
@@ -175,38 +175,44 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/historias-constumbres/agua-puebla',
-        component: ComponentCreator('/historias-constumbres/agua-puebla','f34'),
+        path: '/historias-constumbres.mdx/agua-puebla',
+        component: ComponentCreator('/historias-constumbres.mdx/agua-puebla','44b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/historias-constumbres/arqueologia-malinche',
-        component: ComponentCreator('/historias-constumbres/arqueologia-malinche','aab'),
+        path: '/historias-constumbres.mdx/arqueologia-malinche',
+        component: ComponentCreator('/historias-constumbres.mdx/arqueologia-malinche','185'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/historias-constumbres/impacto-volkswagen',
-        component: ComponentCreator('/historias-constumbres/impacto-volkswagen','a2c'),
+        path: '/historias-constumbres.mdx/impacto-volkswagen',
+        component: ComponentCreator('/historias-constumbres.mdx/impacto-volkswagen','cb7'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/historias-constumbres/la-muneca-letra',
-        component: ComponentCreator('/historias-constumbres/la-muneca-letra','168'),
+        path: '/historias-constumbres.mdx/judios-papalotla',
+        component: ComponentCreator('/historias-constumbres.mdx/judios-papalotla','d97'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/historias-constumbres/organizacion-carnaval',
-        component: ComponentCreator('/historias-constumbres/organizacion-carnaval','721'),
+        path: '/historias-constumbres.mdx/la-muneca-letra',
+        component: ComponentCreator('/historias-constumbres.mdx/la-muneca-letra','1b6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/historias-constumbres/senor_del_monte',
-        component: ComponentCreator('/historias-constumbres/senor_del_monte','f1c'),
+        path: '/historias-constumbres.mdx/organizacion-carnaval',
+        component: ComponentCreator('/historias-constumbres.mdx/organizacion-carnaval','a5b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/historias-constumbres.mdx/senor_del_monte',
+        component: ComponentCreator('/historias-constumbres.mdx/senor_del_monte','e4e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

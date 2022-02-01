@@ -108,17 +108,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Sobre la la Estantería',
             items: [
               {
-                label: '¿Qué es?',
+                label: 'Preguntas frecuentes',
                 to: '/blog/estatutos-uno',
               },
               {
-                label: '¿Quiénes somos?',
+                label: 'Aviso de privacidad',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Estantería Digital de Papalotla/Impossible Box de México. Construido con  Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. Estantería Digital de Papalotla/Impossible Box de México.`,
       },
       prism: {
         theme: lightCodeTheme,

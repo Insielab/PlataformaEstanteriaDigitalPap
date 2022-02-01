@@ -1,0 +1,24 @@
+{
+  "unversionedId": "historias-constumbres.mdx/judios-papalotla",
+  "id": "historias-constumbres.mdx/judios-papalotla",
+  "isDocsHomePage": false,
+  "title": "judios-papalotla",
+  "description": "",
+  "source": "@site/docs/historias-constumbres.mdx/judios-papalotla.md",
+  "sourceDirName": "historias-constumbres.mdx",
+  "slug": "/historias-constumbres.mdx/judios-papalotla",
+  "permalink": "/historias-constumbres.mdx/judios-papalotla",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+    "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
+  },
+  "next": {
+    "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+    "permalink": "/"
+  }
+}

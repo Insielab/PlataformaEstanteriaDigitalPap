@@ -15,32 +15,37 @@
           {
             "type": "link",
             "label": "El culto al Señor del Monte en las inmediaciones de la Malinche",
-            "href": "/historias-constumbres/senor_del_monte"
+            "href": "/historias-constumbres.mdx/senor_del_monte"
           },
           {
             "type": "link",
             "label": "Arqueología del paisaje en La Malinche",
-            "href": "/historias-constumbres/arqueologia-malinche"
+            "href": "/historias-constumbres.mdx/arqueologia-malinche"
           },
           {
             "type": "link",
             "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-            "href": "/historias-constumbres/organizacion-carnaval"
+            "href": "/historias-constumbres.mdx/organizacion-carnaval"
           },
           {
             "type": "link",
             "label": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-            "href": "/historias-constumbres/agua-puebla"
+            "href": "/historias-constumbres.mdx/agua-puebla"
           },
           {
             "type": "link",
             "label": "Letra de La Danza de la Muñeca",
-            "href": "/historias-constumbres/la-muneca-letra"
+            "href": "/historias-constumbres.mdx/la-muneca-letra"
           },
           {
             "type": "link",
             "label": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-            "href": "/historias-constumbres/impacto-volkswagen"
+            "href": "/historias-constumbres.mdx/impacto-volkswagen"
+          },
+          {
+            "type": "link",
+            "label": "Historia mínima de los Judíos en Papalotla",
+            "href": "/historias-constumbres.mdx/judios-papalotla"
           }
         ],
         "collapsed": true,

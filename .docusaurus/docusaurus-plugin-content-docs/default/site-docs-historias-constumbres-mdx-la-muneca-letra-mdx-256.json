@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres.mdx/la-muneca-letra",
+  "id": "historias-constumbres.mdx/la-muneca-letra",
+  "isDocsHomePage": false,
+  "title": "Letra de La Danza de la Muñeca",
+  "description": "|Autor:| Dominio público |",
+  "source": "@site/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
+  "sourceDirName": "historias-constumbres.mdx",
+  "slug": "/historias-constumbres.mdx/la-muneca-letra",
+  "permalink": "/historias-constumbres.mdx/la-muneca-letra",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+    "permalink": "/historias-constumbres.mdx/agua-puebla"
+  },
+  "next": {
+    "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+    "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
+  }
+}

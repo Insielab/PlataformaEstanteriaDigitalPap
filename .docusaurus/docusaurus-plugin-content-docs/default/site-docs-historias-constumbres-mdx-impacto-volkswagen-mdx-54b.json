@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres.mdx/impacto-volkswagen",
+  "id": "historias-constumbres.mdx/impacto-volkswagen",
+  "isDocsHomePage": false,
+  "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+  "description": "|Autor:| Mariano Torres Bautista |",
+  "source": "@site/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
+  "sourceDirName": "historias-constumbres.mdx",
+  "slug": "/historias-constumbres.mdx/impacto-volkswagen",
+  "permalink": "/historias-constumbres.mdx/impacto-volkswagen",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Letra de La Danza de la Muñeca",
+    "permalink": "/historias-constumbres.mdx/la-muneca-letra"
+  },
+  "next": {
+    "title": "Historia mínima de los Judíos en Papalotla",
+    "permalink": "/historias-constumbres.mdx/judios-papalotla"
+  }
+}

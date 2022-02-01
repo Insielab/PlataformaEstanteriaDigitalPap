@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres.mdx/judios-papalotla",
+  "id": "historias-constumbres.mdx/judios-papalotla",
+  "isDocsHomePage": false,
+  "title": "Historia mínima de los Judíos en Papalotla",
+  "description": "|Autor:| Dominio público |",
+  "source": "@site/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+  "sourceDirName": "historias-constumbres.mdx",
+  "slug": "/historias-constumbres.mdx/judios-papalotla",
+  "permalink": "/historias-constumbres.mdx/judios-papalotla",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+    "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
+  },
+  "next": {
+    "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+    "permalink": "/"
+  }
+}

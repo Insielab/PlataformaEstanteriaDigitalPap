@@ -1,0 +1,27 @@
+{
+  "unversionedId": "historias-constumbres.mdx/organizacion-carnaval",
+  "id": "historias-constumbres.mdx/organizacion-carnaval",
+  "isDocsHomePage": false,
+  "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+  "description": "|Autor:| Joel Dávila Guitiérrez |",
+  "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
+  "sourceDirName": "historias-constumbres.mdx",
+  "slug": "/historias-constumbres.mdx/organizacion-carnaval",
+  "permalink": "/historias-constumbres.mdx/organizacion-carnaval",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arqueología del paisaje en La Malinche",
+    "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
+  },
+  "next": {
+    "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+    "permalink": "/historias-constumbres.mdx/agua-puebla"
+  }
+}

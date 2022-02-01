@@ -175,7 +175,7 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-2e6": {
+  "/-7c6": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -207,29 +207,33 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---documentos-publicos-servidores-publicos-17398-53c"
   },
-  "/historias-constumbres/agua-puebla-f34": {
+  "/historias-constumbres.mdx/agua-puebla-44b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-agua-puebla-1-a-0-173"
+    "content": "content---historias-constumbres-mdx-agua-puebla-4-aa-4a2"
   },
-  "/historias-constumbres/arqueologia-malinche-aab": {
+  "/historias-constumbres.mdx/arqueologia-malinche-185": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-arqueologia-malinchec-14-5e4"
+    "content": "content---historias-constumbres-mdx-arqueologia-malinchef-3-a-7e6"
   },
-  "/historias-constumbres/impacto-volkswagen-a2c": {
+  "/historias-constumbres.mdx/impacto-volkswagen-cb7": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-impacto-volkswagenc-1-e-3b8"
+    "content": "content---historias-constumbres-mdx-impacto-volkswagen-54-b-aca"
   },
-  "/historias-constumbres/la-muneca-letra-168": {
+  "/historias-constumbres.mdx/judios-papalotla-d97": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-la-muneca-letrade-9-7af"
+    "content": "content---historias-constumbres-mdx-judios-papalotla-5-b-6-860"
   },
-  "/historias-constumbres/organizacion-carnaval-721": {
+  "/historias-constumbres.mdx/la-muneca-letra-1b6": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-organizacion-carnaval-735-ea4"
+    "content": "content---historias-constumbres-mdx-la-muneca-letra-256-3b1"
   },
-  "/historias-constumbres/senor_del_monte-f1c": {
+  "/historias-constumbres.mdx/organizacion-carnaval-a5b": {
     "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-senor-del-monte-786-9ee"
+    "content": "content---historias-constumbres-mdx-organizacion-carnaval-3-cd-d17"
+  },
+  "/historias-constumbres.mdx/senor_del_monte-e4e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-mdx-senor-del-monte-3-ed-42d"
   },
   "/leyes-estatales-municipales/regalamento-transito-7b5": {
     "component": "component---theme-doc-item-178-a40",

@@ -14,9 +14,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/impbox21/estanteriadigital/sidebars.js",
-          "contentPath": "/home/impbox21/estanteriadigital/docs",
-          "contentPathLocalized": "/home/impbox21/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/oscar/estanteriadigital/sidebars.js",
+          "contentPath": "/home/oscar/estanteriadigital/docs",
+          "contentPathLocalized": "/home/oscar/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "sidebars": {
             "tutorialSidebar": [
@@ -26,27 +26,31 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "historias-constumbres/senor_del_monte"
+                    "id": "historias-constumbres.mdx/senor_del_monte"
                   },
                   {
                     "type": "doc",
-                    "id": "historias-constumbres/arqueologia-malinche"
+                    "id": "historias-constumbres.mdx/arqueologia-malinche"
                   },
                   {
                     "type": "doc",
-                    "id": "historias-constumbres/organizacion-carnaval"
+                    "id": "historias-constumbres.mdx/organizacion-carnaval"
                   },
                   {
                     "type": "doc",
-                    "id": "historias-constumbres/agua-puebla"
+                    "id": "historias-constumbres.mdx/agua-puebla"
                   },
                   {
                     "type": "doc",
-                    "id": "historias-constumbres/la-muneca-letra"
+                    "id": "historias-constumbres.mdx/la-muneca-letra"
                   },
                   {
                     "type": "doc",
-                    "id": "historias-constumbres/impacto-volkswagen"
+                    "id": "historias-constumbres.mdx/impacto-volkswagen"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "historias-constumbres.mdx/judios-papalotla"
                   }
                 ],
                 "collapsed": true,
@@ -446,16 +450,16 @@
               }
             },
             {
-              "unversionedId": "historias-constumbres/agua-puebla",
-              "id": "historias-constumbres/agua-puebla",
+              "unversionedId": "historias-constumbres.mdx/agua-puebla",
+              "id": "historias-constumbres.mdx/agua-puebla",
               "isDocsHomePage": false,
               "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
               "description": "|Autor:| Sergio Francisco Rosas Salas |",
-              "source": "@site/docs/historias-constumbres/agua-puebla.mdx",
-              "sourceDirName": "historias-constumbres",
-              "slug": "/historias-constumbres/agua-puebla",
-              "permalink": "/historias-constumbres/agua-puebla",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/agua-puebla.mdx",
+              "source": "@site/docs/historias-constumbres.mdx/agua-puebla.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/agua-puebla",
+              "permalink": "/historias-constumbres.mdx/agua-puebla",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/agua-puebla.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -465,24 +469,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres/organizacion-carnaval"
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval"
               },
               "next": {
                 "title": "Letra de La Danza de la Muñeca",
-                "permalink": "/historias-constumbres/la-muneca-letra"
+                "permalink": "/historias-constumbres.mdx/la-muneca-letra"
               }
             },
             {
-              "unversionedId": "historias-constumbres/arqueologia-malinche",
-              "id": "historias-constumbres/arqueologia-malinche",
+              "unversionedId": "historias-constumbres.mdx/arqueologia-malinche",
+              "id": "historias-constumbres.mdx/arqueologia-malinche",
               "isDocsHomePage": false,
               "title": "Arqueología del paisaje en La Malinche",
               "description": "|Autor:| Sergio Suárez Cruz |",
-              "source": "@site/docs/historias-constumbres/arqueologia-malinche.mdx",
-              "sourceDirName": "historias-constumbres",
-              "slug": "/historias-constumbres/arqueologia-malinche",
-              "permalink": "/historias-constumbres/arqueologia-malinche",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/arqueologia-malinche.mdx",
+              "source": "@site/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/arqueologia-malinche",
+              "permalink": "/historias-constumbres.mdx/arqueologia-malinche",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -492,24 +496,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
-                "permalink": "/historias-constumbres/senor_del_monte"
+                "permalink": "/historias-constumbres.mdx/senor_del_monte"
               },
               "next": {
                 "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres/organizacion-carnaval"
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval"
               }
             },
             {
-              "unversionedId": "historias-constumbres/impacto-volkswagen",
-              "id": "historias-constumbres/impacto-volkswagen",
+              "unversionedId": "historias-constumbres.mdx/impacto-volkswagen",
+              "id": "historias-constumbres.mdx/impacto-volkswagen",
               "isDocsHomePage": false,
               "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
               "description": "|Autor:| Mariano Torres Bautista |",
-              "source": "@site/docs/historias-constumbres/impacto-volkswagen.mdx",
-              "sourceDirName": "historias-constumbres",
-              "slug": "/historias-constumbres/impacto-volkswagen",
-              "permalink": "/historias-constumbres/impacto-volkswagen",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/impacto-volkswagen.mdx",
+              "source": "@site/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/impacto-volkswagen",
+              "permalink": "/historias-constumbres.mdx/impacto-volkswagen",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -519,7 +523,34 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Letra de La Danza de la Muñeca",
-                "permalink": "/historias-constumbres/la-muneca-letra"
+                "permalink": "/historias-constumbres.mdx/la-muneca-letra"
+              },
+              "next": {
+                "title": "Historia mínima de los Judíos en Papalotla",
+                "permalink": "/historias-constumbres.mdx/judios-papalotla"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/judios-papalotla",
+              "id": "historias-constumbres.mdx/judios-papalotla",
+              "isDocsHomePage": false,
+              "title": "Historia mínima de los Judíos en Papalotla",
+              "description": "|Autor:| Dominio público |",
+              "source": "@site/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/judios-papalotla",
+              "permalink": "/historias-constumbres.mdx/judios-papalotla",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+                "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
               },
               "next": {
                 "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
@@ -527,16 +558,16 @@
               }
             },
             {
-              "unversionedId": "historias-constumbres/la-muneca-letra",
-              "id": "historias-constumbres/la-muneca-letra",
+              "unversionedId": "historias-constumbres.mdx/la-muneca-letra",
+              "id": "historias-constumbres.mdx/la-muneca-letra",
               "isDocsHomePage": false,
               "title": "Letra de La Danza de la Muñeca",
               "description": "|Autor:| Dominio público |",
-              "source": "@site/docs/historias-constumbres/la-muneca-letra.mdx",
-              "sourceDirName": "historias-constumbres",
-              "slug": "/historias-constumbres/la-muneca-letra",
-              "permalink": "/historias-constumbres/la-muneca-letra",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/la-muneca-letra.mdx",
+              "source": "@site/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/la-muneca-letra",
+              "permalink": "/historias-constumbres.mdx/la-muneca-letra",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -546,24 +577,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-                "permalink": "/historias-constumbres/agua-puebla"
+                "permalink": "/historias-constumbres.mdx/agua-puebla"
               },
               "next": {
                 "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-                "permalink": "/historias-constumbres/impacto-volkswagen"
+                "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
               }
             },
             {
-              "unversionedId": "historias-constumbres/organizacion-carnaval",
-              "id": "historias-constumbres/organizacion-carnaval",
+              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval",
+              "id": "historias-constumbres.mdx/organizacion-carnaval",
               "isDocsHomePage": false,
               "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
               "description": "|Autor:| Joel Dávila Guitiérrez |",
-              "source": "@site/docs/historias-constumbres/organizacion-carnaval.mdx",
-              "sourceDirName": "historias-constumbres",
-              "slug": "/historias-constumbres/organizacion-carnaval",
-              "permalink": "/historias-constumbres/organizacion-carnaval",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/organizacion-carnaval.mdx",
+              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/organizacion-carnaval",
+              "permalink": "/historias-constumbres.mdx/organizacion-carnaval",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -573,24 +604,24 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Arqueología del paisaje en La Malinche",
-                "permalink": "/historias-constumbres/arqueologia-malinche"
+                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
               },
               "next": {
                 "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-                "permalink": "/historias-constumbres/agua-puebla"
+                "permalink": "/historias-constumbres.mdx/agua-puebla"
               }
             },
             {
-              "unversionedId": "historias-constumbres/senor_del_monte",
-              "id": "historias-constumbres/senor_del_monte",
+              "unversionedId": "historias-constumbres.mdx/senor_del_monte",
+              "id": "historias-constumbres.mdx/senor_del_monte",
               "isDocsHomePage": false,
               "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
               "description": "|Autor:| Sergio Suárez Cruz |",
-              "source": "@site/docs/historias-constumbres/senor_del_monte.mdx",
-              "sourceDirName": "historias-constumbres",
-              "slug": "/historias-constumbres/senor_del_monte",
-              "permalink": "/historias-constumbres/senor_del_monte",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres/senor_del_monte.mdx",
+              "source": "@site/docs/historias-constumbres.mdx/senor_del_monte.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/senor_del_monte",
+              "permalink": "/historias-constumbres.mdx/senor_del_monte",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -600,7 +631,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Arqueología del paisaje en La Malinche",
-                "permalink": "/historias-constumbres/arqueologia-malinche"
+                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
               }
             },
             {
@@ -623,8 +654,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-                "permalink": "/historias-constumbres/impacto-volkswagen"
+                "title": "Historia mínima de los Judíos en Papalotla",
+                "permalink": "/historias-constumbres.mdx/judios-papalotla"
               },
               "next": {
                 "title": "Primera Acta de Sesión de Cabildo (2017)",

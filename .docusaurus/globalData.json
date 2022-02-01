@@ -41,33 +41,38 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "historias-constumbres/agua-puebla",
-              "path": "/historias-constumbres/agua-puebla",
+              "id": "historias-constumbres.mdx/agua-puebla",
+              "path": "/historias-constumbres.mdx/agua-puebla",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "historias-constumbres/arqueologia-malinche",
-              "path": "/historias-constumbres/arqueologia-malinche",
+              "id": "historias-constumbres.mdx/arqueologia-malinche",
+              "path": "/historias-constumbres.mdx/arqueologia-malinche",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "historias-constumbres/impacto-volkswagen",
-              "path": "/historias-constumbres/impacto-volkswagen",
+              "id": "historias-constumbres.mdx/impacto-volkswagen",
+              "path": "/historias-constumbres.mdx/impacto-volkswagen",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "historias-constumbres/la-muneca-letra",
-              "path": "/historias-constumbres/la-muneca-letra",
+              "id": "historias-constumbres.mdx/judios-papalotla",
+              "path": "/historias-constumbres.mdx/judios-papalotla",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "historias-constumbres/organizacion-carnaval",
-              "path": "/historias-constumbres/organizacion-carnaval",
+              "id": "historias-constumbres.mdx/la-muneca-letra",
+              "path": "/historias-constumbres.mdx/la-muneca-letra",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "historias-constumbres/senor_del_monte",
-              "path": "/historias-constumbres/senor_del_monte",
+              "id": "historias-constumbres.mdx/organizacion-carnaval",
+              "path": "/historias-constumbres.mdx/organizacion-carnaval",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres.mdx/senor_del_monte",
+              "path": "/historias-constumbres.mdx/senor_del_monte",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -526,7 +526,7 @@
                 "permalink": "/historias-constumbres.mdx/la-muneca-letra"
               },
               "next": {
-                "title": "Historia mínima de los Judíos en Papalotla",
+                "title": "Historia mínima de la comunidad judía en Papalotla",
                 "permalink": "/historias-constumbres.mdx/judios-papalotla"
               }
             },
@@ -534,7 +534,7 @@
               "unversionedId": "historias-constumbres.mdx/judios-papalotla",
               "id": "historias-constumbres.mdx/judios-papalotla",
               "isDocsHomePage": false,
-              "title": "Historia mínima de los Judíos en Papalotla",
+              "title": "Historia mínima de la comunidad judía en Papalotla",
               "description": "|Autor:| Dominio público |",
               "source": "@site/docs/historias-constumbres.mdx/judios-papalotla.mdx",
               "sourceDirName": "historias-constumbres.mdx",
@@ -654,7 +654,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Historia mínima de los Judíos en Papalotla",
+                "title": "Historia mínima de la comunidad judía en Papalotla",
                 "permalink": "/historias-constumbres.mdx/judios-papalotla"
               },
               "next": {
@@ -1180,7 +1180,7 @@
               "id": "recursos-graficos/escudo-e-identidades",
               "isDocsHomePage": false,
               "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-              "description": "|Periodo|Administración|Previsualización|",
+              "description": "|Periodo|Administración|Previsualización|Descarga|",
               "source": "@site/docs/recursos-graficos/escudo-e-identidades.mdx",
               "sourceDirName": "recursos-graficos",
               "slug": "/recursos-graficos/escudo-e-identidades",

@@ -49,8 +49,8 @@ export default [
     exact: true
   },
   {
-    path: '/blog/actualizacion-navidad',
-    component: ComponentCreator('/blog/actualizacion-navidad','651'),
+    path: '/blog/actualizacion-primavera',
+    component: ComponentCreator('/blog/actualizacion-primavera','eeb'),
     exact: true
   },
   {

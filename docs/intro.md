@@ -7,31 +7,10 @@ slug: /
 
 La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.
 
+Somos una **plataforma gratuita** de acceso a la información histórica, gubernamental y legal sobre una ciudad específica.
 
-## Navegación por la Estantería
+Te inivitamos a leer nuestro texto fundacional aquí:
 
-Comienza.
+### **[La Estantería Digital como plataforma de democratización de la cultura](https://impossiblebox.substack.com/p/la-estanteria-digital-como-plataforma?utm_source=url)**
 
-Puedes comenzar tu navegación explorando la barra lateral que se encuentra en el lado izquierdo de la interfaz
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open  and edit some lines: the site **reloads automatically** and display your changes.
+Así mismo te invitamos a recorrer todo nuestro acervo.

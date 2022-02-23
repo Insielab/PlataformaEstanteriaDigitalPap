@@ -1,7 +1,7 @@
 export default {
   "title": "Estantería Digital de Papalotla",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://estanteria.impossiblebox.me",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "ignore",

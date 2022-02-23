@@ -1367,12 +1367,12 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
-          "id": "actualizacion-navidad",
+          "id": "actualizacion-primavera",
           "metadata": {
-            "permalink": "/blog/actualizacion-navidad",
+            "permalink": "/blog/actualizacion-primavera",
             "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
             "source": "@site/blog/2021-12-17-actualizacion-navidad.mdx",
-            "title": "Actualización Árbol de Navidad",
+            "title": "Actualización de Primavera",
             "description": "actualizacion-arbol",
             "date": "2021-12-17T00:00:00.000Z",
             "formattedDate": "December 17, 2021",
@@ -1423,8 +1423,8 @@
             "truncated": false,
             "authors": [],
             "prevItem": {
-              "title": "Actualización Árbol de Navidad",
-              "permalink": "/blog/actualizacion-navidad"
+              "title": "Actualización de Primavera",
+              "permalink": "/blog/actualizacion-primavera"
             },
             "nextItem": {
               "title": "Declaraciones sobre la Mesa de Administración",
@@ -1452,7 +1452,7 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 1.655,
+            "readingTime": 1.67,
             "truncated": false,
             "authors": [
               {
@@ -1614,7 +1614,7 @@
             "blogTitle": "Blog"
           },
           "items": [
-            "actualizacion-navidad",
+            "actualizacion-primavera",
             "aviso-de-privacidad",
             "estatutos-uno",
             "/",
@@ -1627,14 +1627,14 @@
         "/blog/tags/actualizacion": {
           "name": "actualizacion",
           "items": [
-            "actualizacion-navidad"
+            "actualizacion-primavera"
           ],
           "permalink": "/blog/tags/actualizacion"
         },
         "/blog/tags/navidad": {
           "name": "navidad",
           "items": [
-            "actualizacion-navidad"
+            "actualizacion-primavera"
           ],
           "permalink": "/blog/tags/navidad"
         },

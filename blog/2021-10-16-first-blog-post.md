@@ -2,7 +2,7 @@
 slug: estatutos-uno
 title: Declaraciones sobre la Mesa de Administración
 authors: imp1
-  
+
 tags: [hola, docusaurus]
 ---
 
@@ -11,7 +11,7 @@ La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:
 - El financiamiento y gastos de la Estantería.
 - Las entradas y salidas del gobierno corporativo.
 
-Y está obligado a: 
+Y está obligado a:
 
 - Reunirse trimestralmente de manera física o remota al menos trimestralmente para tomar decisiones sobre el funcionamiento de la Estantería.
 - Formar parte del consejo de contenido.
@@ -27,9 +27,9 @@ La Mesa de Administración estará compuesta por:
 
 Impossible Box de México comienza con el 100% del poder de voto de la Estantería.
 
-Impossible Box de México es libre de buscar y  aprobar miembros de la Mesa Directiva hasta llegar al quinto miembro.
+Impossible Box de México es libre de buscar y  aprobar miembros de la Mesa de Administración hasta llegar al quinto miembro.
 
-A cada uno de los primeros cuatro miembros (sin incluir a Impossible Box de México) se les otorgará de un 10 al 15% del poder de voto. Este porcentaje se restará al poder de voto de Impossible Box de Méxco. Al llegar de ser 5 miembros en la mesa directiva e invitar a otro miembro todos los miembros restarán su participación de manera igualitaria siguiendo la siguiente fórmula.
+A cada uno de los primeros cuatro miembros (sin incluir a Impossible Box de México) se les otorgará de un 10 al 15% del poder de voto. Este porcentaje se restará al poder de voto de Impossible Box de Méxco. Al llegar de ser 5 miembros en la mesa directiva e invitar a otro miembro todos los miembros restarán su participación de manera igualitaria siguiendo la fórmula de Dilution Equity.
 
 La inclusión del sexto miembro en adelante deberá ser aprobada por una votación de Mesa de Administración y en condición de unanimidad.
 

@@ -978,7 +978,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Fecundidad y migración",
+                "title": "Migración y fecundidad",
                 "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
               },
               "next": {
@@ -990,7 +990,7 @@
               "unversionedId": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
               "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
               "isDocsHomePage": false,
-              "title": "Fecundidad y migración",
+              "title": "Migración y fecundidad",
               "description": "Tabla de datos",
               "source": "@site/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
@@ -1036,7 +1036,7 @@
                 "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
               },
               "next": {
-                "title": "Fecundidad y migración",
+                "title": "Migración y fecundidad",
                 "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
               }
             },

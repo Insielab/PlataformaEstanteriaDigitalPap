@@ -2,6 +2,14 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Código de conducta de la comunidad y colaboradores.",
+      "permalink": "/blog/codigo-de-conducta"
+    },
+    {
+      "title": "Documentación para desarrolladores y personas técnicas",
+      "permalink": "/blog/documentación"
+    },
+    {
       "title": "Actualización de Primavera",
       "permalink": "/blog/actualizacion-primavera"
     },
@@ -12,14 +20,6 @@
     {
       "title": "Declaraciones sobre la Mesa de Administración",
       "permalink": "/blog/estatutos-uno"
-    },
-    {
-      "title": "Welcome",
-      "permalink": "/blog/"
-    },
-    {
-      "title": "Estatutos de financiación y gastos",
-      "permalink": "/blog/estatutos"
     }
   ]
 }

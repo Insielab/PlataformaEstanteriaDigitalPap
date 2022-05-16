@@ -21,10 +21,16 @@
   "/__docusaurus/debug/routes-244": {
     "component": "component---theme-debug-routes-946-699"
   },
-  "/blog-e0a": {
+  "/blog-185": {
     "component": "component---theme-blog-list-pagea-6-a-7ba",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-54-d-282"
+      },
+      {
+        "content": "content---blog-80-b-c82"
+      },
       {
         "content": "content---blog-6-e-8-ef6"
       },
@@ -65,10 +71,20 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-aviso-de-privacidadb-8-e-8f6"
   },
+  "/blog/codigo-de-conducta-6bf": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-codigo-de-conducta-684-2dd"
+  },
   "/blog/consejo-a2d": {
     "component": "component---theme-blog-post-pageccc-cab",
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-consejod-66-362"
+  },
+  "/blog/documentación-67b": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-documentacionf-26-008"
   },
   "/blog/estatutos-f19": {
     "component": "component---theme-blog-post-pageccc-cab",
@@ -85,15 +101,28 @@
     "sidebar": "sidebar---blog-814-8ac",
     "tags": "tags---blog-tagsa-70-da2"
   },
-  "/blog/tags/actualizacion-8eb": {
+  "/blog/tags/actualizacion-6d8": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-80-b-c82"
+      },
       {
         "content": "content---blog-6-e-8-ef6"
       }
     ],
     "metadata": "metadata---blog-tags-actualizacion-124-75f"
+  },
+  "/blog/tags/documentacion-8ff": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-80-b-c82"
+      }
+    ],
+    "metadata": "metadata---blog-tags-documentacion-1-eb-08e"
   },
   "/blog/tags/docusaurus-98d": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
@@ -157,6 +186,16 @@
     ],
     "metadata": "metadata---blog-tags-holae-16-18a"
   },
+  "/blog/tags/interno-568": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-80-b-c82"
+      }
+    ],
+    "metadata": "metadata---blog-tags-interno-8-f-8-5e9"
+  },
   "/blog/tags/navidad-77e": {
     "component": "component---theme-blog-tags-posts-page-687-b6c",
     "sidebar": "sidebar---blog-814-8ac",
@@ -175,7 +214,7 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-7c6": {
+  "/-525": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -230,6 +269,14 @@
   "/historias-constumbres.mdx/organizacion-carnaval-a5b": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---historias-constumbres-mdx-organizacion-carnaval-3-cd-d17"
+  },
+  "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval-b69": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-mdx-organizacion-carnaval-afanes-carnavala-95-6b3"
+  },
+  "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias-672": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---historias-constumbres-mdx-organizacion-carnaval-digitalizado-afanes-jeraquiase-78-b8c"
   },
   "/historias-constumbres.mdx/senor_del_monte-e4e": {
     "component": "component---theme-doc-item-178-a40",

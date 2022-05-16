@@ -1,6 +1,86 @@
 {
   "blogPosts": [
     {
+      "id": "/codigo-de-conducta",
+      "metadata": {
+        "permalink": "/blog/codigo-de-conducta",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
+        "source": "@site/blog/2022-05-14-codigo-comunidad.mdx",
+        "title": "Código de conducta de la comunidad y colaboradores.",
+        "description": "Nuestro compromiso",
+        "date": "2022-05-14T00:00:00.000Z",
+        "formattedDate": "May 14, 2022",
+        "tags": [],
+        "readingTime": 4.095,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Consejo de Contenido",
+            "title": "Estantería Digital de Papalotla",
+            "url": "https://sebastienlorber.com",
+            "imageURL": "https://github.com/slorber.png",
+            "key": "slorber"
+          },
+          {
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Impossible Box de México",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "imp1"
+          }
+        ],
+        "nextItem": {
+          "title": "Documentación para desarrolladores y personas técnicas",
+          "permalink": "/blog/documentación"
+        }
+      }
+    },
+    {
+      "id": "documentación",
+      "metadata": {
+        "permalink": "/blog/documentación",
+        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
+        "source": "@site/blog/2022-04-01-documentacion.mdx",
+        "title": "Documentación para desarrolladores y personas técnicas",
+        "description": "La Estantería Digital se divide en dos ramas de desarrollo: Plataforma y Archivo.",
+        "date": "2022-04-01T00:00:00.000Z",
+        "formattedDate": "April 1, 2022",
+        "tags": [
+          {
+            "label": "actualizacion",
+            "permalink": "/blog/tags/actualizacion"
+          },
+          {
+            "label": "documentacion",
+            "permalink": "/blog/tags/documentacion"
+          },
+          {
+            "label": "interno",
+            "permalink": "/blog/tags/interno"
+          }
+        ],
+        "readingTime": 2.575,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Impossible Box de México",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "imp1"
+          }
+        ],
+        "prevItem": {
+          "title": "Código de conducta de la comunidad y colaboradores.",
+          "permalink": "/blog/codigo-de-conducta"
+        },
+        "nextItem": {
+          "title": "Actualización de Primavera",
+          "permalink": "/blog/actualizacion-primavera"
+        }
+      }
+    },
+    {
       "id": "actualizacion-primavera",
       "metadata": {
         "permalink": "/blog/actualizacion-primavera",
@@ -31,6 +111,10 @@
             "key": "imp1"
           }
         ],
+        "prevItem": {
+          "title": "Documentación para desarrolladores y personas técnicas",
+          "permalink": "/blog/documentación"
+        },
         "nextItem": {
           "title": "Aviso de privacidad",
           "permalink": "/blog/aviso-de-privacidad"
@@ -135,8 +219,8 @@
         "truncated": false,
         "authors": [
           {
-            "name": "Sébastien Lorber",
-            "title": "Docusaurus maintainer",
+            "name": "Consejo de Contenido",
+            "title": "Estantería Digital de Papalotla",
             "url": "https://sebastienlorber.com",
             "imageURL": "https://github.com/slorber.png",
             "key": "slorber"

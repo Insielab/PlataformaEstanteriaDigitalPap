@@ -1,0 +1,32 @@
+{
+  "permalink": "/blog/codigo-de-conducta",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
+  "source": "@site/blog/2022-05-14-codigo-comunidad.mdx",
+  "title": "Código de conducta de la comunidad y colaboradores.",
+  "description": "Nuestro compromiso",
+  "date": "2022-05-14T00:00:00.000Z",
+  "formattedDate": "May 14, 2022",
+  "tags": [],
+  "readingTime": 4.095,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Consejo de Contenido",
+      "title": "Estantería Digital de Papalotla",
+      "url": "https://sebastienlorber.com",
+      "imageURL": "https://github.com/slorber.png",
+      "key": "slorber"
+    },
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "nextItem": {
+    "title": "Documentación para desarrolladores y personas técnicas",
+    "permalink": "/blog/documentación"
+  }
+}

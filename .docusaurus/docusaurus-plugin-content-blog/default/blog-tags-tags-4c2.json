@@ -3,8 +3,22 @@
     "allTagsPath": "/blog/tags",
     "slug": "/blog/tags/actualizacion",
     "name": "actualizacion",
-    "count": 1,
+    "count": 2,
     "permalink": "/blog/tags/actualizacion"
+  },
+  "/blog/tags/documentacion": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/documentacion",
+    "name": "documentacion",
+    "count": 1,
+    "permalink": "/blog/tags/documentacion"
+  },
+  "/blog/tags/interno": {
+    "allTagsPath": "/blog/tags",
+    "slug": "/blog/tags/interno",
+    "name": "interno",
+    "count": 1,
+    "permalink": "/blog/tags/interno"
   },
   "/blog/tags/navidad": {
     "allTagsPath": "/blog/tags",

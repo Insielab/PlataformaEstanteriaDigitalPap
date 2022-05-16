@@ -51,6 +51,22 @@
                   {
                     "type": "doc",
                     "id": "historias-constumbres.mdx/judios-papalotla"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
                   }
                 ],
                 "collapsed": true,
@@ -553,8 +569,8 @@
                 "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
               },
               "next": {
-                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-                "permalink": "/"
+                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
               }
             },
             {
@@ -612,6 +628,60 @@
               }
             },
             {
+              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "isDocsHomePage": false,
+              "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+              "description": "|Autor:| Joel Dávila Guitiérrez |",
+              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
+              "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
+              "slug": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Historia mínima de la Comunidad Judía en Papalotla",
+                "permalink": "/historias-constumbres.mdx/judios-papalotla"
+              },
+              "next": {
+                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "isDocsHomePage": false,
+              "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+              "description": "Some content with markdown syntax. Check this api.",
+              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+              "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
+              "slug": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+              },
+              "next": {
+                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+                "permalink": "/"
+              }
+            },
+            {
               "unversionedId": "historias-constumbres.mdx/senor_del_monte",
               "id": "historias-constumbres.mdx/senor_del_monte",
               "isDocsHomePage": false,
@@ -654,8 +724,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Historia mínima de la Comunidad Judía en Papalotla",
-                "permalink": "/historias-constumbres.mdx/judios-papalotla"
+                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
               },
               "next": {
                 "title": "Primera Acta de Sesión de Cabildo (2017)",
@@ -1367,6 +1437,86 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "/codigo-de-conducta",
+          "metadata": {
+            "permalink": "/blog/codigo-de-conducta",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
+            "source": "@site/blog/2022-05-14-codigo-comunidad.mdx",
+            "title": "Código de conducta de la comunidad y colaboradores.",
+            "description": "Nuestro compromiso",
+            "date": "2022-05-14T00:00:00.000Z",
+            "formattedDate": "May 14, 2022",
+            "tags": [],
+            "readingTime": 4.095,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Consejo de Contenido",
+                "title": "Estantería Digital de Papalotla",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "nextItem": {
+              "title": "Documentación para desarrolladores y personas técnicas",
+              "permalink": "/blog/documentación"
+            }
+          }
+        },
+        {
+          "id": "documentación",
+          "metadata": {
+            "permalink": "/blog/documentación",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
+            "source": "@site/blog/2022-04-01-documentacion.mdx",
+            "title": "Documentación para desarrolladores y personas técnicas",
+            "description": "La Estantería Digital se divide en dos ramas de desarrollo: Plataforma y Archivo.",
+            "date": "2022-04-01T00:00:00.000Z",
+            "formattedDate": "April 1, 2022",
+            "tags": [
+              {
+                "label": "actualizacion",
+                "permalink": "/blog/tags/actualizacion"
+              },
+              {
+                "label": "documentacion",
+                "permalink": "/blog/tags/documentacion"
+              },
+              {
+                "label": "interno",
+                "permalink": "/blog/tags/interno"
+              }
+            ],
+            "readingTime": 2.575,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "prevItem": {
+              "title": "Código de conducta de la comunidad y colaboradores.",
+              "permalink": "/blog/codigo-de-conducta"
+            },
+            "nextItem": {
+              "title": "Actualización de Primavera",
+              "permalink": "/blog/actualizacion-primavera"
+            }
+          }
+        },
+        {
           "id": "actualizacion-primavera",
           "metadata": {
             "permalink": "/blog/actualizacion-primavera",
@@ -1397,6 +1547,10 @@
                 "key": "imp1"
               }
             ],
+            "prevItem": {
+              "title": "Documentación para desarrolladores y personas técnicas",
+              "permalink": "/blog/documentación"
+            },
             "nextItem": {
               "title": "Aviso de privacidad",
               "permalink": "/blog/aviso-de-privacidad"
@@ -1501,8 +1655,8 @@
             "truncated": false,
             "authors": [
               {
-                "name": "Sébastien Lorber",
-                "title": "Docusaurus maintainer",
+                "name": "Consejo de Contenido",
+                "title": "Estantería Digital de Papalotla",
                 "url": "https://sebastienlorber.com",
                 "imageURL": "https://github.com/slorber.png",
                 "key": "slorber"
@@ -1607,13 +1761,15 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 6,
+            "totalCount": 8,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
+            "/codigo-de-conducta",
+            "documentación",
             "actualizacion-primavera",
             "aviso-de-privacidad",
             "estatutos-uno",
@@ -1627,9 +1783,24 @@
         "/blog/tags/actualizacion": {
           "name": "actualizacion",
           "items": [
+            "documentación",
             "actualizacion-primavera"
           ],
           "permalink": "/blog/tags/actualizacion"
+        },
+        "/blog/tags/documentacion": {
+          "name": "documentacion",
+          "items": [
+            "documentación"
+          ],
+          "permalink": "/blog/tags/documentacion"
+        },
+        "/blog/tags/interno": {
+          "name": "interno",
+          "items": [
+            "documentación"
+          ],
+          "permalink": "/blog/tags/interno"
         },
         "/blog/tags/navidad": {
           "name": "navidad",

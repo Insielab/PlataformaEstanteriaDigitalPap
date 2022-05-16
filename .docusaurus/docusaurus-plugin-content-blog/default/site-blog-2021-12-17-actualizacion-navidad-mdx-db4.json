@@ -27,6 +27,10 @@
       "key": "imp1"
     }
   ],
+  "prevItem": {
+    "title": "Documentación para desarrolladores y personas técnicas",
+    "permalink": "/blog/documentación"
+  },
   "nextItem": {
     "title": "Aviso de privacidad",
     "permalink": "/blog/aviso-de-privacidad"

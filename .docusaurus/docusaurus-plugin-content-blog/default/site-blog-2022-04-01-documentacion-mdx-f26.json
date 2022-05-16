@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/documentación",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
+  "source": "@site/blog/2022-04-01-documentacion.mdx",
+  "title": "Documentación para desarrolladores y personas técnicas",
+  "description": "La Estantería Digital se divide en dos ramas de desarrollo: Plataforma y Archivo.",
+  "date": "2022-04-01T00:00:00.000Z",
+  "formattedDate": "April 1, 2022",
+  "tags": [
+    {
+      "label": "actualizacion",
+      "permalink": "/blog/tags/actualizacion"
+    },
+    {
+      "label": "documentacion",
+      "permalink": "/blog/tags/documentacion"
+    },
+    {
+      "label": "interno",
+      "permalink": "/blog/tags/interno"
+    }
+  ],
+  "readingTime": 2.575,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "prevItem": {
+    "title": "Código de conducta de la comunidad y colaboradores.",
+    "permalink": "/blog/codigo-de-conducta"
+  },
+  "nextItem": {
+    "title": "Actualización de Primavera",
+    "permalink": "/blog/actualizacion-primavera"
+  }
+}

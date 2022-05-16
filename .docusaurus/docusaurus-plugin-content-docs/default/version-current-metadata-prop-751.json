@@ -46,6 +46,24 @@
             "type": "link",
             "label": "Historia mínima de la Comunidad Judía en Papalotla",
             "href": "/historias-constumbres.mdx/judios-papalotla"
+          },
+          {
+            "type": "category",
+            "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+            "items": [
+              {
+                "type": "link",
+                "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "href": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+              },
+              {
+                "type": "link",
+                "label": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "href": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
           }
         ],
         "collapsed": true,

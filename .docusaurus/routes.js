@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','e0a'),
+    component: ComponentCreator('/blog','185'),
     exact: true
   },
   {
@@ -64,8 +64,18 @@ export default [
     exact: true
   },
   {
+    path: '/blog/codigo-de-conducta',
+    component: ComponentCreator('/blog/codigo-de-conducta','6bf'),
+    exact: true
+  },
+  {
     path: '/blog/consejo',
     component: ComponentCreator('/blog/consejo','a2d'),
+    exact: true
+  },
+  {
+    path: '/blog/documentación',
+    component: ComponentCreator('/blog/documentación','67b'),
     exact: true
   },
   {
@@ -85,7 +95,12 @@ export default [
   },
   {
     path: '/blog/tags/actualizacion',
-    component: ComponentCreator('/blog/tags/actualizacion','8eb'),
+    component: ComponentCreator('/blog/tags/actualizacion','6d8'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/documentacion',
+    component: ComponentCreator('/blog/tags/documentacion','8ff'),
     exact: true
   },
   {
@@ -114,6 +129,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/tags/interno',
+    component: ComponentCreator('/blog/tags/interno','568'),
+    exact: true
+  },
+  {
     path: '/blog/tags/navidad',
     component: ComponentCreator('/blog/tags/navidad','77e'),
     exact: true
@@ -130,7 +150,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','7c6'),
+    component: ComponentCreator('/','525'),
     routes: [
       {
         path: '/',
@@ -207,6 +227,18 @@ export default [
       {
         path: '/historias-constumbres.mdx/organizacion-carnaval',
         component: ComponentCreator('/historias-constumbres.mdx/organizacion-carnaval','a5b'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval',
+        component: ComponentCreator('/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval','b69'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
+      {
+        path: '/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias',
+        component: ComponentCreator('/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias','672'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

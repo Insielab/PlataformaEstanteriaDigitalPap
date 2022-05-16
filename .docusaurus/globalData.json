@@ -71,6 +71,16 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "path": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "path": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "historias-constumbres.mdx/senor_del_monte",
               "path": "/historias-constumbres.mdx/senor_del_monte",
               "sidebar": "tutorialSidebar"

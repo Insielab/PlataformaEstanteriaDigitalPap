@@ -8,7 +8,7 @@
   "sourceDirName": ".",
   "slug": "/",
   "permalink": "/",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-    "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+    "title": "Historia mínima de la Comunidad Judía en Papalotla",
+    "permalink": "/historias-constumbres.mdx/judios-papalotla"
   },
   "next": {
     "title": "Primera Acta de Sesión de Cabildo (2017)",

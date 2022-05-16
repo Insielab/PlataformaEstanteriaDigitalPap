@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/estatutos",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "Estatutos de financiación y gastos",
   "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
@@ -24,7 +24,7 @@
     }
   ],
   "prevItem": {
-    "title": "Welcome",
+    "title": "Preguntas frecuentes",
     "permalink": "/blog/"
   },
   "nextItem": {

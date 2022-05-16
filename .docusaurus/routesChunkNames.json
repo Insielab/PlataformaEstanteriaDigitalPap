@@ -214,7 +214,7 @@
     "component": "component---theme-doc-tags-list-page-372-89e",
     "tags": "tags---tags-559-690"
   },
-  "/-525": {
+  "/-686": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---935-fcf"
   },
@@ -265,10 +265,6 @@
   "/historias-constumbres.mdx/la-muneca-letra-1b6": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---historias-constumbres-mdx-la-muneca-letra-256-3b1"
-  },
-  "/historias-constumbres.mdx/organizacion-carnaval-a5b": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---historias-constumbres-mdx-organizacion-carnaval-3-cd-d17"
   },
   "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval-b69": {
     "component": "component---theme-doc-item-178-a40",

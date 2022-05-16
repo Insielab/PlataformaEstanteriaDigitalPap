@@ -13,6 +13,24 @@
         "label": "Historias y costumbres",
         "items": [
           {
+            "type": "category",
+            "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+            "items": [
+              {
+                "type": "link",
+                "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "href": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+              },
+              {
+                "type": "link",
+                "label": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "href": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
             "type": "link",
             "label": "El culto al Señor del Monte en las inmediaciones de la Malinche",
             "href": "/historias-constumbres.mdx/senor_del_monte"
@@ -21,11 +39,6 @@
             "type": "link",
             "label": "Arqueología del paisaje en La Malinche",
             "href": "/historias-constumbres.mdx/arqueologia-malinche"
-          },
-          {
-            "type": "link",
-            "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-            "href": "/historias-constumbres.mdx/organizacion-carnaval"
           },
           {
             "type": "link",
@@ -46,24 +59,6 @@
             "type": "link",
             "label": "Historia mínima de la Comunidad Judía en Papalotla",
             "href": "/historias-constumbres.mdx/judios-papalotla"
-          },
-          {
-            "type": "category",
-            "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-            "items": [
-              {
-                "type": "link",
-                "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "href": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
-              },
-              {
-                "type": "link",
-                "label": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "href": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
-              }
-            ],
-            "collapsed": true,
-            "collapsible": true
           }
         ],
         "collapsed": true,

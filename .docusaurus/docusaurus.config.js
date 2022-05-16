@@ -1,13 +1,13 @@
 export default {
   "title": "Estantería Digital de Papalotla",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Repositorio histórico y cultural",
   "url": "https://estanteria.impossiblebox.me",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "ignore",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "ImpossibleBoxMX",
+  "projectName": "estanteriadigital",
   "presets": [
     [
       "@docusaurus/preset-classic",
@@ -15,11 +15,11 @@ export default {
         "docs": {
           "sidebarPath": "/home/oscar/estanteriadigital/sidebars.js",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/"
+          "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/"
+          "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/"
         },
         "theme": {
           "customCss": "/home/oscar/estanteriadigital/src/css/custom.css"
@@ -47,7 +47,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla",
+          "href": "https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2",
           "label": "Repositorio de GitHub",
           "position": "right"
         }
@@ -82,12 +82,12 @@ export default {
           "title": "Comunidad",
           "items": [
             {
-              "label": "Facebook",
-              "href": "https://www.facebook.com/EstanteriaDigital"
+              "label": "Código de conducta",
+              "href": "/blog/codigo-de-conducta"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Facebook",
+              "href": "https://www.facebook.com/EstanteriaDigital"
             }
           ]
         },
@@ -100,7 +100,7 @@ export default {
             },
             {
               "label": "Aviso de privacidad",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "/blog/aviso-de-privacidad"
             }
           ]
         }

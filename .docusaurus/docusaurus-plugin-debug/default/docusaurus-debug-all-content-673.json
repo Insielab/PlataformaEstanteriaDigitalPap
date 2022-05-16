@@ -7,8 +7,8 @@
           "versionLabel": "Next",
           "versionPath": "/",
           "tagsPath": "/tags",
-          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
-          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionEditUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs",
+          "versionEditUrlLocalized": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -25,16 +25,28 @@
                 "label": "Historias y costumbres",
                 "items": [
                   {
+                    "type": "category",
+                    "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
                     "type": "doc",
                     "id": "historias-constumbres.mdx/senor_del_monte"
                   },
                   {
                     "type": "doc",
                     "id": "historias-constumbres.mdx/arqueologia-malinche"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "historias-constumbres.mdx/organizacion-carnaval"
                   },
                   {
                     "type": "doc",
@@ -51,22 +63,6 @@
                   {
                     "type": "doc",
                     "id": "historias-constumbres.mdx/judios-papalotla"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
-                      },
-                      {
-                        "type": "doc",
-                        "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
-                      }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
                   }
                 ],
                 "collapsed": true,
@@ -313,7 +309,7 @@
               "sourceDirName": "archivos-musicales.mdx",
               "slug": "/archivos-musicales.mdx/carnaval-papalotla",
               "permalink": "/archivos-musicales.mdx/carnaval-papalotla",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -340,7 +336,7 @@
               "sourceDirName": "documentos-publicos",
               "slug": "/documentos-publicos/acta-cabildo",
               "permalink": "/documentos-publicos/acta-cabildo",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/acta-cabildo.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/acta-cabildo.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -367,7 +363,7 @@
               "sourceDirName": "documentos-publicos",
               "slug": "/documentos-publicos/asignación-programas",
               "permalink": "/documentos-publicos/asignación-programas",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/asignación-programas.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/asignación-programas.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -394,7 +390,7 @@
               "sourceDirName": "documentos-publicos",
               "slug": "/documentos-publicos/fortamun",
               "permalink": "/documentos-publicos/fortamun",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/fortamun.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/fortamun.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -421,7 +417,7 @@
               "sourceDirName": "documentos-publicos",
               "slug": "/documentos-publicos/presupuesto-egresos-17",
               "permalink": "/documentos-publicos/presupuesto-egresos-17",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/presupuesto-egresos-17.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/presupuesto-egresos-17.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -448,7 +444,7 @@
               "sourceDirName": "documentos-publicos",
               "slug": "/documentos-publicos/servidores-publicos17",
               "permalink": "/documentos-publicos/servidores-publicos17",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/documentos-publicos/servidores-publicos17.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/servidores-publicos17.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -475,7 +471,7 @@
               "sourceDirName": "historias-constumbres.mdx",
               "slug": "/historias-constumbres.mdx/agua-puebla",
               "permalink": "/historias-constumbres.mdx/agua-puebla",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/agua-puebla.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/agua-puebla.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -484,8 +480,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval"
+                "title": "Arqueología del paisaje en La Malinche",
+                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
               },
               "next": {
                 "title": "Letra de La Danza de la Muñeca",
@@ -502,7 +498,7 @@
               "sourceDirName": "historias-constumbres.mdx",
               "slug": "/historias-constumbres.mdx/arqueologia-malinche",
               "permalink": "/historias-constumbres.mdx/arqueologia-malinche",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -515,8 +511,8 @@
                 "permalink": "/historias-constumbres.mdx/senor_del_monte"
               },
               "next": {
-                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval"
+                "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+                "permalink": "/historias-constumbres.mdx/agua-puebla"
               }
             },
             {
@@ -529,7 +525,7 @@
               "sourceDirName": "historias-constumbres.mdx",
               "slug": "/historias-constumbres.mdx/impacto-volkswagen",
               "permalink": "/historias-constumbres.mdx/impacto-volkswagen",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -556,7 +552,7 @@
               "sourceDirName": "historias-constumbres.mdx",
               "slug": "/historias-constumbres.mdx/judios-papalotla",
               "permalink": "/historias-constumbres.mdx/judios-papalotla",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -569,8 +565,8 @@
                 "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
               },
               "next": {
-                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+                "permalink": "/"
               }
             },
             {
@@ -583,7 +579,7 @@
               "sourceDirName": "historias-constumbres.mdx",
               "slug": "/historias-constumbres.mdx/la-muneca-letra",
               "permalink": "/historias-constumbres.mdx/la-muneca-letra",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -601,33 +597,6 @@
               }
             },
             {
-              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval",
-              "id": "historias-constumbres.mdx/organizacion-carnaval",
-              "isDocsHomePage": false,
-              "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-              "description": "|Autor:| Joel Dávila Guitiérrez |",
-              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/organizacion-carnaval",
-              "permalink": "/historias-constumbres.mdx/organizacion-carnaval",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Arqueología del paisaje en La Malinche",
-                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
-              },
-              "next": {
-                "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-                "permalink": "/historias-constumbres.mdx/agua-puebla"
-              }
-            },
-            {
               "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
               "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
               "isDocsHomePage": false,
@@ -637,7 +606,7 @@
               "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
               "slug": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
               "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -645,10 +614,6 @@
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Historia mínima de la Comunidad Judía en Papalotla",
-                "permalink": "/historias-constumbres.mdx/judios-papalotla"
-              },
               "next": {
                 "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
                 "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
@@ -659,12 +624,12 @@
               "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
               "isDocsHomePage": false,
               "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-              "description": "Some content with markdown syntax. Check this api.",
+              "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digiatlizado usando",
               "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
               "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
               "slug": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
               "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -677,8 +642,8 @@
                 "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
               },
               "next": {
-                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-                "permalink": "/"
+                "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+                "permalink": "/historias-constumbres.mdx/senor_del_monte"
               }
             },
             {
@@ -691,7 +656,7 @@
               "sourceDirName": "historias-constumbres.mdx",
               "slug": "/historias-constumbres.mdx/senor_del_monte",
               "permalink": "/historias-constumbres.mdx/senor_del_monte",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -699,6 +664,10 @@
                 "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+              },
               "next": {
                 "title": "Arqueología del paisaje en La Malinche",
                 "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
@@ -714,7 +683,7 @@
               "sourceDirName": ".",
               "slug": "/",
               "permalink": "/",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/intro.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -724,8 +693,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+                "title": "Historia mínima de la Comunidad Judía en Papalotla",
+                "permalink": "/historias-constumbres.mdx/judios-papalotla"
               },
               "next": {
                 "title": "Primera Acta de Sesión de Cabildo (2017)",
@@ -742,7 +711,7 @@
               "sourceDirName": "leyes-estatales-municipales",
               "slug": "/leyes-estatales-municipales/regalamento-transito",
               "permalink": "/leyes-estatales-municipales/regalamento-transito",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/regalamento-transito.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -769,7 +738,7 @@
               "sourceDirName": "planes-de-desarrollo",
               "slug": "/planes-de-desarrollo/desarrollo-artesanias",
               "permalink": "/planes-de-desarrollo/desarrollo-artesanias",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -796,7 +765,7 @@
               "sourceDirName": "planes-de-desarrollo",
               "slug": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
               "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -823,7 +792,7 @@
               "sourceDirName": "polemicas-resoluciones",
               "slug": "/polemicas-resoluciones/elecciones-san-buenaventura",
               "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -850,7 +819,7 @@
               "sourceDirName": "polemicas-resoluciones",
               "slug": "/polemicas-resoluciones/fallecimiento-influenza",
               "permalink": "/polemicas-resoluciones/fallecimiento-influenza",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -877,7 +846,7 @@
               "sourceDirName": "polemicas-resoluciones",
               "slug": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
               "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -904,7 +873,7 @@
               "sourceDirName": "polemicas-resoluciones",
               "slug": "/polemicas-resoluciones/relacion-papalotla-panzacola",
               "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -931,7 +900,7 @@
               "sourceDirName": "proteccion-civil",
               "slug": "/proteccion-civil/atlas-riesgos",
               "permalink": "/proteccion-civil/atlas-riesgos",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/proteccion-civil/atlas-riesgos.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/proteccion-civil/atlas-riesgos.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -958,7 +927,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
               "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
@@ -985,7 +954,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
               "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
@@ -1012,7 +981,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/educacion",
               "permalink": "/recursos-estadisticos/censo-poblacion/educacion",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -1039,7 +1008,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/etnicidad",
               "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -1066,7 +1035,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
               "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -1093,7 +1062,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/poblacion",
               "permalink": "/recursos-estadisticos/censo-poblacion/poblacion",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1120,7 +1089,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
               "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -1147,7 +1116,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
               "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -1174,7 +1143,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/resumen",
               "permalink": "/recursos-estadisticos/censo-poblacion/resumen",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1201,7 +1170,7 @@
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
               "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 8,
@@ -1228,7 +1197,7 @@
               "sourceDirName": "recursos-graficos",
               "slug": "/recursos-graficos/altura",
               "permalink": "/recursos-graficos/altura",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/altura.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/altura.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1255,7 +1224,7 @@
               "sourceDirName": "recursos-graficos",
               "slug": "/recursos-graficos/escudo-e-identidades",
               "permalink": "/recursos-graficos/escudo-e-identidades",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/escudo-e-identidades.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/escudo-e-identidades.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -1282,7 +1251,7 @@
               "sourceDirName": "recursos-graficos",
               "slug": "/recursos-graficos/mancha-urbana",
               "permalink": "/recursos-graficos/mancha-urbana",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/mancha-urbana.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mancha-urbana.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1309,7 +1278,7 @@
               "sourceDirName": "recursos-graficos",
               "slug": "/recursos-graficos/mapa",
               "permalink": "/recursos-graficos/mapa",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/recursos-graficos/mapa.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mapa.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -1336,7 +1305,7 @@
               "sourceDirName": "salud-publica/pandemia-datos",
               "slug": "/salud-publica/pandemia-datos/positivo-presidente",
               "permalink": "/salud-publica/pandemia-datos/positivo-presidente",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -1363,7 +1332,7 @@
               "sourceDirName": "salud-publica/pandemia-datos",
               "slug": "/salud-publica/pandemia-datos/relevantes-datos",
               "permalink": "/salud-publica/pandemia-datos/relevantes-datos",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -1390,7 +1359,7 @@
               "sourceDirName": "salud-publica/pandemia-datos",
               "slug": "/salud-publica/pandemia-datos/vacunacion",
               "permalink": "/salud-publica/pandemia-datos/vacunacion",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/salud-publica/pandemia-datos/vacunacion.mdx",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/vacunacion.mdx",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -1417,7 +1386,7 @@
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratultions",
               "permalink": "/tutorial-basics/congratultions",
-              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/congratultions.md",
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/tutorial-basics/congratultions.md",
               "tags": [],
               "version": "current",
               "frontMatter": {},
@@ -1440,7 +1409,7 @@
           "id": "/codigo-de-conducta",
           "metadata": {
             "permalink": "/blog/codigo-de-conducta",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
             "source": "@site/blog/2022-05-14-codigo-comunidad.mdx",
             "title": "Código de conducta de la comunidad y colaboradores.",
             "description": "Nuestro compromiso",
@@ -1475,7 +1444,7 @@
           "id": "documentación",
           "metadata": {
             "permalink": "/blog/documentación",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
             "source": "@site/blog/2022-04-01-documentacion.mdx",
             "title": "Documentación para desarrolladores y personas técnicas",
             "description": "La Estantería Digital se divide en dos ramas de desarrollo: Plataforma y Archivo.",
@@ -1520,7 +1489,7 @@
           "id": "actualizacion-primavera",
           "metadata": {
             "permalink": "/blog/actualizacion-primavera",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
             "source": "@site/blog/2021-12-17-actualizacion-navidad.mdx",
             "title": "Actualización de Primavera",
             "description": "actualizacion-arbol",
@@ -1561,7 +1530,7 @@
           "id": "aviso-de-privacidad",
           "metadata": {
             "permalink": "/blog/aviso-de-privacidad",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
             "source": "@site/blog/2021-10-17-privacidad.mdx",
             "title": "Aviso de privacidad",
             "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
@@ -1590,7 +1559,7 @@
           "id": "estatutos-uno",
           "metadata": {
             "permalink": "/blog/estatutos-uno",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
             "source": "@site/blog/2021-10-16-first-blog-post.md",
             "title": "Declaraciones sobre la Mesa de Administración",
             "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
@@ -1622,7 +1591,7 @@
               "permalink": "/blog/aviso-de-privacidad"
             },
             "nextItem": {
-              "title": "Welcome",
+              "title": "Preguntas frecuentes",
               "permalink": "/blog/"
             }
           }
@@ -1631,10 +1600,10 @@
           "id": "/",
           "metadata": {
             "permalink": "/blog/",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
-            "title": "Welcome",
-            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "title": "Preguntas frecuentes",
+            "description": "",
             "date": "2021-08-26T00:00:00.000Z",
             "formattedDate": "August 26, 2021",
             "tags": [
@@ -1651,22 +1620,15 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.405,
+            "readingTime": 0,
             "truncated": false,
             "authors": [
               {
-                "name": "Consejo de Contenido",
-                "title": "Estantería Digital de Papalotla",
-                "url": "https://sebastienlorber.com",
-                "imageURL": "https://github.com/slorber.png",
-                "key": "slorber"
-              },
-              {
-                "name": "Yangshun Tay",
-                "title": "Front End Engineer @ Facebook",
-                "url": "https://github.com/yangshun",
-                "imageURL": "https://github.com/yangshun.png",
-                "key": "yangshun"
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
               }
             ],
             "prevItem": {
@@ -1683,7 +1645,7 @@
           "id": "estatutos",
           "metadata": {
             "permalink": "/blog/estatutos",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "Estatutos de financiación y gastos",
             "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
@@ -1707,7 +1669,7 @@
               }
             ],
             "prevItem": {
-              "title": "Welcome",
+              "title": "Preguntas frecuentes",
               "permalink": "/blog/"
             },
             "nextItem": {
@@ -1720,7 +1682,7 @@
           "id": "consejo",
           "metadata": {
             "permalink": "/blog/consejo",
-            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
             "source": "@site/blog/2019-05-29-long-blog-post.mdx",
             "title": "Declaración sobre el Consejo de Contenido",
             "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos",

@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Arqueología del paisaje en La Malinche",
-    "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
+    "title": "Historia mínima de la Comunidad Judía en Papalotla",
+    "permalink": "/historias-constumbres.mdx/judios-papalotla"
   },
   "next": {
-    "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-    "permalink": "/historias-constumbres.mdx/agua-puebla"
+    "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+    "permalink": "/"
   }
 }

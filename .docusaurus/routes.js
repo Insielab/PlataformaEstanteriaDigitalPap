@@ -150,7 +150,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/','525'),
+    component: ComponentCreator('/','686'),
     routes: [
       {
         path: '/',
@@ -221,12 +221,6 @@ export default [
       {
         path: '/historias-constumbres.mdx/la-muneca-letra',
         component: ComponentCreator('/historias-constumbres.mdx/la-muneca-letra','1b6'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/historias-constumbres.mdx/organizacion-carnaval',
-        component: ComponentCreator('/historias-constumbres.mdx/organizacion-carnaval','a5b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },

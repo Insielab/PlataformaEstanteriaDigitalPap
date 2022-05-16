@@ -1,6 +1,6 @@
 {
   "permalink": "/blog/estatutos-uno",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
   "source": "@site/blog/2021-10-16-first-blog-post.md",
   "title": "Declaraciones sobre la Mesa de Administración",
   "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
@@ -32,7 +32,7 @@
     "permalink": "/blog/aviso-de-privacidad"
   },
   "nextItem": {
-    "title": "Welcome",
+    "title": "Preguntas frecuentes",
     "permalink": "/blog/"
   }
 }

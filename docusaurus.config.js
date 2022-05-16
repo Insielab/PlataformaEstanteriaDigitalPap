@@ -5,14 +5,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Estantería Digital de Papalotla',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Repositorio histórico y cultural',
   url: 'https://estanteria.impossiblebox.me',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ImpossibleBoxMX', // Usually your GitHub org/user name.
+  projectName: 'estanteriadigital', // Usually your repo name.
 
   presets: [
     [
@@ -23,13 +23,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           routeBasePath: '/',
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,7 +56,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Actualizaciones', position: 'left'},
           {
-            href: 'https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla',
+            href: 'https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2',
             label: 'Repositorio de GitHub',
             position: 'right',
           },
@@ -95,12 +95,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Comunidad',
             items: [
               {
-                label: 'Facebook',
-                href: 'https://www.facebook.com/EstanteriaDigital',
+                label: 'Código de conducta',
+                href: '/blog/codigo-de-conducta',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/EstanteriaDigital',
               },
             ],
           },
@@ -113,7 +113,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Aviso de privacidad',
-                href: 'https://github.com/facebook/docusaurus',
+                href: '/blog/aviso-de-privacidad',
               },
             ],
           },

@@ -8,7 +8,7 @@
   "sourceDirName": "historias-constumbres.mdx",
   "slug": "/historias-constumbres.mdx/senor_del_monte",
   "permalink": "/historias-constumbres.mdx/senor_del_monte",
-  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -16,6 +16,10 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+    "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+  },
   "next": {
     "title": "Arqueología del paisaje en La Malinche",
     "permalink": "/historias-constumbres.mdx/arqueologia-malinche"

@@ -4,7 +4,7 @@
       "id": "/codigo-de-conducta",
       "metadata": {
         "permalink": "/blog/codigo-de-conducta",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-05-14-codigo-comunidad.mdx",
         "source": "@site/blog/2022-05-14-codigo-comunidad.mdx",
         "title": "Código de conducta de la comunidad y colaboradores.",
         "description": "Nuestro compromiso",
@@ -39,7 +39,7 @@
       "id": "documentación",
       "metadata": {
         "permalink": "/blog/documentación",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-04-01-documentacion.mdx",
         "source": "@site/blog/2022-04-01-documentacion.mdx",
         "title": "Documentación para desarrolladores y personas técnicas",
         "description": "La Estantería Digital se divide en dos ramas de desarrollo: Plataforma y Archivo.",
@@ -84,7 +84,7 @@
       "id": "actualizacion-primavera",
       "metadata": {
         "permalink": "/blog/actualizacion-primavera",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
         "source": "@site/blog/2021-12-17-actualizacion-navidad.mdx",
         "title": "Actualización de Primavera",
         "description": "actualizacion-arbol",
@@ -125,7 +125,7 @@
       "id": "aviso-de-privacidad",
       "metadata": {
         "permalink": "/blog/aviso-de-privacidad",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
         "source": "@site/blog/2021-10-17-privacidad.mdx",
         "title": "Aviso de privacidad",
         "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
@@ -154,7 +154,7 @@
       "id": "estatutos-uno",
       "metadata": {
         "permalink": "/blog/estatutos-uno",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
         "source": "@site/blog/2021-10-16-first-blog-post.md",
         "title": "Declaraciones sobre la Mesa de Administración",
         "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
@@ -186,7 +186,7 @@
           "permalink": "/blog/aviso-de-privacidad"
         },
         "nextItem": {
-          "title": "Welcome",
+          "title": "Preguntas frecuentes",
           "permalink": "/blog/"
         }
       }
@@ -195,10 +195,10 @@
       "id": "/",
       "metadata": {
         "permalink": "/blog/",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
         "source": "@site/blog/2021-08-26-welcome/index.md",
-        "title": "Welcome",
-        "description": "Docusaurus blogging features are powered by the blog plugin.",
+        "title": "Preguntas frecuentes",
+        "description": "",
         "date": "2021-08-26T00:00:00.000Z",
         "formattedDate": "August 26, 2021",
         "tags": [
@@ -215,22 +215,15 @@
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 0.405,
+        "readingTime": 0,
         "truncated": false,
         "authors": [
           {
-            "name": "Consejo de Contenido",
-            "title": "Estantería Digital de Papalotla",
-            "url": "https://sebastienlorber.com",
-            "imageURL": "https://github.com/slorber.png",
-            "key": "slorber"
-          },
-          {
-            "name": "Yangshun Tay",
-            "title": "Front End Engineer @ Facebook",
-            "url": "https://github.com/yangshun",
-            "imageURL": "https://github.com/yangshun.png",
-            "key": "yangshun"
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Impossible Box de México",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "imp1"
           }
         ],
         "prevItem": {
@@ -247,7 +240,7 @@
       "id": "estatutos",
       "metadata": {
         "permalink": "/blog/estatutos",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
         "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
         "title": "Estatutos de financiación y gastos",
         "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
@@ -271,7 +264,7 @@
           }
         ],
         "prevItem": {
-          "title": "Welcome",
+          "title": "Preguntas frecuentes",
           "permalink": "/blog/"
         },
         "nextItem": {
@@ -284,7 +277,7 @@
       "id": "consejo",
       "metadata": {
         "permalink": "/blog/consejo",
-        "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
         "source": "@site/blog/2019-05-29-long-blog-post.mdx",
         "title": "Declaración sobre el Consejo de Contenido",
         "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos",

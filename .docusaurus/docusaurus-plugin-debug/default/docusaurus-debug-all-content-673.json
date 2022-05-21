@@ -624,7 +624,7 @@
               "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
               "isDocsHomePage": false,
               "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-              "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digiatlizado usando",
+              "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digitalizado usando",
               "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
               "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
               "slug": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
@@ -1406,6 +1406,34 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "/preguntas",
+          "metadata": {
+            "permalink": "/blog/preguntas",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-05-22-preguntas.mdx",
+            "source": "@site/blog/2022-05-22-preguntas.mdx",
+            "title": "Preguntas frecuentes",
+            "description": "¿Qué es la Estantería Digital de Papalotla?",
+            "date": "2022-05-22T00:00:00.000Z",
+            "formattedDate": "May 22, 2022",
+            "tags": [],
+            "readingTime": 1.415,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "nextItem": {
+              "title": "Código de conducta de la comunidad y colaboradores.",
+              "permalink": "/blog/codigo-de-conducta"
+            }
+          }
+        },
+        {
           "id": "/codigo-de-conducta",
           "metadata": {
             "permalink": "/blog/codigo-de-conducta",
@@ -1434,6 +1462,10 @@
                 "key": "imp1"
               }
             ],
+            "prevItem": {
+              "title": "Preguntas frecuentes",
+              "permalink": "/blog/preguntas"
+            },
             "nextItem": {
               "title": "Documentación para desarrolladores y personas técnicas",
               "permalink": "/blog/documentación"
@@ -1464,7 +1496,7 @@
                 "permalink": "/blog/tags/interno"
               }
             ],
-            "readingTime": 2.575,
+            "readingTime": 2.58,
             "truncated": false,
             "authors": [
               {
@@ -1723,13 +1755,14 @@
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 8,
+            "totalCount": 9,
             "previousPage": null,
             "nextPage": null,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           },
           "items": [
+            "/preguntas",
             "/codigo-de-conducta",
             "documentación",
             "actualizacion-primavera",

@@ -1,0 +1,25 @@
+{
+  "permalink": "/blog/preguntas",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-05-22-preguntas.mdx",
+  "source": "@site/blog/2022-05-22-preguntas.mdx",
+  "title": "Preguntas frecuentes",
+  "description": "¿Qué es la Estantería Digital de Papalotla?",
+  "date": "2022-05-22T00:00:00.000Z",
+  "formattedDate": "May 22, 2022",
+  "tags": [],
+  "readingTime": 1.415,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "nextItem": {
+    "title": "Código de conducta de la comunidad y colaboradores.",
+    "permalink": "/blog/codigo-de-conducta"
+  }
+}

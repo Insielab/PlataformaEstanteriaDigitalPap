@@ -40,7 +40,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog','185'),
+    component: ComponentCreator('/blog','0ad'),
     exact: true
   },
   {
@@ -86,6 +86,11 @@ export default [
   {
     path: '/blog/estatutos-uno',
     component: ComponentCreator('/blog/estatutos-uno','0de'),
+    exact: true
+  },
+  {
+    path: '/blog/preguntas',
+    component: ComponentCreator('/blog/preguntas','021'),
     exact: true
   },
   {

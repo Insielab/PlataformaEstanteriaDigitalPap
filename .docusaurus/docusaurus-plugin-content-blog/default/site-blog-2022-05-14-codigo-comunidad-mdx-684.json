@@ -25,6 +25,10 @@
       "key": "imp1"
     }
   ],
+  "prevItem": {
+    "title": "Preguntas frecuentes",
+    "permalink": "/blog/preguntas"
+  },
   "nextItem": {
     "title": "Documentación para desarrolladores y personas técnicas",
     "permalink": "/blog/documentación"

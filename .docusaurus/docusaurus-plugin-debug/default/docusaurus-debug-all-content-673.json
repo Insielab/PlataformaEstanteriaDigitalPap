@@ -1444,7 +1444,7 @@
             "date": "2022-05-14T00:00:00.000Z",
             "formattedDate": "May 14, 2022",
             "tags": [],
-            "readingTime": 4.095,
+            "readingTime": 4.125,
             "truncated": false,
             "authors": [
               {
@@ -1496,7 +1496,7 @@
                 "permalink": "/blog/tags/interno"
               }
             ],
-            "readingTime": 2.58,
+            "readingTime": 2.59,
             "truncated": false,
             "authors": [
               {
@@ -1565,7 +1565,7 @@
             "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-17-privacidad.mdx",
             "source": "@site/blog/2021-10-17-privacidad.mdx",
             "title": "Aviso de privacidad",
-            "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:",
+            "description": "Impossible Box de México S.A.S. de C.V. mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales en la Estantería Digital de Papalotla, y al respecto le informamos lo siguiente:",
             "date": "2021-10-17T00:00:00.000Z",
             "formattedDate": "October 17, 2021",
             "tags": [
@@ -1574,7 +1574,7 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 3.46,
+            "readingTime": 3.54,
             "truncated": false,
             "authors": [],
             "prevItem": {

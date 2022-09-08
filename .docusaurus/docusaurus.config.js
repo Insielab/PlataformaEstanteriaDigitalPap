@@ -96,7 +96,7 @@ export default {
           "items": [
             {
               "label": "Preguntas frecuentes",
-              "to": "/blog/estatutos-uno"
+              "to": "/blog/preguntas"
             },
             {
               "label": "Aviso de privacidad",

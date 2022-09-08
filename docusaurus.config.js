@@ -109,7 +109,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Preguntas frecuentes',
-                to: '/blog/estatutos-uno',
+                to: '/blog/preguntas',
               },
               {
                 label: 'Aviso de privacidad',

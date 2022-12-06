@@ -17,7 +17,7 @@
     }
   ],
   "readingTime": 1.67,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -27,6 +27,15 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "estatutos-uno",
+    "title": "Declaraciones sobre la Mesa de Administración",
+    "authors": "imp1",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
   "prevItem": {
     "title": "Aviso de privacidad",
     "permalink": "/blog/aviso-de-privacidad"

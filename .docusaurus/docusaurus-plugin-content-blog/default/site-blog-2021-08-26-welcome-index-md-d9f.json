@@ -21,7 +21,7 @@
     }
   ],
   "readingTime": 0,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -31,6 +31,18 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "/",
+    "title": "Preguntas frecuentes",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus"
+    ]
+  },
   "prevItem": {
     "title": "Declaraciones sobre la Mesa de Administración",
     "permalink": "/blog/estatutos-uno"

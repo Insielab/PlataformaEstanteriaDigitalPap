@@ -21,7 +21,7 @@
     }
   ],
   "readingTime": 2.59,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -31,6 +31,18 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "documentación",
+    "title": "Documentación para desarrolladores y personas técnicas",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "actualizacion",
+      "documentacion",
+      "interno"
+    ]
+  },
   "prevItem": {
     "title": "Código de conducta de la comunidad y colaboradores.",
     "permalink": "/blog/codigo-de-conducta"

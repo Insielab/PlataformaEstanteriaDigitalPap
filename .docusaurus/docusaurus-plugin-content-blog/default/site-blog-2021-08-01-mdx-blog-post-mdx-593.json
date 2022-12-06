@@ -13,7 +13,7 @@
     }
   ],
   "readingTime": 1.24,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -23,6 +23,16 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "estatutos",
+    "title": "Estatutos de financiación y gastos",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "estatutos"
+    ]
+  },
   "prevItem": {
     "title": "Preguntas frecuentes",
     "permalink": "/blog/"

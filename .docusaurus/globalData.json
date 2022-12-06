@@ -215,9 +215,19 @@
               "path": "/tutorial-basics/congratultions",
               "sidebar": "tutorialSidebar"
             }
-          ]
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+                "label": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+              }
+            }
+          }
         }
-      ]
+      ],
+      "breadcrumbs": true
     }
   }
 }

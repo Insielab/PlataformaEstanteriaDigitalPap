@@ -17,7 +17,7 @@
     }
   ],
   "readingTime": 0.69,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -27,6 +27,15 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "consejo",
+    "title": "Declaración sobre el Consejo de Contenido",
+    "authors": "imp1",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
   "prevItem": {
     "title": "Estatutos de financiación y gastos",
     "permalink": "/blog/estatutos"

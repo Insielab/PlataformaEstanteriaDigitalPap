@@ -4,29 +4,1133 @@
       "loadedVersions": [
         {
           "versionName": "current",
-          "versionLabel": "Next",
-          "versionPath": "/",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
           "tagsPath": "/tags",
-          "versionEditUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs",
-          "versionEditUrlLocalized": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
-          "versionBanner": null,
-          "versionBadge": false,
-          "versionClassName": "docs-version-current",
+          "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs",
+          "editUrlLocalized": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/oscar/estanteriadigital/sidebars.js",
-          "contentPath": "/home/oscar/estanteriadigital/docs",
-          "contentPathLocalized": "/home/oscar/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
-          "mainDocId": "intro",
+          "sidebarFilePath": "/home/oscar/Escritorio/plataformaestanteria/sidebars.js",
+          "contentPath": "/home/oscar/Escritorio/plataformaestanteria/docs",
+          "contentPathLocalized": "/home/oscar/Escritorio/plataformaestanteria/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",
+              "id": "archivos-musicales.mdx/carnaval-papalotla",
+              "title": "Música del Carnaval de Papalotla",
+              "description": "Tabla de datos",
+              "source": "@site/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+              "sourceDirName": "archivos-musicales.mdx",
+              "slug": "/archivos-musicales.mdx/carnaval-papalotla",
+              "permalink": "/archivos-musicales.mdx/carnaval-papalotla",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Características de la vivienda",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+              },
+              "next": {
+                "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+                "permalink": "/proteccion-civil/atlas-riesgos"
+              }
+            },
+            {
+              "unversionedId": "documentos-publicos/acta-cabildo",
+              "id": "documentos-publicos/acta-cabildo",
+              "title": "Primera Acta de Sesión de Cabildo (2017)",
+              "description": "|Autor:|  |",
+              "source": "@site/docs/documentos-publicos/acta-cabildo.mdx",
+              "sourceDirName": "documentos-publicos",
+              "slug": "/documentos-publicos/acta-cabildo",
+              "permalink": "/documentos-publicos/acta-cabildo",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/acta-cabildo.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Presupuesto de Egresos de 2017",
+                "permalink": "/documentos-publicos/presupuesto-egresos-17"
+              }
+            },
+            {
+              "unversionedId": "documentos-publicos/asignación-programas",
+              "id": "documentos-publicos/asignación-programas",
+              "title": "Asignación de Recursos en programas sociales municipales (2015)",
+              "description": "|Autor:|Honorable Ayuntamiento de Papalotla de Xicohténcatl (2015)  |",
+              "source": "@site/docs/documentos-publicos/asignación-programas.mdx",
+              "sourceDirName": "documentos-publicos",
+              "slug": "/documentos-publicos/asignación-programas",
+              "permalink": "/documentos-publicos/asignación-programas",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/asignación-programas.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Informes de Aplicación de los recursos de FORTAMUN",
+                "permalink": "/documentos-publicos/fortamun"
+              },
+              "next": {
+                "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+                "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
+              }
+            },
+            {
+              "unversionedId": "documentos-publicos/fortamun",
+              "id": "documentos-publicos/fortamun",
+              "title": "Informes de Aplicación de los recursos de FORTAMUN",
+              "description": "|Autor:|  Honorable Ayuntamiento de Papalotla de Xicohténcatl|",
+              "source": "@site/docs/documentos-publicos/fortamun.mdx",
+              "sourceDirName": "documentos-publicos",
+              "slug": "/documentos-publicos/fortamun",
+              "permalink": "/documentos-publicos/fortamun",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/fortamun.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Lista de Servidores Públicos Papalotla 2017-2021",
+                "permalink": "/documentos-publicos/servidores-publicos17"
+              },
+              "next": {
+                "title": "Asignación de Recursos en programas sociales municipales (2015)",
+                "permalink": "/documentos-publicos/asignación-programas"
+              }
+            },
+            {
+              "unversionedId": "documentos-publicos/presupuesto-egresos-17",
+              "id": "documentos-publicos/presupuesto-egresos-17",
+              "title": "Presupuesto de Egresos de 2017",
+              "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
+              "source": "@site/docs/documentos-publicos/presupuesto-egresos-17.mdx",
+              "sourceDirName": "documentos-publicos",
+              "slug": "/documentos-publicos/presupuesto-egresos-17",
+              "permalink": "/documentos-publicos/presupuesto-egresos-17",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/presupuesto-egresos-17.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Primera Acta de Sesión de Cabildo (2017)",
+                "permalink": "/documentos-publicos/acta-cabildo"
+              },
+              "next": {
+                "title": "Lista de Servidores Públicos Papalotla 2017-2021",
+                "permalink": "/documentos-publicos/servidores-publicos17"
+              }
+            },
+            {
+              "unversionedId": "documentos-publicos/servidores-publicos17",
+              "id": "documentos-publicos/servidores-publicos17",
+              "title": "Lista de Servidores Públicos Papalotla 2017-2021",
+              "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
+              "source": "@site/docs/documentos-publicos/servidores-publicos17.mdx",
+              "sourceDirName": "documentos-publicos",
+              "slug": "/documentos-publicos/servidores-publicos17",
+              "permalink": "/documentos-publicos/servidores-publicos17",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/servidores-publicos17.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Presupuesto de Egresos de 2017",
+                "permalink": "/documentos-publicos/presupuesto-egresos-17"
+              },
+              "next": {
+                "title": "Informes de Aplicación de los recursos de FORTAMUN",
+                "permalink": "/documentos-publicos/fortamun"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/agua-puebla",
+              "id": "historias-constumbres.mdx/agua-puebla",
+              "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+              "description": "|Autor:| Sergio Francisco Rosas Salas |",
+              "source": "@site/docs/historias-constumbres.mdx/agua-puebla.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/agua-puebla",
+              "permalink": "/historias-constumbres.mdx/agua-puebla",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/agua-puebla.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Arqueología del paisaje en La Malinche",
+                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
+              },
+              "next": {
+                "title": "Letra de La Danza de la Muñeca",
+                "permalink": "/historias-constumbres.mdx/la-muneca-letra"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/arqueologia-malinche",
+              "id": "historias-constumbres.mdx/arqueologia-malinche",
+              "title": "Arqueología del paisaje en La Malinche",
+              "description": "|Autor:| Sergio Suárez Cruz |",
+              "source": "@site/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/arqueologia-malinche",
+              "permalink": "/historias-constumbres.mdx/arqueologia-malinche",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+                "permalink": "/historias-constumbres.mdx/senor_del_monte"
+              },
+              "next": {
+                "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+                "permalink": "/historias-constumbres.mdx/agua-puebla"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/impacto-volkswagen",
+              "id": "historias-constumbres.mdx/impacto-volkswagen",
+              "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+              "description": "|Autor:| Mariano Torres Bautista |",
+              "source": "@site/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/impacto-volkswagen",
+              "permalink": "/historias-constumbres.mdx/impacto-volkswagen",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Letra de La Danza de la Muñeca",
+                "permalink": "/historias-constumbres.mdx/la-muneca-letra"
+              },
+              "next": {
+                "title": "Historia mínima de la Comunidad Judía en Papalotla",
+                "permalink": "/historias-constumbres.mdx/judios-papalotla"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/judios-papalotla",
+              "id": "historias-constumbres.mdx/judios-papalotla",
+              "title": "Historia mínima de la Comunidad Judía en Papalotla",
+              "description": "|Autor:|Estanería Digital de Papalotla|",
+              "source": "@site/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/judios-papalotla",
+              "permalink": "/historias-constumbres.mdx/judios-papalotla",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+                "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
+              },
+              "next": {
+                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+                "permalink": "/"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/la-muneca-letra",
+              "id": "historias-constumbres.mdx/la-muneca-letra",
+              "title": "Letra de La Danza de la Muñeca",
+              "description": "|Autor:| Dominio público |",
+              "source": "@site/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/la-muneca-letra",
+              "permalink": "/historias-constumbres.mdx/la-muneca-letra",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+                "permalink": "/historias-constumbres.mdx/agua-puebla"
+              },
+              "next": {
+                "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+                "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+              "description": "|Autor:| Joel Dávila Guitiérrez |",
+              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
+              "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
+              "slug": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+              "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digitalizado usando",
+              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+              "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
+              "slug": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+              },
+              "next": {
+                "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+                "permalink": "/historias-constumbres.mdx/senor_del_monte"
+              }
+            },
+            {
+              "unversionedId": "historias-constumbres.mdx/senor_del_monte",
+              "id": "historias-constumbres.mdx/senor_del_monte",
+              "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+              "description": "|Autor:| Sergio Suárez Cruz |",
+              "source": "@site/docs/historias-constumbres.mdx/senor_del_monte.mdx",
+              "sourceDirName": "historias-constumbres.mdx",
+              "slug": "/historias-constumbres.mdx/senor_del_monte",
+              "permalink": "/historias-constumbres.mdx/senor_del_monte",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+              },
+              "next": {
+                "title": "Arqueología del paisaje en La Malinche",
+                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+              "description": "La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Historia mínima de la Comunidad Judía en Papalotla",
+                "permalink": "/historias-constumbres.mdx/judios-papalotla"
+              },
+              "next": {
+                "title": "Primera Acta de Sesión de Cabildo (2017)",
+                "permalink": "/documentos-publicos/acta-cabildo"
+              }
+            },
+            {
+              "unversionedId": "leyes-estatales-municipales/regalamento-transito",
+              "id": "leyes-estatales-municipales/regalamento-transito",
+              "title": "Reglamento de tránsito municipal",
+              "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+              "source": "@site/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+              "sourceDirName": "leyes-estatales-municipales",
+              "slug": "/leyes-estatales-municipales/regalamento-transito",
+              "permalink": "/leyes-estatales-municipales/regalamento-transito",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/regalamento-transito.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+                "permalink": "/proteccion-civil/atlas-riesgos"
+              },
+              "next": {
+                "title": "congratultions",
+                "permalink": "/tutorial-basics/congratultions"
+              }
+            },
+            {
+              "unversionedId": "planes-de-desarrollo/desarrollo-artesanias",
+              "id": "planes-de-desarrollo/desarrollo-artesanias",
+              "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+              "description": "|Autor:|Viridiana Elizabeth Ponce Vilchis, Ángel David Flores Domínguez|",
+              "source": "@site/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+              "sourceDirName": "planes-de-desarrollo",
+              "slug": "/planes-de-desarrollo/desarrollo-artesanias",
+              "permalink": "/planes-de-desarrollo/desarrollo-artesanias",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plan de desarrollo municipal 2017-2021",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+              },
+              "next": {
+                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+              }
+            },
+            {
+              "unversionedId": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "title": "Plan de desarrollo municipal 2017-2021",
+              "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+              "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+              "sourceDirName": "planes-de-desarrollo",
+              "slug": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+                "permalink": "/recursos-graficos/escudo-e-identidades"
+              },
+              "next": {
+                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/elecciones-san-buenaventura",
+              "id": "polemicas-resoluciones/elecciones-san-buenaventura",
+              "title": "Polémica por la elecciones de San Buenaventura de 2016",
+              "description": "Solicitud de impugnación de las elecciones auxiliares de San Buenaventura, Papalotla dirigio al Tribunal Electoral de Tlaxcala",
+              "source": "@site/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/elecciones-san-buenaventura",
+              "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+                "permalink": "/polemicas-resoluciones/fallecimiento-influenza"
+              },
+              "next": {
+                "title": "La complicada relación entre Panzacola y Papalotla",
+                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/fallecimiento-influenza",
+              "id": "polemicas-resoluciones/fallecimiento-influenza",
+              "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+              "description": "Exhorto del diputado Alberto Amaro Corona para el esclarecimiento del fallecimento de Blanca X. por un supuesto caso falso de Influenza H1N1 EN 2009.",
+              "source": "@site/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/fallecimiento-influenza",
+              "permalink": "/polemicas-resoluciones/fallecimiento-influenza",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+              },
+              "next": {
+                "title": "Polémica por la elecciones de San Buenaventura de 2016",
+                "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "id": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+              "description": "Archivo con la petición a la Suprema Corte de Justicia de la Nación para la invalidación de la pertenencia del territorio \"Los Lavaderos\" al municipio de Xicohtzinco.",
+              "source": "@site/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+              },
+              "next": {
+                "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+                "permalink": "/polemicas-resoluciones/fallecimiento-influenza"
+              }
+            },
+            {
+              "unversionedId": "polemicas-resoluciones/relacion-papalotla-panzacola",
+              "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
+              "title": "La complicada relación entre Panzacola y Papalotla",
+              "description": "|Autor:| Oscar Zambrano Lara |",
+              "source": "@site/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+              "sourceDirName": "polemicas-resoluciones",
+              "slug": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Polémica por la elecciones de San Buenaventura de 2016",
+                "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
+              },
+              "next": {
+                "title": "Resumen | Censo de Población y Vivienda 2020",
+                "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
+              }
+            },
+            {
+              "unversionedId": "proteccion-civil/atlas-riesgos",
+              "id": "proteccion-civil/atlas-riesgos",
+              "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+              "description": "|Autor:| Acierto consultores, S.C. / H. Ayuntamiento de Papalotla de Xicohténcatl |",
+              "source": "@site/docs/proteccion-civil/atlas-riesgos.mdx",
+              "sourceDirName": "proteccion-civil",
+              "slug": "/proteccion-civil/atlas-riesgos",
+              "permalink": "/proteccion-civil/atlas-riesgos",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/proteccion-civil/atlas-riesgos.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Música del Carnaval de Papalotla",
+                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+              },
+              "next": {
+                "title": "Reglamento de tránsito municipal",
+                "permalink": "/leyes-estatales-municipales/regalamento-transito"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "title": "Características económicas",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Educación",
+                "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
+              },
+              "next": {
+                "title": "Acceso a servicios de salud",
+                "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "title": "Características de la vivienda",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acceso a servicios de salud",
+                "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+              },
+              "next": {
+                "title": "Música del Carnaval de Papalotla",
+                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/educacion",
+              "id": "recursos-estadisticos/censo-poblacion/educacion",
+              "title": "Educación",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/educacion",
+              "permalink": "/recursos-estadisticos/censo-poblacion/educacion",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Religión y situación conyugal",
+                "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+              },
+              "next": {
+                "title": "Características económicas",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/etnicidad",
+              "id": "recursos-estadisticos/censo-poblacion/etnicidad",
+              "title": "Etnicidad",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/etnicidad",
+              "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Migración y fecundidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+              },
+              "next": {
+                "title": "Población con capacidades diferentes",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "title": "Migración y fecundidad",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Población",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
+              },
+              "next": {
+                "title": "Etnicidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion",
+              "id": "recursos-estadisticos/censo-poblacion/poblacion",
+              "title": "Población",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/poblacion",
+              "permalink": "/recursos-estadisticos/censo-poblacion/poblacion",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Resumen | Censo de Población y Vivienda 2020",
+                "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
+              },
+              "next": {
+                "title": "Migración y fecundidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "title": "Población con capacidades diferentes",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Etnicidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+              },
+              "next": {
+                "title": "Religión y situación conyugal",
+                "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "title": "Religión y situación conyugal",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Población con capacidades diferentes",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+              },
+              "next": {
+                "title": "Educación",
+                "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/resumen",
+              "id": "recursos-estadisticos/censo-poblacion/resumen",
+              "title": "Resumen | Censo de Población y Vivienda 2020",
+              "description": "Podrás descargar los datos del Censo de Población y Vivienda 2020",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/resumen",
+              "permalink": "/recursos-estadisticos/censo-poblacion/resumen",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "La complicada relación entre Panzacola y Papalotla",
+                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+              },
+              "next": {
+                "title": "Población",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "title": "Acceso a servicios de salud",
+              "description": "Tabla de datos",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Características económicas",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+              },
+              "next": {
+                "title": "Características de la vivienda",
+                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/altura",
+              "id": "recursos-graficos/altura",
+              "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+              "description": "| Coordenadas | Nombre      |Altura sobre el nivel de mar (m.s.n.m)|",
+              "source": "@site/docs/recursos-graficos/altura.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/altura",
+              "permalink": "/recursos-graficos/altura",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/altura.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/mancha-urbana"
+              },
+              "next": {
+                "title": "Mapa del Municipio de Papalotla",
+                "permalink": "/recursos-graficos/mapa"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/escudo-e-identidades",
+              "id": "recursos-graficos/escudo-e-identidades",
+              "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+              "description": "|Periodo|Administración|Previsualización|Descarga|",
+              "source": "@site/docs/recursos-graficos/escudo-e-identidades.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/escudo-e-identidades",
+              "permalink": "/recursos-graficos/escudo-e-identidades",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/escudo-e-identidades.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mapa del Municipio de Papalotla",
+                "permalink": "/recursos-graficos/mapa"
+              },
+              "next": {
+                "title": "Plan de desarrollo municipal 2017-2021",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/mancha-urbana",
+              "id": "recursos-graficos/mancha-urbana",
+              "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+              "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+              "source": "@site/docs/recursos-graficos/mancha-urbana.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/mancha-urbana",
+              "permalink": "/recursos-graficos/mancha-urbana",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mancha-urbana.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+                "permalink": "/salud-publica/pandemia-datos/positivo-presidente"
+              },
+              "next": {
+                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/altura"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/mapa",
+              "id": "recursos-graficos/mapa",
+              "title": "Mapa del Municipio de Papalotla",
+              "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+              "source": "@site/docs/recursos-graficos/mapa.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/mapa",
+              "permalink": "/recursos-graficos/mapa",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mapa.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/altura"
+              },
+              "next": {
+                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+                "permalink": "/recursos-graficos/escudo-e-identidades"
+              }
+            },
+            {
+              "unversionedId": "salud-publica/pandemia-datos/positivo-presidente",
+              "id": "salud-publica/pandemia-datos/positivo-presidente",
+              "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+              "description": "|Autor:|Oscar Zambrano Lara|",
+              "source": "@site/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
+              "sourceDirName": "salud-publica/pandemia-datos",
+              "slug": "/salud-publica/pandemia-datos/positivo-presidente",
+              "permalink": "/salud-publica/pandemia-datos/positivo-presidente",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vacunación en Papalotla de Xicohténcatl.",
+                "permalink": "/salud-publica/pandemia-datos/vacunacion"
+              },
+              "next": {
+                "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+                "permalink": "/recursos-graficos/mancha-urbana"
+              }
+            },
+            {
+              "unversionedId": "salud-publica/pandemia-datos/relevantes-datos",
+              "id": "salud-publica/pandemia-datos/relevantes-datos",
+              "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+              "description": "Datos importantes:",
+              "source": "@site/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
+              "sourceDirName": "salud-publica/pandemia-datos",
+              "slug": "/salud-publica/pandemia-datos/relevantes-datos",
+              "permalink": "/salud-publica/pandemia-datos/relevantes-datos",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Asignación de Recursos en programas sociales municipales (2015)",
+                "permalink": "/documentos-publicos/asignación-programas"
+              },
+              "next": {
+                "title": "Vacunación en Papalotla de Xicohténcatl.",
+                "permalink": "/salud-publica/pandemia-datos/vacunacion"
+              }
+            },
+            {
+              "unversionedId": "salud-publica/pandemia-datos/vacunacion",
+              "id": "salud-publica/pandemia-datos/vacunacion",
+              "title": "Vacunación en Papalotla de Xicohténcatl.",
+              "description": "|Población objetivo|Farmaceútica/Nombre|Población vacunada|Referencia|",
+              "source": "@site/docs/salud-publica/pandemia-datos/vacunacion.mdx",
+              "sourceDirName": "salud-publica/pandemia-datos",
+              "slug": "/salud-publica/pandemia-datos/vacunacion",
+              "permalink": "/salud-publica/pandemia-datos/vacunacion",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/vacunacion.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+                "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
+              },
+              "next": {
+                "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+                "permalink": "/salud-publica/pandemia-datos/positivo-presidente"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/congratultions",
+              "id": "tutorial-basics/congratultions",
+              "title": "congratultions",
+              "description": "",
+              "source": "@site/docs/tutorial-basics/congratultions.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratultions",
+              "permalink": "/tutorial-basics/congratultions",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/tutorial-basics/congratultions.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reglamento de tránsito municipal",
+                "permalink": "/leyes-estatales-municipales/regalamento-transito"
+              }
+            }
+          ],
+          "drafts": [],
           "sidebars": {
             "tutorialSidebar": [
               {
                 "type": "category",
                 "label": "Historias y costumbres",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "category",
                     "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+                    "collapsible": true,
+                    "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
@@ -36,9 +1140,7 @@
                         "type": "doc",
                         "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
                       }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
+                    ]
                   },
                   {
                     "type": "doc",
@@ -64,9 +1166,7 @@
                     "type": "doc",
                     "id": "historias-constumbres.mdx/judios-papalotla"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "doc",
@@ -75,6 +1175,8 @@
               {
                 "type": "category",
                 "label": "Documentos públicos y transparencia",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -96,17 +1198,19 @@
                     "type": "doc",
                     "id": "documentos-publicos/asignación-programas"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Salud pública",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "category",
                     "label": "Pandemia COVID-19",
+                    "collapsible": true,
+                    "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
@@ -120,17 +1224,15 @@
                         "type": "doc",
                         "id": "salud-publica/pandemia-datos/positivo-presidente"
                       }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
+                    ]
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Mapas y recursos gráficos",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -148,13 +1250,13 @@
                     "type": "doc",
                     "id": "recursos-graficos/escudo-e-identidades"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Planes de desarrollo",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -164,13 +1266,13 @@
                     "type": "doc",
                     "id": "planes-de-desarrollo/desarrollo-artesanias"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Polémicas y resoluciones",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
@@ -188,17 +1290,19 @@
                     "type": "doc",
                     "id": "polemicas-resoluciones/relacion-papalotla-panzacola"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Recursos estadísticos",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "category",
                     "label": "Censo de Población y Vivienda 2021",
+                    "collapsible": true,
+                    "collapsed": true,
                     "items": [
                       {
                         "type": "doc",
@@ -240,1163 +1344,60 @@
                         "type": "doc",
                         "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
                       }
-                    ],
-                    "collapsed": true,
-                    "collapsible": true
+                    ]
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Archivos musicales",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "archivos-musicales.mdx/carnaval-papalotla"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Protección civil",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "proteccion-civil/atlas-riesgos"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "Leyes estatales y municipales",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "leyes-estatales-municipales/regalamento-transito"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               },
               {
                 "type": "category",
                 "label": "tutorial-basics",
+                "collapsible": true,
+                "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
                     "id": "tutorial-basics/congratultions"
                   }
-                ],
-                "collapsed": true,
-                "collapsible": true
+                ]
               }
             ]
-          },
-          "docs": [
-            {
-              "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",
-              "id": "archivos-musicales.mdx/carnaval-papalotla",
-              "isDocsHomePage": false,
-              "title": "Música del Carnaval de Papalotla",
-              "description": "Tabla de datos",
-              "source": "@site/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
-              "sourceDirName": "archivos-musicales.mdx",
-              "slug": "/archivos-musicales.mdx/carnaval-papalotla",
-              "permalink": "/archivos-musicales.mdx/carnaval-papalotla",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/archivos-musicales.mdx/carnaval-papalotla.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Características de la vivienda",
-                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
-              },
-              "next": {
-                "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
-                "permalink": "/proteccion-civil/atlas-riesgos"
-              }
-            },
-            {
-              "unversionedId": "documentos-publicos/acta-cabildo",
-              "id": "documentos-publicos/acta-cabildo",
-              "isDocsHomePage": false,
-              "title": "Primera Acta de Sesión de Cabildo (2017)",
-              "description": "|Autor:|  |",
-              "source": "@site/docs/documentos-publicos/acta-cabildo.mdx",
-              "sourceDirName": "documentos-publicos",
-              "slug": "/documentos-publicos/acta-cabildo",
-              "permalink": "/documentos-publicos/acta-cabildo",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/acta-cabildo.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-                "permalink": "/"
-              },
-              "next": {
-                "title": "Presupuesto de Egresos de 2017",
-                "permalink": "/documentos-publicos/presupuesto-egresos-17"
-              }
-            },
-            {
-              "unversionedId": "documentos-publicos/asignación-programas",
-              "id": "documentos-publicos/asignación-programas",
-              "isDocsHomePage": false,
-              "title": "Asignación de Recursos en programas sociales municipales (2015)",
-              "description": "|Autor:|Honorable Ayuntamiento de Papalotla de Xicohténcatl (2015)  |",
-              "source": "@site/docs/documentos-publicos/asignación-programas.mdx",
-              "sourceDirName": "documentos-publicos",
-              "slug": "/documentos-publicos/asignación-programas",
-              "permalink": "/documentos-publicos/asignación-programas",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/asignación-programas.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Informes de Aplicación de los recursos de FORTAMUN",
-                "permalink": "/documentos-publicos/fortamun"
-              },
-              "next": {
-                "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
-                "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
-              }
-            },
-            {
-              "unversionedId": "documentos-publicos/fortamun",
-              "id": "documentos-publicos/fortamun",
-              "isDocsHomePage": false,
-              "title": "Informes de Aplicación de los recursos de FORTAMUN",
-              "description": "|Autor:|  Honorable Ayuntamiento de Papalotla de Xicohténcatl|",
-              "source": "@site/docs/documentos-publicos/fortamun.mdx",
-              "sourceDirName": "documentos-publicos",
-              "slug": "/documentos-publicos/fortamun",
-              "permalink": "/documentos-publicos/fortamun",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/fortamun.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Lista de Servidores Públicos Papalotla 2017-2021",
-                "permalink": "/documentos-publicos/servidores-publicos17"
-              },
-              "next": {
-                "title": "Asignación de Recursos en programas sociales municipales (2015)",
-                "permalink": "/documentos-publicos/asignación-programas"
-              }
-            },
-            {
-              "unversionedId": "documentos-publicos/presupuesto-egresos-17",
-              "id": "documentos-publicos/presupuesto-egresos-17",
-              "isDocsHomePage": false,
-              "title": "Presupuesto de Egresos de 2017",
-              "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
-              "source": "@site/docs/documentos-publicos/presupuesto-egresos-17.mdx",
-              "sourceDirName": "documentos-publicos",
-              "slug": "/documentos-publicos/presupuesto-egresos-17",
-              "permalink": "/documentos-publicos/presupuesto-egresos-17",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/presupuesto-egresos-17.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Primera Acta de Sesión de Cabildo (2017)",
-                "permalink": "/documentos-publicos/acta-cabildo"
-              },
-              "next": {
-                "title": "Lista de Servidores Públicos Papalotla 2017-2021",
-                "permalink": "/documentos-publicos/servidores-publicos17"
-              }
-            },
-            {
-              "unversionedId": "documentos-publicos/servidores-publicos17",
-              "id": "documentos-publicos/servidores-publicos17",
-              "isDocsHomePage": false,
-              "title": "Lista de Servidores Públicos Papalotla 2017-2021",
-              "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
-              "source": "@site/docs/documentos-publicos/servidores-publicos17.mdx",
-              "sourceDirName": "documentos-publicos",
-              "slug": "/documentos-publicos/servidores-publicos17",
-              "permalink": "/documentos-publicos/servidores-publicos17",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/documentos-publicos/servidores-publicos17.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Presupuesto de Egresos de 2017",
-                "permalink": "/documentos-publicos/presupuesto-egresos-17"
-              },
-              "next": {
-                "title": "Informes de Aplicación de los recursos de FORTAMUN",
-                "permalink": "/documentos-publicos/fortamun"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/agua-puebla",
-              "id": "historias-constumbres.mdx/agua-puebla",
-              "isDocsHomePage": false,
-              "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-              "description": "|Autor:| Sergio Francisco Rosas Salas |",
-              "source": "@site/docs/historias-constumbres.mdx/agua-puebla.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/agua-puebla",
-              "permalink": "/historias-constumbres.mdx/agua-puebla",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/agua-puebla.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Arqueología del paisaje en La Malinche",
-                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
-              },
-              "next": {
-                "title": "Letra de La Danza de la Muñeca",
-                "permalink": "/historias-constumbres.mdx/la-muneca-letra"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/arqueologia-malinche",
-              "id": "historias-constumbres.mdx/arqueologia-malinche",
-              "isDocsHomePage": false,
-              "title": "Arqueología del paisaje en La Malinche",
-              "description": "|Autor:| Sergio Suárez Cruz |",
-              "source": "@site/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/arqueologia-malinche",
-              "permalink": "/historias-constumbres.mdx/arqueologia-malinche",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/arqueologia-malinche.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
-                "permalink": "/historias-constumbres.mdx/senor_del_monte"
-              },
-              "next": {
-                "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-                "permalink": "/historias-constumbres.mdx/agua-puebla"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/impacto-volkswagen",
-              "id": "historias-constumbres.mdx/impacto-volkswagen",
-              "isDocsHomePage": false,
-              "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-              "description": "|Autor:| Mariano Torres Bautista |",
-              "source": "@site/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/impacto-volkswagen",
-              "permalink": "/historias-constumbres.mdx/impacto-volkswagen",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/impacto-volkswagen.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Letra de La Danza de la Muñeca",
-                "permalink": "/historias-constumbres.mdx/la-muneca-letra"
-              },
-              "next": {
-                "title": "Historia mínima de la Comunidad Judía en Papalotla",
-                "permalink": "/historias-constumbres.mdx/judios-papalotla"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/judios-papalotla",
-              "id": "historias-constumbres.mdx/judios-papalotla",
-              "isDocsHomePage": false,
-              "title": "Historia mínima de la Comunidad Judía en Papalotla",
-              "description": "|Autor:|Estanería Digital de Papalotla|",
-              "source": "@site/docs/historias-constumbres.mdx/judios-papalotla.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/judios-papalotla",
-              "permalink": "/historias-constumbres.mdx/judios-papalotla",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/judios-papalotla.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-                "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
-              },
-              "next": {
-                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-                "permalink": "/"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/la-muneca-letra",
-              "id": "historias-constumbres.mdx/la-muneca-letra",
-              "isDocsHomePage": false,
-              "title": "Letra de La Danza de la Muñeca",
-              "description": "|Autor:| Dominio público |",
-              "source": "@site/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/la-muneca-letra",
-              "permalink": "/historias-constumbres.mdx/la-muneca-letra",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/la-muneca-letra.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-                "permalink": "/historias-constumbres.mdx/agua-puebla"
-              },
-              "next": {
-                "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-                "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
-              "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
-              "isDocsHomePage": false,
-              "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-              "description": "|Autor:| Joel Dávila Guitiérrez |",
-              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
-              "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
-              "slug": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
-              "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "next": {
-                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
-              "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
-              "isDocsHomePage": false,
-              "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-              "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digitalizado usando",
-              "source": "@site/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
-              "sourceDirName": "historias-constumbres.mdx/organizacion-carnaval",
-              "slug": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
-              "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
-              },
-              "next": {
-                "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
-                "permalink": "/historias-constumbres.mdx/senor_del_monte"
-              }
-            },
-            {
-              "unversionedId": "historias-constumbres.mdx/senor_del_monte",
-              "id": "historias-constumbres.mdx/senor_del_monte",
-              "isDocsHomePage": false,
-              "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
-              "description": "|Autor:| Sergio Suárez Cruz |",
-              "source": "@site/docs/historias-constumbres.mdx/senor_del_monte.mdx",
-              "sourceDirName": "historias-constumbres.mdx",
-              "slug": "/historias-constumbres.mdx/senor_del_monte",
-              "permalink": "/historias-constumbres.mdx/senor_del_monte",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/historias-constumbres.mdx/senor_del_monte.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "permalink": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
-              },
-              "next": {
-                "title": "Arqueología del paisaje en La Malinche",
-                "permalink": "/historias-constumbres.mdx/arqueologia-malinche"
-              }
-            },
-            {
-              "unversionedId": "intro",
-              "id": "intro",
-              "isDocsHomePage": false,
-              "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-              "description": "La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
-              "source": "@site/docs/intro.md",
-              "sourceDirName": ".",
-              "slug": "/",
-              "permalink": "/",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/intro.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1,
-                "slug": "/"
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Historia mínima de la Comunidad Judía en Papalotla",
-                "permalink": "/historias-constumbres.mdx/judios-papalotla"
-              },
-              "next": {
-                "title": "Primera Acta de Sesión de Cabildo (2017)",
-                "permalink": "/documentos-publicos/acta-cabildo"
-              }
-            },
-            {
-              "unversionedId": "leyes-estatales-municipales/regalamento-transito",
-              "id": "leyes-estatales-municipales/regalamento-transito",
-              "isDocsHomePage": false,
-              "title": "Reglamento de tránsito municipal",
-              "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
-              "source": "@site/docs/leyes-estatales-municipales/regalamento-transito.mdx",
-              "sourceDirName": "leyes-estatales-municipales",
-              "slug": "/leyes-estatales-municipales/regalamento-transito",
-              "permalink": "/leyes-estatales-municipales/regalamento-transito",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/regalamento-transito.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
-                "permalink": "/proteccion-civil/atlas-riesgos"
-              },
-              "next": {
-                "title": "congratultions",
-                "permalink": "/tutorial-basics/congratultions"
-              }
-            },
-            {
-              "unversionedId": "planes-de-desarrollo/desarrollo-artesanias",
-              "id": "planes-de-desarrollo/desarrollo-artesanias",
-              "isDocsHomePage": false,
-              "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
-              "description": "|Autor:|Viridiana Elizabeth Ponce Vilchis, Ángel David Flores Domínguez|",
-              "source": "@site/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
-              "sourceDirName": "planes-de-desarrollo",
-              "slug": "/planes-de-desarrollo/desarrollo-artesanias",
-              "permalink": "/planes-de-desarrollo/desarrollo-artesanias",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/desarrollo-artesanias.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Plan de desarrollo municipal 2017-2021",
-                "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
-              },
-              "next": {
-                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
-                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
-              }
-            },
-            {
-              "unversionedId": "planes-de-desarrollo/plan-desarrollo-2017-2021",
-              "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
-              "isDocsHomePage": false,
-              "title": "Plan de desarrollo municipal 2017-2021",
-              "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
-              "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
-              "sourceDirName": "planes-de-desarrollo",
-              "slug": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
-              "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-                "permalink": "/recursos-graficos/escudo-e-identidades"
-              },
-              "next": {
-                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
-                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
-              }
-            },
-            {
-              "unversionedId": "polemicas-resoluciones/elecciones-san-buenaventura",
-              "id": "polemicas-resoluciones/elecciones-san-buenaventura",
-              "isDocsHomePage": false,
-              "title": "Polémica por la elecciones de San Buenaventura de 2016",
-              "description": "Solicitud de impugnación de las elecciones auxiliares de San Buenaventura, Papalotla dirigio al Tribunal Electoral de Tlaxcala",
-              "source": "@site/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
-              "sourceDirName": "polemicas-resoluciones",
-              "slug": "/polemicas-resoluciones/elecciones-san-buenaventura",
-              "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/elecciones-san-buenaventura.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
-                "permalink": "/polemicas-resoluciones/fallecimiento-influenza"
-              },
-              "next": {
-                "title": "La complicada relación entre Panzacola y Papalotla",
-                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
-              }
-            },
-            {
-              "unversionedId": "polemicas-resoluciones/fallecimiento-influenza",
-              "id": "polemicas-resoluciones/fallecimiento-influenza",
-              "isDocsHomePage": false,
-              "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
-              "description": "Exhorto del diputado Alberto Amaro Corona para el esclarecimiento del fallecimento de Blanca X. por un supuesto caso falso de Influenza H1N1 EN 2009.",
-              "source": "@site/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
-              "sourceDirName": "polemicas-resoluciones",
-              "slug": "/polemicas-resoluciones/fallecimiento-influenza",
-              "permalink": "/polemicas-resoluciones/fallecimiento-influenza",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/fallecimiento-influenza.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
-                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
-              },
-              "next": {
-                "title": "Polémica por la elecciones de San Buenaventura de 2016",
-                "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
-              }
-            },
-            {
-              "unversionedId": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
-              "id": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
-              "isDocsHomePage": false,
-              "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
-              "description": "Archivo con la petición a la Suprema Corte de Justicia de la Nación para la invalidación de la pertenencia del territorio \"Los Lavaderos\" al municipio de Xicohtzinco.",
-              "source": "@site/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
-              "sourceDirName": "polemicas-resoluciones",
-              "slug": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
-              "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
-                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
-              },
-              "next": {
-                "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
-                "permalink": "/polemicas-resoluciones/fallecimiento-influenza"
-              }
-            },
-            {
-              "unversionedId": "polemicas-resoluciones/relacion-papalotla-panzacola",
-              "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
-              "isDocsHomePage": false,
-              "title": "La complicada relación entre Panzacola y Papalotla",
-              "description": "|Autor:| Oscar Zambrano Lara |",
-              "source": "@site/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
-              "sourceDirName": "polemicas-resoluciones",
-              "slug": "/polemicas-resoluciones/relacion-papalotla-panzacola",
-              "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/polemicas-resoluciones/relacion-papalotla-panzacola.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Polémica por la elecciones de San Buenaventura de 2016",
-                "permalink": "/polemicas-resoluciones/elecciones-san-buenaventura"
-              },
-              "next": {
-                "title": "Resumen | Censo de Población y Vivienda 2020",
-                "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
-              }
-            },
-            {
-              "unversionedId": "proteccion-civil/atlas-riesgos",
-              "id": "proteccion-civil/atlas-riesgos",
-              "isDocsHomePage": false,
-              "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
-              "description": "|Autor:| Acierto consultores, S.C. / H. Ayuntamiento de Papalotla de Xicohténcatl |",
-              "source": "@site/docs/proteccion-civil/atlas-riesgos.mdx",
-              "sourceDirName": "proteccion-civil",
-              "slug": "/proteccion-civil/atlas-riesgos",
-              "permalink": "/proteccion-civil/atlas-riesgos",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/proteccion-civil/atlas-riesgos.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Música del Carnaval de Papalotla",
-                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
-              },
-              "next": {
-                "title": "Reglamento de tránsito municipal",
-                "permalink": "/leyes-estatales-municipales/regalamento-transito"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
-              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
-              "isDocsHomePage": false,
-              "title": "Características económicas",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
-              "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-economicas.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Educación",
-                "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
-              },
-              "next": {
-                "title": "Acceso a servicios de salud",
-                "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
-              "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
-              "isDocsHomePage": false,
-              "title": "Características de la vivienda",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
-              "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {
-                "sidebar_position": 9
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Acceso a servicios de salud",
-                "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
-              },
-              "next": {
-                "title": "Música del Carnaval de Papalotla",
-                "permalink": "/archivos-musicales.mdx/carnaval-papalotla"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/educacion",
-              "id": "recursos-estadisticos/censo-poblacion/educacion",
-              "isDocsHomePage": false,
-              "title": "Educación",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/educacion",
-              "permalink": "/recursos-estadisticos/censo-poblacion/educacion",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/educacion.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Religión y situación conyugal",
-                "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
-              },
-              "next": {
-                "title": "Características económicas",
-                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/etnicidad",
-              "id": "recursos-estadisticos/censo-poblacion/etnicidad",
-              "isDocsHomePage": false,
-              "title": "Etnicidad",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/etnicidad",
-              "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Migración y fecundidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
-              },
-              "next": {
-                "title": "Población con capacidades diferentes",
-                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
-              "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
-              "isDocsHomePage": false,
-              "title": "Migración y fecundidad",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
-              "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/fecundidad-migracion.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Población",
-                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
-              },
-              "next": {
-                "title": "Etnicidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion",
-              "id": "recursos-estadisticos/censo-poblacion/poblacion",
-              "isDocsHomePage": false,
-              "title": "Población",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/poblacion",
-              "permalink": "/recursos-estadisticos/censo-poblacion/poblacion",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Resumen | Censo de Población y Vivienda 2020",
-                "permalink": "/recursos-estadisticos/censo-poblacion/resumen"
-              },
-              "next": {
-                "title": "Migración y fecundidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
-              "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
-              "isDocsHomePage": false,
-              "title": "Población con capacidades diferentes",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
-              "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Etnicidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
-              },
-              "next": {
-                "title": "Religión y situación conyugal",
-                "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
-              "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
-              "isDocsHomePage": false,
-              "title": "Religión y situación conyugal",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
-              "permalink": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Población con capacidades diferentes",
-                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
-              },
-              "next": {
-                "title": "Educación",
-                "permalink": "/recursos-estadisticos/censo-poblacion/educacion"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/resumen",
-              "id": "recursos-estadisticos/censo-poblacion/resumen",
-              "isDocsHomePage": false,
-              "title": "Resumen | Censo de Población y Vivienda 2020",
-              "description": "Podrás descargar los datos del Censo de Población y Vivienda 2020",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/resumen",
-              "permalink": "/recursos-estadisticos/censo-poblacion/resumen",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/resumen.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "La complicada relación entre Panzacola y Papalotla",
-                "permalink": "/polemicas-resoluciones/relacion-papalotla-panzacola"
-              },
-              "next": {
-                "title": "Población",
-                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
-              }
-            },
-            {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
-              "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
-              "isDocsHomePage": false,
-              "title": "Acceso a servicios de salud",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
-              "permalink": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/servicion-de-salud.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {
-                "sidebar_position": 8
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Características económicas",
-                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
-              },
-              "next": {
-                "title": "Características de la vivienda",
-                "permalink": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
-              }
-            },
-            {
-              "unversionedId": "recursos-graficos/altura",
-              "id": "recursos-graficos/altura",
-              "isDocsHomePage": false,
-              "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
-              "description": "| Coordenadas | Nombre      |Altura sobre el nivel de mar (m.s.n.m)|",
-              "source": "@site/docs/recursos-graficos/altura.mdx",
-              "sourceDirName": "recursos-graficos",
-              "slug": "/recursos-graficos/altura",
-              "permalink": "/recursos-graficos/altura",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/altura.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
-                "permalink": "/recursos-graficos/mancha-urbana"
-              },
-              "next": {
-                "title": "Mapa del Municipio de Papalotla",
-                "permalink": "/recursos-graficos/mapa"
-              }
-            },
-            {
-              "unversionedId": "recursos-graficos/escudo-e-identidades",
-              "id": "recursos-graficos/escudo-e-identidades",
-              "isDocsHomePage": false,
-              "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-              "description": "|Periodo|Administración|Previsualización|Descarga|",
-              "source": "@site/docs/recursos-graficos/escudo-e-identidades.mdx",
-              "sourceDirName": "recursos-graficos",
-              "slug": "/recursos-graficos/escudo-e-identidades",
-              "permalink": "/recursos-graficos/escudo-e-identidades",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/escudo-e-identidades.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Mapa del Municipio de Papalotla",
-                "permalink": "/recursos-graficos/mapa"
-              },
-              "next": {
-                "title": "Plan de desarrollo municipal 2017-2021",
-                "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
-              }
-            },
-            {
-              "unversionedId": "recursos-graficos/mancha-urbana",
-              "id": "recursos-graficos/mancha-urbana",
-              "isDocsHomePage": false,
-              "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
-              "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
-              "source": "@site/docs/recursos-graficos/mancha-urbana.mdx",
-              "sourceDirName": "recursos-graficos",
-              "slug": "/recursos-graficos/mancha-urbana",
-              "permalink": "/recursos-graficos/mancha-urbana",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mancha-urbana.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
-                "permalink": "/salud-publica/pandemia-datos/positivo-presidente"
-              },
-              "next": {
-                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
-                "permalink": "/recursos-graficos/altura"
-              }
-            },
-            {
-              "unversionedId": "recursos-graficos/mapa",
-              "id": "recursos-graficos/mapa",
-              "isDocsHomePage": false,
-              "title": "Mapa del Municipio de Papalotla",
-              "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
-              "source": "@site/docs/recursos-graficos/mapa.mdx",
-              "sourceDirName": "recursos-graficos",
-              "slug": "/recursos-graficos/mapa",
-              "permalink": "/recursos-graficos/mapa",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mapa.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
-                "permalink": "/recursos-graficos/altura"
-              },
-              "next": {
-                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-                "permalink": "/recursos-graficos/escudo-e-identidades"
-              }
-            },
-            {
-              "unversionedId": "salud-publica/pandemia-datos/positivo-presidente",
-              "id": "salud-publica/pandemia-datos/positivo-presidente",
-              "isDocsHomePage": false,
-              "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
-              "description": "|Autor:|Oscar Zambrano Lara|",
-              "source": "@site/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
-              "sourceDirName": "salud-publica/pandemia-datos",
-              "slug": "/salud-publica/pandemia-datos/positivo-presidente",
-              "permalink": "/salud-publica/pandemia-datos/positivo-presidente",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/positivo-presidente.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Vacunación en Papalotla de Xicohténcatl.",
-                "permalink": "/salud-publica/pandemia-datos/vacunacion"
-              },
-              "next": {
-                "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
-                "permalink": "/recursos-graficos/mancha-urbana"
-              }
-            },
-            {
-              "unversionedId": "salud-publica/pandemia-datos/relevantes-datos",
-              "id": "salud-publica/pandemia-datos/relevantes-datos",
-              "isDocsHomePage": false,
-              "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
-              "description": "Datos importantes:",
-              "source": "@site/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
-              "sourceDirName": "salud-publica/pandemia-datos",
-              "slug": "/salud-publica/pandemia-datos/relevantes-datos",
-              "permalink": "/salud-publica/pandemia-datos/relevantes-datos",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/relevantes-datos.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Asignación de Recursos en programas sociales municipales (2015)",
-                "permalink": "/documentos-publicos/asignación-programas"
-              },
-              "next": {
-                "title": "Vacunación en Papalotla de Xicohténcatl.",
-                "permalink": "/salud-publica/pandemia-datos/vacunacion"
-              }
-            },
-            {
-              "unversionedId": "salud-publica/pandemia-datos/vacunacion",
-              "id": "salud-publica/pandemia-datos/vacunacion",
-              "isDocsHomePage": false,
-              "title": "Vacunación en Papalotla de Xicohténcatl.",
-              "description": "|Población objetivo|Farmaceútica/Nombre|Población vacunada|Referencia|",
-              "source": "@site/docs/salud-publica/pandemia-datos/vacunacion.mdx",
-              "sourceDirName": "salud-publica/pandemia-datos",
-              "slug": "/salud-publica/pandemia-datos/vacunacion",
-              "permalink": "/salud-publica/pandemia-datos/vacunacion",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/salud-publica/pandemia-datos/vacunacion.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
-                "permalink": "/salud-publica/pandemia-datos/relevantes-datos"
-              },
-              "next": {
-                "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
-                "permalink": "/salud-publica/pandemia-datos/positivo-presidente"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratultions",
-              "id": "tutorial-basics/congratultions",
-              "isDocsHomePage": false,
-              "title": "congratultions",
-              "description": "",
-              "source": "@site/docs/tutorial-basics/congratultions.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratultions",
-              "permalink": "/tutorial-basics/congratultions",
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/tutorial-basics/congratultions.md",
-              "tags": [],
-              "version": "current",
-              "frontMatter": {},
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Reglamento de tránsito municipal",
-                "permalink": "/leyes-estatales-municipales/regalamento-transito"
-              }
-            }
-          ]
+          }
         }
       ]
     }
@@ -1417,7 +1418,7 @@
             "formattedDate": "May 22, 2022",
             "tags": [],
             "readingTime": 1.415,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1427,11 +1428,19 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "/preguntas",
+              "title": "Preguntas frecuentes",
+              "authors": [
+                "imp1"
+              ]
+            },
             "nextItem": {
               "title": "Código de conducta de la comunidad y colaboradores.",
               "permalink": "/blog/codigo-de-conducta"
             }
-          }
+          },
+          "content": "## ¿Qué es la Estantería Digital de Papalotla?\nEs una iniciativa de Impossible Box de México y la sociedad civil de Papalotla para la conservación, resguardo, digitalización y publicación de archivos históricos, gubernamentales y de interés público.\n\n## ¿Cómo funciona?\nGuiamos nuestros procesos en cinco documentos esenciales, los cuales son consultivos y vinculantes.\n\nEstos son:\n\n### De funcionamiento interno:\n\n- Las **[Declaraciones sobre la Mesa de Administración](/blog/estatutos-uno)**, por las que se establece el órgano ejecutivo de la Estantería.\n- La **[Declaración sobre el Consejo de Contenido](/blog/consejo)**, que establece al órgano consultivo y deliberativo de la misma.\n- Los **[Estatutos de financiación y gastos](/blog/estatutos)**, estableciendo las normas para el funcionamiento económico de la Estantería.\n\n### De nuestras relaciones internas y nuestra comunidad:\n- El **[Código de conducta de la comunidad y colaboradores](/blog/codigo-de-conducta)**, de estricta aplicación para mentener un ambiente sano de trabajo y una experiencia segura de búsqueda.\n\n### De procesos e ingeniería:\n- Nuestra **[Documentación para desarrolladores y personas técnicas](/blog/documentación)**, mucho más flexible, es una guía para las ramas de desarrollo de software y el proceso de digitalización.\n\n## ¿Cómo funcionan las licencias de derechos de autor?\nVéanse las **[licencias y derechos de autor](/blog/licencias)**.\n\n## ¿Cómo puedo contribuir?\n¿Eres creador de contenido?\n- Procedimiento para la publicación de contenido en la Estntería Digital.\n\nPuedes apoyarnos en muchas otras formas.\n\n- Contribución en curado y lectura de material.\n- Programación y mantenimiento\n- Contribución económica.\n\nPara todo lo anterior expuesto contamos con el correo 📧**_[estanteria@impossiblebox.me](mailto:estanteria@impossiblebox.me)_**, donde puedes ponerte en contacto con nosotros.\n\n\n## ¿Cómo puedo conseguir soporte y ayuda?\n\nPuedes ponerte en contacto con nosotros en el correo 📧**_[estanteria@impossiblebox.me](mailto:estanteria@impossiblebox.me)_**, o por mensaje privado en nuestra página de Facebook.\n\n**[Estantería Digital de Papalotla en Facebook](https://www.facebook.com/EstanteriaDigital)**"
         },
         {
           "id": "/codigo-de-conducta",
@@ -1445,7 +1454,7 @@
             "formattedDate": "May 14, 2022",
             "tags": [],
             "readingTime": 4.125,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Consejo de Contenido",
@@ -1462,6 +1471,14 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "/codigo-de-conducta",
+              "title": "Código de conducta de la comunidad y colaboradores.",
+              "authors": [
+                "slorber",
+                "imp1"
+              ]
+            },
             "prevItem": {
               "title": "Preguntas frecuentes",
               "permalink": "/blog/preguntas"
@@ -1470,7 +1487,8 @@
               "title": "Documentación para desarrolladores y personas técnicas",
               "permalink": "/blog/documentación"
             }
-          }
+          },
+          "content": "## Nuestro compromiso\n\nNosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.\n\nNos comprometemos a actuar e interactuar de maneras que contribuyan a una comunidad abierta, acogedora, diversa, inclusiva y sana.\n\n## Nuestros estándares\n\nEjemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:\n\n* Demostrar empatía y amabilidad ante otras personas. \n* Respeto a diferentes opiniones, puntos de vista y experiencias.\n* Dar y aceptar adecuadamente retroalimentación constructiva.\n* Aceptar la responsabilidad y disculparse ante quienes se vean afectados por nuestros errores, aprendiendo de la experiencia.\n* Centrarse en lo que sea mejor no sólo para nosotros como individuos, sino para la comunidad en general.\n\nEjemplos de comportamiento inaceptable:\n\n* El uso de lenguaje o imágenes sexualizadas, y aproximaciones o\n  atenciones sexuales de cualquier tipo.\n* Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos.\n* El acoso en público o privado.\n* Publicar información privada de otras personas, tales como direcciones físicas o de correo\n  electrónico, sin su permiso explícito.\n* Otras conductas que puedan ser razonablemente consideradas como inapropiadas en un\n  entorno profesional.\n\n## Aplicación de las responsabilidades\n\nLa Mesa de Administración, en adelante los administradores de la comunidad, son responsables de aclarar y hacer cumplir nuestros estándares de comportamiento aceptable y tomarán acciones apropiadas y correctivas de forma justa en respuesta a cualquier comportamiento que consideren inapropiado, amenazante, ofensivo o dañino.\n\nLos administradores de la comunidad tendrán el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, _commits_, código, ediciones de páginas de wiki, _issues_ y otras contribuciones que no se alineen con este Código de Conducta, y comunicarán las razones para sus decisiones de moderación cuando sea apropiado.\n\n## Alcance\n\nEste código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.\n\n## Aplicación\n\nInstancias de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser reportadas a los administradores de la comunidad responsables del cumplimiento a través del correo *estanteria@impossiblebox.me*. Todas las quejas serán evaluadas e investigadas de una manera puntual y justa.\n\nTodos los administradores de la comunidad están obligados a respetar la privacidad y la seguridad de quienes reporten incidentes.\n\n## Guías de Aplicación\n\nLos administradores de la comunidad seguirán estas Guías de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que juzguen como un incumplimiento de este Código de Conducta:\n\n### 1. Corrección\n\n**Impacto en la Comunidad**: El uso de lenguaje inapropiado u otro comportamiento considerado no profesional o no acogedor en la comunidad.\n\n**Consecuencia**: Un aviso escrito y privado por parte de los administradores de la comunidad, proporcionando claridad alrededor de la naturaleza de este incumplimiento y una explicación de por qué el comportamiento es inaceptable. Una disculpa pública podría ser solicitada.\n\n### 2. Aviso\n\n**Impacto en la Comunidad**: Un incumplimiento causado por un único incidente o por una cadena de acciones.\n\n**Consecuencia**: Un aviso con consecuencias por comportamiento prolongado. No se interactúa con las personas involucradas, incluyendo interacción no solicitada con quienes se encuentran aplicando el Código de Conducta, por un periodo especificado de tiempo. Esto incluye evitar las interacciones en espacios de la comunidad, así como a través de canales externos como las redes sociales. Incumplir estos términos puede conducir a una expulsión temporal o permanente.\n\n### 3. Expulsión temporal\n\n**Impacto en la Comunidad**: Una serie de incumplimientos de los estándares de la comunidad, incluyendo comportamiento inapropiado continuo.\n\n**Consecuencia**: Una expulsión temporal de cualquier forma de interacción o comunicación pública con la comunidad durante un intervalo de tiempo especificado. No se permite interactuar de manera pública o privada con las personas involucradas, incluyendo interacciones no solicitadas con quienes se encuentran aplicando el Código de Conducta, durante este periodo. Incumplir estos términos puede conducir a una expulsión permanente.\n\n### 4. Expulsión permanente\n\n**Impacto en la Comunidad**: Demostrar un patrón sistemático de incumplimientos de los estándares de la comunidad, incluyendo conductas inapropiadas prolongadas en el tiempo, acoso de individuos, o agresiones o menosprecio a grupos de individuos.\n\n**Consecuencia**: Una expulsión permanente de cualquier tipo de interacción pública con la comunidad del proyecto.\n\n## Atribución\n\nEste Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0,\ndisponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct.html\n\nLas Guías de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).\n\n[homepage]: https://www.contributor-covenant.org\n\nPara respuestas a las preguntas frecuentes de este código de conducta, consulta las FAQ en\nhttps://www.contributor-covenant.org/faq. Hay traducciones disponibles en https://www.contributor-covenant.org/translations"
         },
         {
           "id": "documentación",
@@ -1497,7 +1515,7 @@
               }
             ],
             "readingTime": 2.59,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1507,6 +1525,18 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "documentación",
+              "title": "Documentación para desarrolladores y personas técnicas",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "actualizacion",
+                "documentacion",
+                "interno"
+              ]
+            },
             "prevItem": {
               "title": "Código de conducta de la comunidad y colaboradores.",
               "permalink": "/blog/codigo-de-conducta"
@@ -1515,7 +1545,8 @@
               "title": "Actualización de Primavera",
               "permalink": "/blog/actualizacion-primavera"
             }
-          }
+          },
+          "content": "La Estantería Digital se divide en dos ramas de desarrollo: **Plataforma** y **Archivo**.\n\n**Plataforma** es la construcción en sí del sito web (front-end) y los procesos para que la misma pueda ser desplegada y visualizada (Backend y DevOps).\n\n**Archivo** se refiere a la recolección, curado, documentación, digitalización, mantenimiento y conservación de los archivos. Esta rama también se encarga de la carga y el mantenimiento de los servidores de los archivos exclusivamente.\n\nAmbas ramas se comunican y hacen llegar los archivos a los usuarios.\n\n![enter image description here](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2/-/raw/main/Im%C3%A1genes%20p%C3%BAblicas/Cover.png)\n\n## Plataforma\nLa Plataforma de la Estantería Digital de Papalotla es construida en **Docusaurus**, un proyecto open source de Facebook. El control de versiones se realiza mediante **GitHub**. El despliegue final se realiza en **Netlify**.\n\nLas siguientes tecnologías son utlizadas en el front-end en el proyecto.\n\n-   React\n-   Node.js\n-   Yarn\n\n![enter image description here](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2/-/raw/main/Im%C3%A1genes%20p%C3%BAblicas/Coverprocess.png)\n\n### Markdown y MDX\n\nEn la Estantería Digital de Papalotla (y en Impossible Box de México en general) desayunamos, comemos y cenamos Markdown. Todos las páginas estan hechas en este lenguaje de tipado. También es el caso de los documentos corporativos internos y nuestros manuales. MDX nos da una oportunidad de llevar Markdown al siguiente nivel.\n\n*[I'm on the Next Level 🎶](https://www.youtube.com/watch?v=VZVSy8H-uzY)*\n\n### Repositorio de Plataforma.\nTodo nuestro desarrollo se concentra en un repositorio de GitHub llamado **Repositorio de Plataforma**. Hacemos nuestros commit colocando una descripción sencilla y nos gusta colocar también la canción que estamos escuchando en ese momento.\n\n- [Repositorio de Plataforma en GitHub](https://github.com/ImpossibleBoxMX/estanteriadigital)\n\n## Archivo\nArchivo se construye día a día mediante una comunidad que, decide, busca, cura, digitaliza y reseña los artículos presentes en la Estantería.\n\nNuestros archivos provienen de muchas fuentes, son el producto de muchas horas dedicadas y de las siguientes técnicas.\n\n- Búsqueda y archivos existentes: Mediante muchas técnicas de búsqueda tanto en la Web como en plataformas de transparencia.\n- Digitalización: Hacemos un importante trabajo en la conversión de archivos físicos a digitales. Utlizamos tecnología OCR para convertir imágenes en texto útil y facilmente consultable.\n- Creación: La Estantería publica documentación original basada en datos de acceso público. Hacemos estadísticas y material gráfico. Así mismo también publicamos contenido de autores independientes, siempre y cuando cumplan con estándares de calidad requeridos y sean aprobados por el [Consejo de Contenido](https://estanteria.impossiblebox.me/blog/consejo).\n\nNuestros estándares de contenido se resumen en el siguiente artículo.\n\n- **[Empoderar a los creadores locales](https://impossiblebox.substack.com/p/empoderar-a-los-creadores-locales?s=r)**\n\nArchivo también se encarga de mantener actualizado nuestro repositorio público en GitLab con todos nuestros archivos.\n**¡Puedes hacer una descarga masiva de todos los archivos de la Estantería de un solo golpe!**\n\nMira un pequeño turorial de como hacerlo aquí.\n<script src=\"https://gist.github.com/ImpossibleBoxMX/8298b44ee0c56a8d2c5ff622beaf444d.js\"></script>\n\n- **[Repositorio de Archivo en GitLab](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2)**\n\nPor cuestiones de seguridad, metricas y facilidad, nuestros archivos (blob) se despliegan mediante Microsoft Azure. Tenemos cuatro copias de seguridad.\n## Fallos, errores y bugs\nEn caso de que encuentres un bug, fallo o inconsistencia te agradeceremos hacerlo llegar a correo: **estanteria@impossiblebox.me**\n## Código de conducta\nTodo el proyecto de la Estantería se rige bajo el siguiente [código de conducta](/codigo-de-conducta)\n## Atribución\nLos gráficos de esta página fueron hechos con [Cocomaterial](https://cocomaterial.com/), una librería para [Penpot](https://penpot.app/)."
         },
         {
           "id": "actualizacion-primavera",
@@ -1538,7 +1569,7 @@
               }
             ],
             "readingTime": 0.005,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1548,6 +1579,17 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "actualizacion-primavera",
+              "title": "Actualización de Primavera",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "actualizacion",
+                "navidad"
+              ]
+            },
             "prevItem": {
               "title": "Documentación para desarrolladores y personas técnicas",
               "permalink": "/blog/documentación"
@@ -1556,7 +1598,8 @@
               "title": "Aviso de privacidad",
               "permalink": "/blog/aviso-de-privacidad"
             }
-          }
+          },
+          "content": "![actualizacion-arbol](/img/ArbolNavidad.png)"
         },
         {
           "id": "aviso-de-privacidad",
@@ -1575,8 +1618,15 @@
               }
             ],
             "readingTime": 3.54,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [],
+            "frontMatter": {
+              "slug": "aviso-de-privacidad",
+              "title": "Aviso de privacidad",
+              "tags": [
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Actualización de Primavera",
               "permalink": "/blog/actualizacion-primavera"
@@ -1585,7 +1635,8 @@
               "title": "Declaraciones sobre la Mesa de Administración",
               "permalink": "/blog/estatutos-uno"
             }
-          }
+          },
+          "content": "**Impossible Box de México S.A.S. de C.V.** mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales en la **Estantería Digital de Papalotla**, y al respecto le informamos lo siguiente:\n\n### ¿Para qué fines utilizaremos sus datos personales?\n\nLos datos personales que recabamos de usted, los utilizaremos para las siguientes finalidades que son necesarias para el servicio que solicita:\nRespuesta a mensajes del formulario de contacto, prestación de cualquier servicio solicitado.\n\n## ¿Qué datos personales utilizaremos para estos fines?\n\nPara llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales:\nDatos de identificación y contacto, datos laborales, datos académicos, datos migratorios, datos patrimoniales y/o financieros.\n\n## ¿Cómo puede acceder, rectificar o cancelar sus datos personales, u oponerse a su uso o ejercer la revocación de consentimiento?\n\nUsted tiene derecho a conocer qué datos personales tenemos de usted, para qué los utilizamos y las condiciones del uso que les damos (Acceso). Asimismo, es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (Cancelación); así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derechos ARCO.\n\nPara el ejercicio de cualquiera de los derechos ARCO, debe enviar una petición vía correo electrónico a nosotros@impossiblebox.me y deberá contener:\n\n- Nombre completo del titular.\n- Domicilio.\n- Teléfono.\n- Correo electrónico.\n- Copia de una identificación oficial adjunta.\n- Asunto «Derechos ARCO»\n- Descripción el objeto del escrito, los cuales pueden ser de manera enunciativa más no limitativa los siguientes: Revocación del consentimiento para tratar sus datos personales; y/o Notificación del uso indebido del tratamiento de sus datos personales; y/o Ejercitar sus Derechos ARCO, con una descripción clara y precisa de los datos a Acceder, Rectificar, Cancelar o bien, Oponerse. En caso de Rectificación de datos personales, deberá indicar la modificación exacta y anexar la documentación soporte; es importante en caso de revocación del consentimiento, que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. \n\nAsimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros.\n\n### ¿En cuántos días le daremos respuesta a su solicitud?\n- 10 días.\n\n### ¿Por qué medio le comunicaremos la respuesta a su solicitud?\n- Al mismo correo electrónico de donde se envío la petición.\n\n### El uso de tecnologías de rastreo en nuestro portal de internet\nLe informamos que en nuestra página de internet y en la Estantería Digital de Papalotla utilizamos cookies, web beacons u otras tecnologías, a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. \n\nLos datos personales que obtenemos de estas tecnologías de rastreo son los siguientes:\n- Tipo de navegador del usuario, fecha y hora del inicio y final de una sesión de un usuario.\n\nEstas cookies, web beacons y otras tecnologías pueden ser deshabilitadas. Para conocer cómo hacerlo, consulte el menú de ayuda de su navegador. Tenga en cuenta que, en caso de desactivar las cookies, es posible que no pueda acceder a ciertas funciones personalizadas en nuestros sitio web.\n\n### ¿Cómo puede conocer los cambios en este aviso de privacidad?\n\nEl presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas. Nos comprometemos a mantener actualizado este aviso de privacidad sobre los cambios que pueda sufrir y siempre podrá consultar las actualizaciones que existan en el sitio web impossiblebox.me.\n\nÚltima actualización de este aviso de privacidad: 17 de julio de 2022."
         },
         {
           "id": "estatutos-uno",
@@ -1608,7 +1659,7 @@
               }
             ],
             "readingTime": 1.67,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1618,6 +1669,15 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "estatutos-uno",
+              "title": "Declaraciones sobre la Mesa de Administración",
+              "authors": "imp1",
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Aviso de privacidad",
               "permalink": "/blog/aviso-de-privacidad"
@@ -1626,7 +1686,8 @@
               "title": "Preguntas frecuentes",
               "permalink": "/blog/"
             }
-          }
+          },
+          "content": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:\n\n- El financiamiento y gastos de la Estantería.\n- Las entradas y salidas del gobierno corporativo.\n\nY está obligado a:\n\n- Reunirse trimestralmente de manera física o remota al menos trimestralmente para tomar decisiones sobre el funcionamiento de la Estantería.\n- Formar parte del consejo de contenido.\n- Deliberar sobre los gastos e ingresos la misma\n- Ratificar a los miembros del consejo de contenido\n- Admitir a nuevos miembros en la Mesa de Administración\n- Eliminar a miembros de la Mesa de Administración.\n\nLa Mesa de Administración estará compuesta por:\n\n- Impossible Box de México en su caracter de fundador y administrador principal.\n- Otros miembros que se comprometan a contribuir a la Estantería Digital de Papalotla, ya sea con contenido, trabajo o financiamiento.\n\nImpossible Box de México comienza con el 100% del poder de voto de la Estantería.\n\nImpossible Box de México es libre de buscar y  aprobar miembros de la Mesa de Administración hasta llegar al quinto miembro.\n\nA cada uno de los primeros cuatro miembros (sin incluir a Impossible Box de México) se les otorgará de un 10 al 15% del poder de voto. Este porcentaje se restará al poder de voto de Impossible Box de Méxco. Al llegar de ser 5 miembros en la mesa directiva e invitar a otro miembro todos los miembros restarán su participación de manera igualitaria siguiendo la fórmula de Dilution Equity.\n\nLa inclusión del sexto miembro en adelante deberá ser aprobada por una votación de Mesa de Administración y en condición de unanimidad.\n\nLa eliminación de un miembro de la Mesa de Administración deberá ser aprobada en condiciones de mayoría calificada tanto en la Mesa de Administración como en el Consejo de Contenido.\n\nCuando Impossible Box de México tenga un poder de voto inferior al 30% La Estantería Digital de Papalotla dejará de ser una subsidiaria de Impossible Box de México y deberá ser transformada en una Sociedad o Asociación Civil."
         },
         {
           "id": "/",
@@ -1653,7 +1714,7 @@
               }
             ],
             "readingTime": 0,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1663,6 +1724,18 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "/",
+              "title": "Preguntas frecuentes",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Declaraciones sobre la Mesa de Administración",
               "permalink": "/blog/estatutos-uno"
@@ -1671,7 +1744,8 @@
               "title": "Estatutos de financiación y gastos",
               "permalink": "/blog/estatutos"
             }
-          }
+          },
+          "content": ""
         },
         {
           "id": "estatutos",
@@ -1690,7 +1764,7 @@
               }
             ],
             "readingTime": 1.24,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1700,6 +1774,16 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "estatutos",
+              "title": "Estatutos de financiación y gastos",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "estatutos"
+              ]
+            },
             "prevItem": {
               "title": "Preguntas frecuentes",
               "permalink": "/blog/"
@@ -1708,7 +1792,8 @@
               "title": "Declaración sobre el Consejo de Contenido",
               "permalink": "/blog/consejo"
             }
-          }
+          },
+          "content": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.\n2. La financiación se podrá dar mediante dos modalidades:\n    1. Donación particular: Donación en una sola exhibición. Esta donación se hará pública mediante los canales de comunicación de la Estantería Digital de Papalotla.\n    2. Financiación regular: La entrada de recursos de manera mensual a la Estantería.\n3. La entrada al tipo b de financiación deberá ser aprobada por la Mesa de Administración mediante una votación de acuerdo a lo establecido en las Declaraciónes sobre la Mesa de Administración, ya que esta entrada garantizará un lugar en la Mesa de Administración.\n4. Es responsabilidad de Impossible Box de México contribuir a la financiación de la Estantería (de acuerdo con sus posibilidades) ya sea de manera total o parcialmente en caso de tener no tener más financiadores.\n5. Al ser una subsidiaria de Impossible Box los recursos para la financiación deberán ser resguardados por la misma en sus cuentas bancarias.\n6. Impossible Box de México deberá entregar a la Mesa de Administración reportes de gastos e ingresos de manera trimestral. Los ingresos mediante extractos bancarios, los gastos mediante factura electrónica. Queda prohibido el uso de efectivo o cheques físicos.\n7. Como se detalla en la Declaración sobre la Mesa de Administración cuando el poder de voto de Impossible Box sea menor al 30% se deberá transformar a la Estantería Digital en una asociación civil."
         },
         {
           "id": "consejo",
@@ -1731,7 +1816,7 @@
               }
             ],
             "readingTime": 0.69,
-            "truncated": false,
+            "hasTruncateMarker": false,
             "authors": [
               {
                 "name": "Oscar Zambrano Lara",
@@ -1741,26 +1826,25 @@
                 "key": "imp1"
               }
             ],
+            "frontMatter": {
+              "slug": "consejo",
+              "title": "Declaración sobre el Consejo de Contenido",
+              "authors": "imp1",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
             "prevItem": {
               "title": "Estatutos de financiación y gastos",
               "permalink": "/blog/estatutos"
             }
-          }
+          },
+          "content": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos \n\nEl Consejo de Contenido es responsable de:\n\n- Proponer nuevos contenidos a la Estantería.\n- Deliberar sobre la eliminación de un contenido de la Estantería.\n- Aportar recomendaciones sobre el manejo interno de la misma.\n\nY está obligado a:\n\n- Reunirse trimestralmente y evaluar los artículos propuestos para una discusión de publicación o eliminación.\n- Emitir una resolución sobre la eliminación o publicación\n\nEn cuanto a las dos primeras atribuciones del Consejo de Contenido los resultados de las votaciones son vinculantes y deberán ser llevadas a cabo por la Mesa de Administración.\n\nLos resultados de las votaciones deberán ser públicadas en la Estantería Digital de Papalotla en una sección especial y con una explicación del carácter de la resolución."
         }
       ],
       "blogListPaginated": [
         {
-          "metadata": {
-            "permalink": "/blog",
-            "page": 1,
-            "postsPerPage": 10,
-            "totalPages": 1,
-            "totalCount": 9,
-            "previousPage": null,
-            "nextPage": null,
-            "blogDescription": "Blog",
-            "blogTitle": "Blog"
-          },
           "items": [
             "/preguntas",
             "/codigo-de-conducta",
@@ -1771,77 +1855,235 @@
             "/",
             "estatutos",
             "consejo"
-          ]
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 9,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
         }
       ],
       "blogTags": {
         "/blog/tags/actualizacion": {
-          "name": "actualizacion",
+          "label": "actualizacion",
           "items": [
             "documentación",
             "actualizacion-primavera"
           ],
-          "permalink": "/blog/tags/actualizacion"
+          "permalink": "/blog/tags/actualizacion",
+          "pages": [
+            {
+              "items": [
+                "documentación",
+                "actualizacion-primavera"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/actualizacion",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/documentacion": {
-          "name": "documentacion",
+          "label": "documentacion",
           "items": [
             "documentación"
           ],
-          "permalink": "/blog/tags/documentacion"
+          "permalink": "/blog/tags/documentacion",
+          "pages": [
+            {
+              "items": [
+                "documentación"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/documentacion",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/interno": {
-          "name": "interno",
+          "label": "interno",
           "items": [
             "documentación"
           ],
-          "permalink": "/blog/tags/interno"
+          "permalink": "/blog/tags/interno",
+          "pages": [
+            {
+              "items": [
+                "documentación"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/interno",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/navidad": {
-          "name": "navidad",
+          "label": "navidad",
           "items": [
             "actualizacion-primavera"
           ],
-          "permalink": "/blog/tags/navidad"
+          "permalink": "/blog/tags/navidad",
+          "pages": [
+            {
+              "items": [
+                "actualizacion-primavera"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/navidad",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/docusaurus": {
-          "name": "docusaurus",
+          "label": "docusaurus",
           "items": [
             "aviso-de-privacidad",
             "estatutos-uno",
             "/",
             "consejo"
           ],
-          "permalink": "/blog/tags/docusaurus"
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "aviso-de-privacidad",
+                "estatutos-uno",
+                "/",
+                "consejo"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/hola": {
-          "name": "hola",
+          "label": "hola",
           "items": [
             "estatutos-uno"
           ],
-          "permalink": "/blog/tags/hola"
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "estatutos-uno"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/facebook": {
-          "name": "facebook",
+          "label": "facebook",
           "items": [
             "/"
           ],
-          "permalink": "/blog/tags/facebook"
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "/"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/hello": {
-          "name": "hello",
+          "label": "hello",
           "items": [
             "/",
             "consejo"
           ],
-          "permalink": "/blog/tags/hello"
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "/",
+                "consejo"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         },
         "/blog/tags/estatutos": {
-          "name": "estatutos",
+          "label": "estatutos",
           "items": [
             "estatutos"
           ],
-          "permalink": "/blog/tags/estatutos"
+          "permalink": "/blog/tags/estatutos",
+          "pages": [
+            {
+              "items": [
+                "estatutos"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/estatutos",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
         }
       },
       "blogTagsListPath": "/blog/tags"
@@ -1852,14 +2094,17 @@
       {
         "type": "mdx",
         "permalink": "/markdown-page",
-        "source": "@site/src/pages/markdown-page.md"
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
       }
     ]
   },
-  "docusaurus-plugin-debug": {
-    "default": null
-  },
-  "docusaurus-theme-classic": {
-    "default": null
-  }
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
 }

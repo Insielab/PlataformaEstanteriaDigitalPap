@@ -13,8 +13,15 @@
     }
   ],
   "readingTime": 3.54,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [],
+  "frontMatter": {
+    "slug": "aviso-de-privacidad",
+    "title": "Aviso de privacidad",
+    "tags": [
+      "docusaurus"
+    ]
+  },
   "prevItem": {
     "title": "Actualización de Primavera",
     "permalink": "/blog/actualizacion-primavera"

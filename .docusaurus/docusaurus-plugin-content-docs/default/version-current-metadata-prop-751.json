@@ -4,6 +4,7 @@
   "label": "Next",
   "banner": null,
   "badge": false,
+  "noIndex": false,
   "className": "docs-version-current",
   "isLast": true,
   "docsSidebars": {
@@ -11,320 +12,609 @@
       {
         "type": "category",
         "label": "Historias y costumbres",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "category",
             "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+            "collapsible": true,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "href": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
+                "href": "/historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+                "docId": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval"
               },
               {
                 "type": "link",
                 "label": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
-                "href": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
+                "href": "/historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+                "docId": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias"
               }
-            ],
-            "collapsed": true,
-            "collapsible": true
+            ]
           },
           {
             "type": "link",
             "label": "El culto al Señor del Monte en las inmediaciones de la Malinche",
-            "href": "/historias-constumbres.mdx/senor_del_monte"
+            "href": "/historias-constumbres.mdx/senor_del_monte",
+            "docId": "historias-constumbres.mdx/senor_del_monte"
           },
           {
             "type": "link",
             "label": "Arqueología del paisaje en La Malinche",
-            "href": "/historias-constumbres.mdx/arqueologia-malinche"
+            "href": "/historias-constumbres.mdx/arqueologia-malinche",
+            "docId": "historias-constumbres.mdx/arqueologia-malinche"
           },
           {
             "type": "link",
             "label": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
-            "href": "/historias-constumbres.mdx/agua-puebla"
+            "href": "/historias-constumbres.mdx/agua-puebla",
+            "docId": "historias-constumbres.mdx/agua-puebla"
           },
           {
             "type": "link",
             "label": "Letra de La Danza de la Muñeca",
-            "href": "/historias-constumbres.mdx/la-muneca-letra"
+            "href": "/historias-constumbres.mdx/la-muneca-letra",
+            "docId": "historias-constumbres.mdx/la-muneca-letra"
           },
           {
             "type": "link",
             "label": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
-            "href": "/historias-constumbres.mdx/impacto-volkswagen"
+            "href": "/historias-constumbres.mdx/impacto-volkswagen",
+            "docId": "historias-constumbres.mdx/impacto-volkswagen"
           },
           {
             "type": "link",
             "label": "Historia mínima de la Comunidad Judía en Papalotla",
-            "href": "/historias-constumbres.mdx/judios-papalotla"
+            "href": "/historias-constumbres.mdx/judios-papalotla",
+            "docId": "historias-constumbres.mdx/judios-papalotla"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "link",
         "label": "¡Bienvenido a la Estantería Digital de Papalotla!",
-        "href": "/"
+        "href": "/",
+        "docId": "intro"
       },
       {
         "type": "category",
         "label": "Documentos públicos y transparencia",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Primera Acta de Sesión de Cabildo (2017)",
-            "href": "/documentos-publicos/acta-cabildo"
+            "href": "/documentos-publicos/acta-cabildo",
+            "docId": "documentos-publicos/acta-cabildo"
           },
           {
             "type": "link",
             "label": "Presupuesto de Egresos de 2017",
-            "href": "/documentos-publicos/presupuesto-egresos-17"
+            "href": "/documentos-publicos/presupuesto-egresos-17",
+            "docId": "documentos-publicos/presupuesto-egresos-17"
           },
           {
             "type": "link",
             "label": "Lista de Servidores Públicos Papalotla 2017-2021",
-            "href": "/documentos-publicos/servidores-publicos17"
+            "href": "/documentos-publicos/servidores-publicos17",
+            "docId": "documentos-publicos/servidores-publicos17"
           },
           {
             "type": "link",
             "label": "Informes de Aplicación de los recursos de FORTAMUN",
-            "href": "/documentos-publicos/fortamun"
+            "href": "/documentos-publicos/fortamun",
+            "docId": "documentos-publicos/fortamun"
           },
           {
             "type": "link",
             "label": "Asignación de Recursos en programas sociales municipales (2015)",
-            "href": "/documentos-publicos/asignación-programas"
+            "href": "/documentos-publicos/asignación-programas",
+            "docId": "documentos-publicos/asignación-programas"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Salud pública",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "category",
             "label": "Pandemia COVID-19",
+            "collapsible": true,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
-                "href": "/salud-publica/pandemia-datos/relevantes-datos"
+                "href": "/salud-publica/pandemia-datos/relevantes-datos",
+                "docId": "salud-publica/pandemia-datos/relevantes-datos"
               },
               {
                 "type": "link",
                 "label": "Vacunación en Papalotla de Xicohténcatl.",
-                "href": "/salud-publica/pandemia-datos/vacunacion"
+                "href": "/salud-publica/pandemia-datos/vacunacion",
+                "docId": "salud-publica/pandemia-datos/vacunacion"
               },
               {
                 "type": "link",
                 "label": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
-                "href": "/salud-publica/pandemia-datos/positivo-presidente"
+                "href": "/salud-publica/pandemia-datos/positivo-presidente",
+                "docId": "salud-publica/pandemia-datos/positivo-presidente"
               }
-            ],
-            "collapsed": true,
-            "collapsible": true
+            ]
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Mapas y recursos gráficos",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
-            "href": "/recursos-graficos/mancha-urbana"
+            "href": "/recursos-graficos/mancha-urbana",
+            "docId": "recursos-graficos/mancha-urbana"
           },
           {
             "type": "link",
             "label": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
-            "href": "/recursos-graficos/altura"
+            "href": "/recursos-graficos/altura",
+            "docId": "recursos-graficos/altura"
           },
           {
             "type": "link",
             "label": "Mapa del Municipio de Papalotla",
-            "href": "/recursos-graficos/mapa"
+            "href": "/recursos-graficos/mapa",
+            "docId": "recursos-graficos/mapa"
           },
           {
             "type": "link",
             "label": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-            "href": "/recursos-graficos/escudo-e-identidades"
+            "href": "/recursos-graficos/escudo-e-identidades",
+            "docId": "recursos-graficos/escudo-e-identidades"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Planes de desarrollo",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Plan de desarrollo municipal 2017-2021",
-            "href": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+            "href": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+            "docId": "planes-de-desarrollo/plan-desarrollo-2017-2021"
           },
           {
             "type": "link",
             "label": "Plan de desarrollo de artesanías para el municipio de Papalotla",
-            "href": "/planes-de-desarrollo/desarrollo-artesanias"
+            "href": "/planes-de-desarrollo/desarrollo-artesanias",
+            "docId": "planes-de-desarrollo/desarrollo-artesanias"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Polémicas y resoluciones",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
-            "href": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+            "href": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+            "docId": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
           },
           {
             "type": "link",
             "label": "Petición del esclarecimiento del fallecimiento de Blanca X.",
-            "href": "/polemicas-resoluciones/fallecimiento-influenza"
+            "href": "/polemicas-resoluciones/fallecimiento-influenza",
+            "docId": "polemicas-resoluciones/fallecimiento-influenza"
           },
           {
             "type": "link",
             "label": "Polémica por la elecciones de San Buenaventura de 2016",
-            "href": "/polemicas-resoluciones/elecciones-san-buenaventura"
+            "href": "/polemicas-resoluciones/elecciones-san-buenaventura",
+            "docId": "polemicas-resoluciones/elecciones-san-buenaventura"
           },
           {
             "type": "link",
             "label": "La complicada relación entre Panzacola y Papalotla",
-            "href": "/polemicas-resoluciones/relacion-papalotla-panzacola"
+            "href": "/polemicas-resoluciones/relacion-papalotla-panzacola",
+            "docId": "polemicas-resoluciones/relacion-papalotla-panzacola"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Recursos estadísticos",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "category",
             "label": "Censo de Población y Vivienda 2021",
+            "collapsible": true,
+            "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "Resumen | Censo de Población y Vivienda 2020",
-                "href": "/recursos-estadisticos/censo-poblacion/resumen"
+                "href": "/recursos-estadisticos/censo-poblacion/resumen",
+                "docId": "recursos-estadisticos/censo-poblacion/resumen"
               },
               {
                 "type": "link",
                 "label": "Población",
-                "href": "/recursos-estadisticos/censo-poblacion/poblacion"
+                "href": "/recursos-estadisticos/censo-poblacion/poblacion",
+                "docId": "recursos-estadisticos/censo-poblacion/poblacion"
               },
               {
                 "type": "link",
                 "label": "Migración y fecundidad",
-                "href": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+                "href": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+                "docId": "recursos-estadisticos/censo-poblacion/fecundidad-migracion"
               },
               {
                 "type": "link",
                 "label": "Etnicidad",
-                "href": "/recursos-estadisticos/censo-poblacion/etnicidad"
+                "href": "/recursos-estadisticos/censo-poblacion/etnicidad",
+                "docId": "recursos-estadisticos/censo-poblacion/etnicidad"
               },
               {
                 "type": "link",
                 "label": "Población con capacidades diferentes",
-                "href": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+                "href": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+                "docId": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
               },
               {
                 "type": "link",
                 "label": "Religión y situación conyugal",
-                "href": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
+                "href": "/recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+                "docId": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal"
               },
               {
                 "type": "link",
                 "label": "Educación",
-                "href": "/recursos-estadisticos/censo-poblacion/educacion"
+                "href": "/recursos-estadisticos/censo-poblacion/educacion",
+                "docId": "recursos-estadisticos/censo-poblacion/educacion"
               },
               {
                 "type": "link",
                 "label": "Características económicas",
-                "href": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
+                "href": "/recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+                "docId": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas"
               },
               {
                 "type": "link",
                 "label": "Acceso a servicios de salud",
-                "href": "/recursos-estadisticos/censo-poblacion/servicion-de-salud"
+                "href": "/recursos-estadisticos/censo-poblacion/servicion-de-salud",
+                "docId": "recursos-estadisticos/censo-poblacion/servicion-de-salud"
               },
               {
                 "type": "link",
                 "label": "Características de la vivienda",
-                "href": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
+                "href": "/recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+                "docId": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas"
               }
-            ],
-            "collapsed": true,
-            "collapsible": true
+            ]
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Archivos musicales",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Música del Carnaval de Papalotla",
-            "href": "/archivos-musicales.mdx/carnaval-papalotla"
+            "href": "/archivos-musicales.mdx/carnaval-papalotla",
+            "docId": "archivos-musicales.mdx/carnaval-papalotla"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Protección civil",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
-            "href": "/proteccion-civil/atlas-riesgos"
+            "href": "/proteccion-civil/atlas-riesgos",
+            "docId": "proteccion-civil/atlas-riesgos"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "Leyes estatales y municipales",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Reglamento de tránsito municipal",
-            "href": "/leyes-estatales-municipales/regalamento-transito"
+            "href": "/leyes-estatales-municipales/regalamento-transito",
+            "docId": "leyes-estatales-municipales/regalamento-transito"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       },
       {
         "type": "category",
         "label": "tutorial-basics",
+        "collapsible": true,
+        "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "congratultions",
-            "href": "/tutorial-basics/congratultions"
+            "href": "/tutorial-basics/congratultions",
+            "docId": "tutorial-basics/congratultions"
           }
-        ],
-        "collapsed": true,
-        "collapsible": true
+        ]
       }
     ]
+  },
+  "docs": {
+    "archivos-musicales.mdx/carnaval-papalotla": {
+      "id": "archivos-musicales.mdx/carnaval-papalotla",
+      "title": "Música del Carnaval de Papalotla",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentos-publicos/acta-cabildo": {
+      "id": "documentos-publicos/acta-cabildo",
+      "title": "Primera Acta de Sesión de Cabildo (2017)",
+      "description": "|Autor:|  |",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentos-publicos/asignación-programas": {
+      "id": "documentos-publicos/asignación-programas",
+      "title": "Asignación de Recursos en programas sociales municipales (2015)",
+      "description": "|Autor:|Honorable Ayuntamiento de Papalotla de Xicohténcatl (2015)  |",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentos-publicos/fortamun": {
+      "id": "documentos-publicos/fortamun",
+      "title": "Informes de Aplicación de los recursos de FORTAMUN",
+      "description": "|Autor:|  Honorable Ayuntamiento de Papalotla de Xicohténcatl|",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentos-publicos/presupuesto-egresos-17": {
+      "id": "documentos-publicos/presupuesto-egresos-17",
+      "title": "Presupuesto de Egresos de 2017",
+      "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
+      "sidebar": "tutorialSidebar"
+    },
+    "documentos-publicos/servidores-publicos17": {
+      "id": "documentos-publicos/servidores-publicos17",
+      "title": "Lista de Servidores Públicos Papalotla 2017-2021",
+      "description": "|Autor:| Honorable Ayuntamiento de Papalotla de Xicohténcatl (2017) |",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/agua-puebla": {
+      "id": "historias-constumbres.mdx/agua-puebla",
+      "title": "Agua e industria en Puebla. El establecimiento de la fábrica textil La Covadonga, 1889-1897",
+      "description": "|Autor:| Sergio Francisco Rosas Salas |",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/arqueologia-malinche": {
+      "id": "historias-constumbres.mdx/arqueologia-malinche",
+      "title": "Arqueología del paisaje en La Malinche",
+      "description": "|Autor:| Sergio Suárez Cruz |",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/impacto-volkswagen": {
+      "id": "historias-constumbres.mdx/impacto-volkswagen",
+      "title": "Impacto del establecimiento de Volkswagen de México en el panorama del Valle de Tlaxcala-Puebla|",
+      "description": "|Autor:| Mariano Torres Bautista |",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/judios-papalotla": {
+      "id": "historias-constumbres.mdx/judios-papalotla",
+      "title": "Historia mínima de la Comunidad Judía en Papalotla",
+      "description": "|Autor:|Estanería Digital de Papalotla|",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/la-muneca-letra": {
+      "id": "historias-constumbres.mdx/la-muneca-letra",
+      "title": "Letra de La Danza de la Muñeca",
+      "description": "|Autor:| Dominio público |",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval": {
+      "id": "historias-constumbres.mdx/organizacion-carnaval/afanes-carnaval",
+      "title": "Afanes y jerarquías en la organización del Caranaval de Papalotla",
+      "description": "|Autor:| Joel Dávila Guitiérrez |",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias": {
+      "id": "historias-constumbres.mdx/organizacion-carnaval/digitalizado-afanes-jeraquias",
+      "title": "[Digitalizado] Afanes y jerarquías en la organización del Caranaval de Papalotla",
+      "description": "Este documento carecía de texto digital fácilmemte compartible, se ha digitalizado usando",
+      "sidebar": "tutorialSidebar"
+    },
+    "historias-constumbres.mdx/senor_del_monte": {
+      "id": "historias-constumbres.mdx/senor_del_monte",
+      "title": "El culto al Señor del Monte en las inmediaciones de la Malinche",
+      "description": "|Autor:| Sergio Suárez Cruz |",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+      "description": "La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+      "sidebar": "tutorialSidebar"
+    },
+    "leyes-estatales-municipales/regalamento-transito": {
+      "id": "leyes-estatales-municipales/regalamento-transito",
+      "title": "Reglamento de tránsito municipal",
+      "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+      "sidebar": "tutorialSidebar"
+    },
+    "planes-de-desarrollo/desarrollo-artesanias": {
+      "id": "planes-de-desarrollo/desarrollo-artesanias",
+      "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+      "description": "|Autor:|Viridiana Elizabeth Ponce Vilchis, Ángel David Flores Domínguez|",
+      "sidebar": "tutorialSidebar"
+    },
+    "planes-de-desarrollo/plan-desarrollo-2017-2021": {
+      "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
+      "title": "Plan de desarrollo municipal 2017-2021",
+      "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+      "sidebar": "tutorialSidebar"
+    },
+    "polemicas-resoluciones/elecciones-san-buenaventura": {
+      "id": "polemicas-resoluciones/elecciones-san-buenaventura",
+      "title": "Polémica por la elecciones de San Buenaventura de 2016",
+      "description": "Solicitud de impugnación de las elecciones auxiliares de San Buenaventura, Papalotla dirigio al Tribunal Electoral de Tlaxcala",
+      "sidebar": "tutorialSidebar"
+    },
+    "polemicas-resoluciones/fallecimiento-influenza": {
+      "id": "polemicas-resoluciones/fallecimiento-influenza",
+      "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
+      "description": "Exhorto del diputado Alberto Amaro Corona para el esclarecimiento del fallecimento de Blanca X. por un supuesto caso falso de Influenza H1N1 EN 2009.",
+      "sidebar": "tutorialSidebar"
+    },
+    "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos": {
+      "id": "polemicas-resoluciones/papalotla-xicohtzinco-lavaderos",
+      "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+      "description": "Archivo con la petición a la Suprema Corte de Justicia de la Nación para la invalidación de la pertenencia del territorio \"Los Lavaderos\" al municipio de Xicohtzinco.",
+      "sidebar": "tutorialSidebar"
+    },
+    "polemicas-resoluciones/relacion-papalotla-panzacola": {
+      "id": "polemicas-resoluciones/relacion-papalotla-panzacola",
+      "title": "La complicada relación entre Panzacola y Papalotla",
+      "description": "|Autor:| Oscar Zambrano Lara |",
+      "sidebar": "tutorialSidebar"
+    },
+    "proteccion-civil/atlas-riesgos": {
+      "id": "proteccion-civil/atlas-riesgos",
+      "title": "Atlas de Riesgos Naturales de Papalotla de Xicohténcatl",
+      "description": "|Autor:| Acierto consultores, S.C. / H. Ayuntamiento de Papalotla de Xicohténcatl |",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/caracteristicas-economicas": {
+      "id": "recursos-estadisticos/censo-poblacion/caracteristicas-economicas",
+      "title": "Características económicas",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas": {
+      "id": "recursos-estadisticos/censo-poblacion/caracteristicas-viviendas",
+      "title": "Características de la vivienda",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/educacion": {
+      "id": "recursos-estadisticos/censo-poblacion/educacion",
+      "title": "Educación",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/etnicidad": {
+      "id": "recursos-estadisticos/censo-poblacion/etnicidad",
+      "title": "Etnicidad",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/fecundidad-migracion": {
+      "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+      "title": "Migración y fecundidad",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/poblacion": {
+      "id": "recursos-estadisticos/censo-poblacion/poblacion",
+      "title": "Población",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes": {
+      "id": "recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes",
+      "title": "Población con capacidades diferentes",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal": {
+      "id": "recursos-estadisticos/censo-poblacion/religion-situacion-conyugal",
+      "title": "Religión y situación conyugal",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/resumen": {
+      "id": "recursos-estadisticos/censo-poblacion/resumen",
+      "title": "Resumen | Censo de Población y Vivienda 2020",
+      "description": "Podrás descargar los datos del Censo de Población y Vivienda 2020",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/servicion-de-salud": {
+      "id": "recursos-estadisticos/censo-poblacion/servicion-de-salud",
+      "title": "Acceso a servicios de salud",
+      "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-graficos/altura": {
+      "id": "recursos-graficos/altura",
+      "title": "Altura topográfica del Municipio de Papalotla de Xicohténcatl.",
+      "description": "| Coordenadas | Nombre      |Altura sobre el nivel de mar (m.s.n.m)|",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-graficos/escudo-e-identidades": {
+      "id": "recursos-graficos/escudo-e-identidades",
+      "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+      "description": "|Periodo|Administración|Previsualización|Descarga|",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-graficos/mancha-urbana": {
+      "id": "recursos-graficos/mancha-urbana",
+      "title": "Mapa y mancha urbana de Papalotla de Xicohténcatl.",
+      "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-graficos/mapa": {
+      "id": "recursos-graficos/mapa",
+      "title": "Mapa del Municipio de Papalotla",
+      "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+      "sidebar": "tutorialSidebar"
+    },
+    "salud-publica/pandemia-datos/positivo-presidente": {
+      "id": "salud-publica/pandemia-datos/positivo-presidente",
+      "title": "Presidente de Papalotla de Xicohténcatl da positivo a la prueba de SARS-CoV-2",
+      "description": "|Autor:|Oscar Zambrano Lara|",
+      "sidebar": "tutorialSidebar"
+    },
+    "salud-publica/pandemia-datos/relevantes-datos": {
+      "id": "salud-publica/pandemia-datos/relevantes-datos",
+      "title": "Pandemia por coronavirus en Papalotla de Xicohténcatl",
+      "description": "Datos importantes:",
+      "sidebar": "tutorialSidebar"
+    },
+    "salud-publica/pandemia-datos/vacunacion": {
+      "id": "salud-publica/pandemia-datos/vacunacion",
+      "title": "Vacunación en Papalotla de Xicohténcatl.",
+      "description": "|Población objetivo|Farmaceútica/Nombre|Población vacunada|Referencia|",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratultions": {
+      "id": "tutorial-basics/congratultions",
+      "title": "congratultions",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    }
   }
 }

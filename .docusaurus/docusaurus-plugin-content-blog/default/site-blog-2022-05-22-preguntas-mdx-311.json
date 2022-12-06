@@ -8,7 +8,7 @@
   "formattedDate": "May 22, 2022",
   "tags": [],
   "readingTime": 1.415,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -18,6 +18,13 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "/preguntas",
+    "title": "Preguntas frecuentes",
+    "authors": [
+      "imp1"
+    ]
+  },
   "nextItem": {
     "title": "Código de conducta de la comunidad y colaboradores.",
     "permalink": "/blog/codigo-de-conducta"

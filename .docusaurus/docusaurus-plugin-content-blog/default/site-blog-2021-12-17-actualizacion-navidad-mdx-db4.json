@@ -17,7 +17,7 @@
     }
   ],
   "readingTime": 0.005,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Oscar Zambrano Lara",
@@ -27,6 +27,17 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "actualizacion-primavera",
+    "title": "Actualización de Primavera",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "actualizacion",
+      "navidad"
+    ]
+  },
   "prevItem": {
     "title": "Documentación para desarrolladores y personas técnicas",
     "permalink": "/blog/documentación"

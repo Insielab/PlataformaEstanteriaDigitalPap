@@ -8,7 +8,7 @@
   "formattedDate": "May 14, 2022",
   "tags": [],
   "readingTime": 4.125,
-  "truncated": false,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Consejo de Contenido",
@@ -25,6 +25,14 @@
       "key": "imp1"
     }
   ],
+  "frontMatter": {
+    "slug": "/codigo-de-conducta",
+    "title": "Código de conducta de la comunidad y colaboradores.",
+    "authors": [
+      "slorber",
+      "imp1"
+    ]
+  },
   "prevItem": {
     "title": "Preguntas frecuentes",
     "permalink": "/blog/preguntas"

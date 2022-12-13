@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/declaracion-estanteria",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-12-declaracion-estanteria.mdx",
+  "source": "@site/blog/2022-12-12-declaracion-estanteria.mdx",
+  "title": "Declaración de la Estantería Digital de Papalotla",
+  "description": "Nosotros, en comunidad, declaramos que:",
+  "date": "2022-12-12T00:00:00.000Z",
+  "formattedDate": "December 12, 2022",
+  "tags": [
+    {
+      "label": "declaracion",
+      "permalink": "/blog/tags/declaracion"
+    }
+  ],
+  "readingTime": 1.435,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "declaracion-estanteria",
+    "title": "Declaración de la Estantería Digital de Papalotla",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "declaracion"
+    ]
+  },
+  "prevItem": {
+    "title": "Declaraciones sobre la Mesa de Administración",
+    "permalink": "/blog/mesa-de-administracion"
+  },
+  "nextItem": {
+    "title": "Preguntas frecuentes",
+    "permalink": "/blog/preguntas"
+  }
+}

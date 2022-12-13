@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/mesa-de-administracion",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-13-first-blog-post.md",
+  "source": "@site/blog/2022-12-13-first-blog-post.md",
+  "title": "Declaraciones sobre la Mesa de Administración",
+  "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
+  "date": "2022-12-13T00:00:00.000Z",
+  "formattedDate": "December 13, 2022",
+  "tags": [
+    {
+      "label": "hola",
+      "permalink": "/blog/tags/hola"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.74,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "mesa-de-administracion",
+    "title": "Declaraciones sobre la Mesa de Administración",
+    "authors": "imp1",
+    "tags": [
+      "hola",
+      "docusaurus"
+    ]
+  },
+  "nextItem": {
+    "title": "Declaración de la Estantería Digital de Papalotla",
+    "permalink": "/blog/declaracion-estanteria"
+  }
+}

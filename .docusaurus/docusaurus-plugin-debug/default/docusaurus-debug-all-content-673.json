@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/oscar/Escritorio/plataformaestanteria/sidebars.js",
-          "contentPath": "/home/oscar/Escritorio/plataformaestanteria/docs",
-          "contentPathLocalized": "/home/oscar/Escritorio/plataformaestanteria/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/oscar/Escritorio/estanteriadigital/sidebars.js",
+          "contentPath": "/home/oscar/Escritorio/estanteriadigital/docs",
+          "contentPathLocalized": "/home/oscar/Escritorio/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",
@@ -1407,6 +1407,101 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "mesa-de-administracion",
+          "metadata": {
+            "permalink": "/blog/mesa-de-administracion",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-13-first-blog-post.md",
+            "source": "@site/blog/2022-12-13-first-blog-post.md",
+            "title": "Declaraciones sobre la Mesa de Administración",
+            "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
+            "date": "2022-12-13T00:00:00.000Z",
+            "formattedDate": "December 13, 2022",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 1.74,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mesa-de-administracion",
+              "title": "Declaraciones sobre la Mesa de Administración",
+              "authors": "imp1",
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "Declaración de la Estantería Digital de Papalotla",
+              "permalink": "/blog/declaracion-estanteria"
+            }
+          },
+          "content": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:\n\n- El financiamiento y gastos de la Estantería.\n- Las entradas y salidas del gobierno corporativo.\n- La aplicación de responsabilidades en el incumplimiento de **Código de Conducta**.\n\nY está obligado a:\n\n- Reunirse trimestralmente de manera física o remota al menos trimestralmente para tomar decisiones sobre el funcionamiento de la Estantería.\n- Formar parte del **Consejo de Contenido**.\n- Deliberar sobre los gastos e ingresos la misma.\n- Ratificar a los miembros del **Consejo de Contenido**.\n- Admitir a nuevos miembros en la Mesa de Administración.\n- Eliminar a miembros de la Mesa de Administración.\n\nLa Mesa de Administración estará compuesta por:\n\n- Impossible Box de México en su caracter de fundador y administrador principal.\n- Otros miembros que se comprometan a contribuir a la Estantería Digital de Papalotla, ya sea con contenido, trabajo o financiamiento.\n\nImpossible Box de México comienza con el 100% del poder de voto de la Mesa de Administración.\n\nImpossible Box de México es libre de buscar y  aprobar miembros de la Mesa de Administración hasta llegar al quinto miembro.\n\nA cada uno de los primeros cuatro miembros (sin incluir a Impossible Box de México) se les otorgará de un 10 al 15% del poder de voto. Este porcentaje se restará al poder de voto de Impossible Box de México. Al llegar de ser 5 miembros en la mesa directiva e invitar a otro miembro todos los miembros restarán su participación de manera igualitaria siguiendo la fórmula de Dilution Equity.\n\nLa inclusión del sexto miembro en adelante deberá ser aprobada por una votación de Mesa de Administración y en condición de unanimidad.\n\nLa eliminación de un miembro de la Mesa de Administración deberá ser aprobada en condiciones de mayoría calificada tanto en la Mesa de Administración como en el **Consejo de Contenido**.\n\nCuando Impossible Box de México tenga un poder de voto inferior al 30% La Estantería Digital de Papalotla dejará de ser una subsidiaria de Impossible Box de México y deberá ser transformada en una Sociedad o Asociación Civil."
+        },
+        {
+          "id": "declaracion-estanteria",
+          "metadata": {
+            "permalink": "/blog/declaracion-estanteria",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-12-declaracion-estanteria.mdx",
+            "source": "@site/blog/2022-12-12-declaracion-estanteria.mdx",
+            "title": "Declaración de la Estantería Digital de Papalotla",
+            "description": "Nosotros, en comunidad, declaramos que:",
+            "date": "2022-12-12T00:00:00.000Z",
+            "formattedDate": "December 12, 2022",
+            "tags": [
+              {
+                "label": "declaracion",
+                "permalink": "/blog/tags/declaracion"
+              }
+            ],
+            "readingTime": 1.435,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "frontMatter": {
+              "slug": "declaracion-estanteria",
+              "title": "Declaración de la Estantería Digital de Papalotla",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "declaracion"
+              ]
+            },
+            "prevItem": {
+              "title": "Declaraciones sobre la Mesa de Administración",
+              "permalink": "/blog/mesa-de-administracion"
+            },
+            "nextItem": {
+              "title": "Preguntas frecuentes",
+              "permalink": "/blog/preguntas"
+            }
+          },
+          "content": "Nosotros, en comunidad, declaramos que:\n\nLa **Estantería Digital de Papalotla** tiene por objeto conservar, resguardar y difundir los archivos históricos, culturales, estadísticos y geográficos de la ciudad.\nLa Estantería Digital de Papalotla debe ser construida en comunidad, de manera democrática y con software libre.\n\nTomando en cuenta lo anterior, establecemos:\n\nI. **Un Código de conducta**, que regirá nuestras relaciones internas y establecerá sanciones justas con el fin de tener una comunidad sana y sin discriminación.\n\nII. **Una Mesa de Administración**, que sea el órgano ejecutivo de la Estantería y se encargará de:\n\n- a) Administrar  los aspectos técnicos y administrativos de la misma.\n- b) Establecer las responsabilidades y sanciones en los casos de infracciones \t\t   al Código de conducta.\n\nIII. **Un Consejo de Contenido**, responsable de la neutralidad, independencia y transparencia de nuestros contenidos.\n\nIV. **Los Estatutos de financiación y gastos**, que garantizan nuestro funcionamiento económico.\n\nCon el fin de establecer un sistema de funcionamiento ágil y adaptable, las anteriores cuatro declaraciones **(I, II, III y IV)** pueden ser modificadas bajo las siguientes condiciones:\n- a) En condiciones de mayoría calificada en el Consejo de Contenido.\n- b) Emitiendo un documento público llamado **«Resolución del Consejo de Contenido»**, el cual después de su aprobación por el mismo modificará las declaraciones.\n\nPara modificar la presente declaración se seguirá el mismo proceso de modificación, en **condiciones de unanimidad**.\n\nEl proceso de creación, publicación y votación de resoluciones se detallará en la Declaración del Consejo de contenido.\n\n***\nPor una defensa de los derechos culturales, una lucha por un nuevo tipo de sociedad democrática digital.<br></br>\n<br></br>\n\nQueda refundada la Estantería Digital de Papalotla.\n\n**En representación de la Estantería Digital de Papalotla.** <br></br>\nOscar Zambrano Lara<br></br>\n12 de diciembre de 2022."
+        },
+        {
           "id": "/preguntas",
           "metadata": {
             "permalink": "/blog/preguntas",
@@ -1434,6 +1529,10 @@
               "authors": [
                 "imp1"
               ]
+            },
+            "prevItem": {
+              "title": "Declaración de la Estantería Digital de Papalotla",
+              "permalink": "/blog/declaracion-estanteria"
             },
             "nextItem": {
               "title": "Código de conducta de la comunidad y colaboradores.",
@@ -1542,64 +1641,11 @@
               "permalink": "/blog/codigo-de-conducta"
             },
             "nextItem": {
-              "title": "Actualización de Primavera",
-              "permalink": "/blog/actualizacion-primavera"
-            }
-          },
-          "content": "La Estantería Digital se divide en dos ramas de desarrollo: **Plataforma** y **Archivo**.\n\n**Plataforma** es la construcción en sí del sito web (front-end) y los procesos para que la misma pueda ser desplegada y visualizada (Backend y DevOps).\n\n**Archivo** se refiere a la recolección, curado, documentación, digitalización, mantenimiento y conservación de los archivos. Esta rama también se encarga de la carga y el mantenimiento de los servidores de los archivos exclusivamente.\n\nAmbas ramas se comunican y hacen llegar los archivos a los usuarios.\n\n![enter image description here](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2/-/raw/main/Im%C3%A1genes%20p%C3%BAblicas/Cover.png)\n\n## Plataforma\nLa Plataforma de la Estantería Digital de Papalotla es construida en **Docusaurus**, un proyecto open source de Facebook. El control de versiones se realiza mediante **GitHub**. El despliegue final se realiza en **Netlify**.\n\nLas siguientes tecnologías son utlizadas en el front-end en el proyecto.\n\n-   React\n-   Node.js\n-   Yarn\n\n![enter image description here](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2/-/raw/main/Im%C3%A1genes%20p%C3%BAblicas/Coverprocess.png)\n\n### Markdown y MDX\n\nEn la Estantería Digital de Papalotla (y en Impossible Box de México en general) desayunamos, comemos y cenamos Markdown. Todos las páginas estan hechas en este lenguaje de tipado. También es el caso de los documentos corporativos internos y nuestros manuales. MDX nos da una oportunidad de llevar Markdown al siguiente nivel.\n\n*[I'm on the Next Level 🎶](https://www.youtube.com/watch?v=VZVSy8H-uzY)*\n\n### Repositorio de Plataforma.\nTodo nuestro desarrollo se concentra en un repositorio de GitHub llamado **Repositorio de Plataforma**. Hacemos nuestros commit colocando una descripción sencilla y nos gusta colocar también la canción que estamos escuchando en ese momento.\n\n- [Repositorio de Plataforma en GitHub](https://github.com/ImpossibleBoxMX/estanteriadigital)\n\n## Archivo\nArchivo se construye día a día mediante una comunidad que, decide, busca, cura, digitaliza y reseña los artículos presentes en la Estantería.\n\nNuestros archivos provienen de muchas fuentes, son el producto de muchas horas dedicadas y de las siguientes técnicas.\n\n- Búsqueda y archivos existentes: Mediante muchas técnicas de búsqueda tanto en la Web como en plataformas de transparencia.\n- Digitalización: Hacemos un importante trabajo en la conversión de archivos físicos a digitales. Utlizamos tecnología OCR para convertir imágenes en texto útil y facilmente consultable.\n- Creación: La Estantería publica documentación original basada en datos de acceso público. Hacemos estadísticas y material gráfico. Así mismo también publicamos contenido de autores independientes, siempre y cuando cumplan con estándares de calidad requeridos y sean aprobados por el [Consejo de Contenido](https://estanteria.impossiblebox.me/blog/consejo).\n\nNuestros estándares de contenido se resumen en el siguiente artículo.\n\n- **[Empoderar a los creadores locales](https://impossiblebox.substack.com/p/empoderar-a-los-creadores-locales?s=r)**\n\nArchivo también se encarga de mantener actualizado nuestro repositorio público en GitLab con todos nuestros archivos.\n**¡Puedes hacer una descarga masiva de todos los archivos de la Estantería de un solo golpe!**\n\nMira un pequeño turorial de como hacerlo aquí.\n<script src=\"https://gist.github.com/ImpossibleBoxMX/8298b44ee0c56a8d2c5ff622beaf444d.js\"></script>\n\n- **[Repositorio de Archivo en GitLab](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2)**\n\nPor cuestiones de seguridad, metricas y facilidad, nuestros archivos (blob) se despliegan mediante Microsoft Azure. Tenemos cuatro copias de seguridad.\n## Fallos, errores y bugs\nEn caso de que encuentres un bug, fallo o inconsistencia te agradeceremos hacerlo llegar a correo: **estanteria@impossiblebox.me**\n## Código de conducta\nTodo el proyecto de la Estantería se rige bajo el siguiente [código de conducta](/codigo-de-conducta)\n## Atribución\nLos gráficos de esta página fueron hechos con [Cocomaterial](https://cocomaterial.com/), una librería para [Penpot](https://penpot.app/)."
-        },
-        {
-          "id": "actualizacion-primavera",
-          "metadata": {
-            "permalink": "/blog/actualizacion-primavera",
-            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-12-17-actualizacion-navidad.mdx",
-            "source": "@site/blog/2021-12-17-actualizacion-navidad.mdx",
-            "title": "Actualización de Primavera",
-            "description": "actualizacion-arbol",
-            "date": "2021-12-17T00:00:00.000Z",
-            "formattedDate": "December 17, 2021",
-            "tags": [
-              {
-                "label": "actualizacion",
-                "permalink": "/blog/tags/actualizacion"
-              },
-              {
-                "label": "navidad",
-                "permalink": "/blog/tags/navidad"
-              }
-            ],
-            "readingTime": 0.005,
-            "hasTruncateMarker": false,
-            "authors": [
-              {
-                "name": "Oscar Zambrano Lara",
-                "title": "Dirección General de Impossible Box de México",
-                "url": "https://github.com/endiliey",
-                "imageURL": "https://github.com/endiliey.png",
-                "key": "imp1"
-              }
-            ],
-            "frontMatter": {
-              "slug": "actualizacion-primavera",
-              "title": "Actualización de Primavera",
-              "authors": [
-                "imp1"
-              ],
-              "tags": [
-                "actualizacion",
-                "navidad"
-              ]
-            },
-            "prevItem": {
-              "title": "Documentación para desarrolladores y personas técnicas",
-              "permalink": "/blog/documentación"
-            },
-            "nextItem": {
               "title": "Aviso de privacidad",
               "permalink": "/blog/aviso-de-privacidad"
             }
           },
-          "content": "![actualizacion-arbol](/img/ArbolNavidad.png)"
+          "content": "La Estantería Digital se divide en dos ramas de desarrollo: **Plataforma** y **Archivo**.\n\n**Plataforma** es la construcción en sí del sito web (front-end) y los procesos para que la misma pueda ser desplegada y visualizada (Backend y DevOps).\n\n**Archivo** se refiere a la recolección, curado, documentación, digitalización, mantenimiento y conservación de los archivos. Esta rama también se encarga de la carga y el mantenimiento de los servidores de los archivos exclusivamente.\n\nAmbas ramas se comunican y hacen llegar los archivos a los usuarios.\n\n![enter image description here](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2/-/raw/main/Im%C3%A1genes%20p%C3%BAblicas/Cover.png)\n\n## Plataforma\nLa Plataforma de la Estantería Digital de Papalotla es construida en **Docusaurus**, un proyecto open source de Facebook. El control de versiones se realiza mediante **GitHub**. El despliegue final se realiza en **Netlify**.\n\nLas siguientes tecnologías son utlizadas en el front-end en el proyecto.\n\n-   React\n-   Node.js\n-   Yarn\n\n![enter image description here](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2/-/raw/main/Im%C3%A1genes%20p%C3%BAblicas/Coverprocess.png)\n\n### Markdown y MDX\n\nEn la Estantería Digital de Papalotla (y en Impossible Box de México en general) desayunamos, comemos y cenamos Markdown. Todos las páginas estan hechas en este lenguaje de tipado. También es el caso de los documentos corporativos internos y nuestros manuales. MDX nos da una oportunidad de llevar Markdown al siguiente nivel.\n\n*[I'm on the Next Level 🎶](https://www.youtube.com/watch?v=VZVSy8H-uzY)*\n\n### Repositorio de Plataforma.\nTodo nuestro desarrollo se concentra en un repositorio de GitHub llamado **Repositorio de Plataforma**. Hacemos nuestros commit colocando una descripción sencilla y nos gusta colocar también la canción que estamos escuchando en ese momento.\n\n- [Repositorio de Plataforma en GitHub](https://github.com/ImpossibleBoxMX/estanteriadigital)\n\n## Archivo\nArchivo se construye día a día mediante una comunidad que, decide, busca, cura, digitaliza y reseña los artículos presentes en la Estantería.\n\nNuestros archivos provienen de muchas fuentes, son el producto de muchas horas dedicadas y de las siguientes técnicas.\n\n- Búsqueda y archivos existentes: Mediante muchas técnicas de búsqueda tanto en la Web como en plataformas de transparencia.\n- Digitalización: Hacemos un importante trabajo en la conversión de archivos físicos a digitales. Utlizamos tecnología OCR para convertir imágenes en texto útil y facilmente consultable.\n- Creación: La Estantería publica documentación original basada en datos de acceso público. Hacemos estadísticas y material gráfico. Así mismo también publicamos contenido de autores independientes, siempre y cuando cumplan con estándares de calidad requeridos y sean aprobados por el [Consejo de Contenido](https://estanteria.impossiblebox.me/blog/consejo).\n\nNuestros estándares de contenido se resumen en el siguiente artículo.\n\n- **[Empoderar a los creadores locales](https://impossiblebox.substack.com/p/empoderar-a-los-creadores-locales?s=r)**\n\nArchivo también se encarga de mantener actualizado nuestro repositorio público en GitLab con todos nuestros archivos.\n**¡Puedes hacer una descarga masiva de todos los archivos de la Estantería de un solo golpe!**\n\nMira un pequeño turorial de como hacerlo aquí.\n<script src=\"https://gist.github.com/ImpossibleBoxMX/8298b44ee0c56a8d2c5ff622beaf444d.js\"></script>\n\n- **[Repositorio de Archivo en GitLab](https://gitlab.com/ImpossibleBoxMX/estanteria-digital-de-papalotla-pd2)**\n\nPor cuestiones de seguridad, metricas y facilidad, nuestros archivos (blob) se despliegan mediante Microsoft Azure. Tenemos cuatro copias de seguridad.\n## Fallos, errores y bugs\nEn caso de que encuentres un bug, fallo o inconsistencia te agradeceremos hacerlo llegar a correo: **estanteria@impossiblebox.me**\n## Código de conducta\nTodo el proyecto de la Estantería se rige bajo el siguiente [código de conducta](/codigo-de-conducta)\n## Atribución\nLos gráficos de esta página fueron hechos con [Cocomaterial](https://cocomaterial.com/), una librería para [Penpot](https://penpot.app/)."
         },
         {
           "id": "aviso-de-privacidad",
@@ -1628,66 +1674,15 @@
               ]
             },
             "prevItem": {
-              "title": "Actualización de Primavera",
-              "permalink": "/blog/actualizacion-primavera"
-            },
-            "nextItem": {
-              "title": "Declaraciones sobre la Mesa de Administración",
-              "permalink": "/blog/estatutos-uno"
-            }
-          },
-          "content": "**Impossible Box de México S.A.S. de C.V.** mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales en la **Estantería Digital de Papalotla**, y al respecto le informamos lo siguiente:\n\n### ¿Para qué fines utilizaremos sus datos personales?\n\nLos datos personales que recabamos de usted, los utilizaremos para las siguientes finalidades que son necesarias para el servicio que solicita:\nRespuesta a mensajes del formulario de contacto, prestación de cualquier servicio solicitado.\n\n## ¿Qué datos personales utilizaremos para estos fines?\n\nPara llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales:\nDatos de identificación y contacto, datos laborales, datos académicos, datos migratorios, datos patrimoniales y/o financieros.\n\n## ¿Cómo puede acceder, rectificar o cancelar sus datos personales, u oponerse a su uso o ejercer la revocación de consentimiento?\n\nUsted tiene derecho a conocer qué datos personales tenemos de usted, para qué los utilizamos y las condiciones del uso que les damos (Acceso). Asimismo, es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (Cancelación); así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derechos ARCO.\n\nPara el ejercicio de cualquiera de los derechos ARCO, debe enviar una petición vía correo electrónico a nosotros@impossiblebox.me y deberá contener:\n\n- Nombre completo del titular.\n- Domicilio.\n- Teléfono.\n- Correo electrónico.\n- Copia de una identificación oficial adjunta.\n- Asunto «Derechos ARCO»\n- Descripción el objeto del escrito, los cuales pueden ser de manera enunciativa más no limitativa los siguientes: Revocación del consentimiento para tratar sus datos personales; y/o Notificación del uso indebido del tratamiento de sus datos personales; y/o Ejercitar sus Derechos ARCO, con una descripción clara y precisa de los datos a Acceder, Rectificar, Cancelar o bien, Oponerse. En caso de Rectificación de datos personales, deberá indicar la modificación exacta y anexar la documentación soporte; es importante en caso de revocación del consentimiento, que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. \n\nAsimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros.\n\n### ¿En cuántos días le daremos respuesta a su solicitud?\n- 10 días.\n\n### ¿Por qué medio le comunicaremos la respuesta a su solicitud?\n- Al mismo correo electrónico de donde se envío la petición.\n\n### El uso de tecnologías de rastreo en nuestro portal de internet\nLe informamos que en nuestra página de internet y en la Estantería Digital de Papalotla utilizamos cookies, web beacons u otras tecnologías, a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. \n\nLos datos personales que obtenemos de estas tecnologías de rastreo son los siguientes:\n- Tipo de navegador del usuario, fecha y hora del inicio y final de una sesión de un usuario.\n\nEstas cookies, web beacons y otras tecnologías pueden ser deshabilitadas. Para conocer cómo hacerlo, consulte el menú de ayuda de su navegador. Tenga en cuenta que, en caso de desactivar las cookies, es posible que no pueda acceder a ciertas funciones personalizadas en nuestros sitio web.\n\n### ¿Cómo puede conocer los cambios en este aviso de privacidad?\n\nEl presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas. Nos comprometemos a mantener actualizado este aviso de privacidad sobre los cambios que pueda sufrir y siempre podrá consultar las actualizaciones que existan en el sitio web impossiblebox.me.\n\nÚltima actualización de este aviso de privacidad: 17 de julio de 2022."
-        },
-        {
-          "id": "estatutos-uno",
-          "metadata": {
-            "permalink": "/blog/estatutos-uno",
-            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
-            "source": "@site/blog/2021-10-16-first-blog-post.md",
-            "title": "Declaraciones sobre la Mesa de Administración",
-            "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
-            "date": "2021-10-16T00:00:00.000Z",
-            "formattedDate": "October 16, 2021",
-            "tags": [
-              {
-                "label": "hola",
-                "permalink": "/blog/tags/hola"
-              },
-              {
-                "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
-              }
-            ],
-            "readingTime": 1.67,
-            "hasTruncateMarker": false,
-            "authors": [
-              {
-                "name": "Oscar Zambrano Lara",
-                "title": "Dirección General de Impossible Box de México",
-                "url": "https://github.com/endiliey",
-                "imageURL": "https://github.com/endiliey.png",
-                "key": "imp1"
-              }
-            ],
-            "frontMatter": {
-              "slug": "estatutos-uno",
-              "title": "Declaraciones sobre la Mesa de Administración",
-              "authors": "imp1",
-              "tags": [
-                "hola",
-                "docusaurus"
-              ]
-            },
-            "prevItem": {
-              "title": "Aviso de privacidad",
-              "permalink": "/blog/aviso-de-privacidad"
+              "title": "Documentación para desarrolladores y personas técnicas",
+              "permalink": "/blog/documentación"
             },
             "nextItem": {
               "title": "Preguntas frecuentes",
               "permalink": "/blog/"
             }
           },
-          "content": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:\n\n- El financiamiento y gastos de la Estantería.\n- Las entradas y salidas del gobierno corporativo.\n\nY está obligado a:\n\n- Reunirse trimestralmente de manera física o remota al menos trimestralmente para tomar decisiones sobre el funcionamiento de la Estantería.\n- Formar parte del consejo de contenido.\n- Deliberar sobre los gastos e ingresos la misma\n- Ratificar a los miembros del consejo de contenido\n- Admitir a nuevos miembros en la Mesa de Administración\n- Eliminar a miembros de la Mesa de Administración.\n\nLa Mesa de Administración estará compuesta por:\n\n- Impossible Box de México en su caracter de fundador y administrador principal.\n- Otros miembros que se comprometan a contribuir a la Estantería Digital de Papalotla, ya sea con contenido, trabajo o financiamiento.\n\nImpossible Box de México comienza con el 100% del poder de voto de la Estantería.\n\nImpossible Box de México es libre de buscar y  aprobar miembros de la Mesa de Administración hasta llegar al quinto miembro.\n\nA cada uno de los primeros cuatro miembros (sin incluir a Impossible Box de México) se les otorgará de un 10 al 15% del poder de voto. Este porcentaje se restará al poder de voto de Impossible Box de Méxco. Al llegar de ser 5 miembros en la mesa directiva e invitar a otro miembro todos los miembros restarán su participación de manera igualitaria siguiendo la fórmula de Dilution Equity.\n\nLa inclusión del sexto miembro en adelante deberá ser aprobada por una votación de Mesa de Administración y en condición de unanimidad.\n\nLa eliminación de un miembro de la Mesa de Administración deberá ser aprobada en condiciones de mayoría calificada tanto en la Mesa de Administración como en el Consejo de Contenido.\n\nCuando Impossible Box de México tenga un poder de voto inferior al 30% La Estantería Digital de Papalotla dejará de ser una subsidiaria de Impossible Box de México y deberá ser transformada en una Sociedad o Asociación Civil."
+          "content": "**Impossible Box de México S.A.S. de C.V.** mejor conocido como Impossible Box de México, con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México y portal de internet impossiblebox.com.mx, es el responsable del uso y protección de sus datos personales en la **Estantería Digital de Papalotla**, y al respecto le informamos lo siguiente:\n\n### ¿Para qué fines utilizaremos sus datos personales?\n\nLos datos personales que recabamos de usted, los utilizaremos para las siguientes finalidades que son necesarias para el servicio que solicita:\nRespuesta a mensajes del formulario de contacto, prestación de cualquier servicio solicitado.\n\n## ¿Qué datos personales utilizaremos para estos fines?\n\nPara llevar a cabo las finalidades descritas en el presente aviso de privacidad, utilizaremos los siguientes datos personales:\nDatos de identificación y contacto, datos laborales, datos académicos, datos migratorios, datos patrimoniales y/o financieros.\n\n## ¿Cómo puede acceder, rectificar o cancelar sus datos personales, u oponerse a su uso o ejercer la revocación de consentimiento?\n\nUsted tiene derecho a conocer qué datos personales tenemos de usted, para qué los utilizamos y las condiciones del uso que les damos (Acceso). Asimismo, es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (Cancelación); así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derechos ARCO.\n\nPara el ejercicio de cualquiera de los derechos ARCO, debe enviar una petición vía correo electrónico a nosotros@impossiblebox.me y deberá contener:\n\n- Nombre completo del titular.\n- Domicilio.\n- Teléfono.\n- Correo electrónico.\n- Copia de una identificación oficial adjunta.\n- Asunto «Derechos ARCO»\n- Descripción el objeto del escrito, los cuales pueden ser de manera enunciativa más no limitativa los siguientes: Revocación del consentimiento para tratar sus datos personales; y/o Notificación del uso indebido del tratamiento de sus datos personales; y/o Ejercitar sus Derechos ARCO, con una descripción clara y precisa de los datos a Acceder, Rectificar, Cancelar o bien, Oponerse. En caso de Rectificación de datos personales, deberá indicar la modificación exacta y anexar la documentación soporte; es importante en caso de revocación del consentimiento, que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. \n\nAsimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros.\n\n### ¿En cuántos días le daremos respuesta a su solicitud?\n- 10 días.\n\n### ¿Por qué medio le comunicaremos la respuesta a su solicitud?\n- Al mismo correo electrónico de donde se envío la petición.\n\n### El uso de tecnologías de rastreo en nuestro portal de internet\nLe informamos que en nuestra página de internet y en la Estantería Digital de Papalotla utilizamos cookies, web beacons u otras tecnologías, a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. \n\nLos datos personales que obtenemos de estas tecnologías de rastreo son los siguientes:\n- Tipo de navegador del usuario, fecha y hora del inicio y final de una sesión de un usuario.\n\nEstas cookies, web beacons y otras tecnologías pueden ser deshabilitadas. Para conocer cómo hacerlo, consulte el menú de ayuda de su navegador. Tenga en cuenta que, en caso de desactivar las cookies, es posible que no pueda acceder a ciertas funciones personalizadas en nuestros sitio web.\n\n### ¿Cómo puede conocer los cambios en este aviso de privacidad?\n\nEl presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas. Nos comprometemos a mantener actualizado este aviso de privacidad sobre los cambios que pueda sufrir y siempre podrá consultar las actualizaciones que existan en el sitio web impossiblebox.me.\n\nÚltima actualización de este aviso de privacidad: 17 de julio de 2022."
         },
         {
           "id": "/",
@@ -1737,8 +1732,8 @@
               ]
             },
             "prevItem": {
-              "title": "Declaraciones sobre la Mesa de Administración",
-              "permalink": "/blog/estatutos-uno"
+              "title": "Aviso de privacidad",
+              "permalink": "/blog/aviso-de-privacidad"
             },
             "nextItem": {
               "title": "Estatutos de financiación y gastos",
@@ -1790,15 +1785,15 @@
             },
             "nextItem": {
               "title": "Declaración sobre el Consejo de Contenido",
-              "permalink": "/blog/consejo"
+              "permalink": "/blog/consejo-de-contenido"
             }
           },
           "content": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.\n2. La financiación se podrá dar mediante dos modalidades:\n    1. Donación particular: Donación en una sola exhibición. Esta donación se hará pública mediante los canales de comunicación de la Estantería Digital de Papalotla.\n    2. Financiación regular: La entrada de recursos de manera mensual a la Estantería.\n3. La entrada al tipo b de financiación deberá ser aprobada por la Mesa de Administración mediante una votación de acuerdo a lo establecido en las Declaraciónes sobre la Mesa de Administración, ya que esta entrada garantizará un lugar en la Mesa de Administración.\n4. Es responsabilidad de Impossible Box de México contribuir a la financiación de la Estantería (de acuerdo con sus posibilidades) ya sea de manera total o parcialmente en caso de tener no tener más financiadores.\n5. Al ser una subsidiaria de Impossible Box los recursos para la financiación deberán ser resguardados por la misma en sus cuentas bancarias.\n6. Impossible Box de México deberá entregar a la Mesa de Administración reportes de gastos e ingresos de manera trimestral. Los ingresos mediante extractos bancarios, los gastos mediante factura electrónica. Queda prohibido el uso de efectivo o cheques físicos.\n7. Como se detalla en la Declaración sobre la Mesa de Administración cuando el poder de voto de Impossible Box sea menor al 30% se deberá transformar a la Estantería Digital en una asociación civil."
         },
         {
-          "id": "consejo",
+          "id": "consejo-de-contenido",
           "metadata": {
-            "permalink": "/blog/consejo",
+            "permalink": "/blog/consejo-de-contenido",
             "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
             "source": "@site/blog/2019-05-29-long-blog-post.mdx",
             "title": "Declaración sobre el Consejo de Contenido",
@@ -1815,7 +1810,7 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.69,
+            "readingTime": 0.865,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -1827,7 +1822,7 @@
               }
             ],
             "frontMatter": {
-              "slug": "consejo",
+              "slug": "consejo-de-contenido",
               "title": "Declaración sobre el Consejo de Contenido",
               "authors": "imp1",
               "tags": [
@@ -1840,21 +1835,21 @@
               "permalink": "/blog/estatutos"
             }
           },
-          "content": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos \n\nEl Consejo de Contenido es responsable de:\n\n- Proponer nuevos contenidos a la Estantería.\n- Deliberar sobre la eliminación de un contenido de la Estantería.\n- Aportar recomendaciones sobre el manejo interno de la misma.\n\nY está obligado a:\n\n- Reunirse trimestralmente y evaluar los artículos propuestos para una discusión de publicación o eliminación.\n- Emitir una resolución sobre la eliminación o publicación\n\nEn cuanto a las dos primeras atribuciones del Consejo de Contenido los resultados de las votaciones son vinculantes y deberán ser llevadas a cabo por la Mesa de Administración.\n\nLos resultados de las votaciones deberán ser públicadas en la Estantería Digital de Papalotla en una sección especial y con una explicación del carácter de la resolución."
+          "content": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos \n\nEl Consejo de Contenido es responsable de:\n\n- Ser el órgano deliberativo supremo de la Estantería.\n- Proponer nuevos contenidos a la Estantería.\n- Deliberar sobre la eliminación de un contenido de la Estantería.\n- Aportar recomendaciones sobre el manejo interno de la misma.\n\nY está obligado a:\n\n- Reunirse trimestralmente y evaluar los artículos propuestos para una discusión de publicación o eliminación.\n- Reunirse, previa convocatoria, para evaluar las modificaciones correspondientes a las declaracaciones de funcionamiento.\n- Emitir una resolución sobre la eliminación, publicación o modificación de un contenido.\n\nLos resultados de las votaciones  del Consejo de Contenido son vinculantes y deberán ser llevados a cabo por la Mesa de Administración.\n\nLos resultados de las votaciones deberán ser públicadas en la Estantería Digital de Papalotla en una sección especial y con una explicación del carácter de la resolución.\n\n## Proceso de creación y votación de una resolución.\n\n## Miembros del Consejo de Contenido."
         }
       ],
       "blogListPaginated": [
         {
           "items": [
+            "mesa-de-administracion",
+            "declaracion-estanteria",
             "/preguntas",
             "/codigo-de-conducta",
             "documentación",
-            "actualizacion-primavera",
             "aviso-de-privacidad",
-            "estatutos-uno",
             "/",
             "estatutos",
-            "consejo"
+            "consejo-de-contenido"
           ],
           "metadata": {
             "permalink": "/blog",
@@ -1868,25 +1863,98 @@
         }
       ],
       "blogTags": {
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "mesa-de-administracion"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "mesa-de-administracion"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "mesa-de-administracion",
+            "aviso-de-privacidad",
+            "/",
+            "consejo-de-contenido"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "mesa-de-administracion",
+                "aviso-de-privacidad",
+                "/",
+                "consejo-de-contenido"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/declaracion": {
+          "label": "declaracion",
+          "items": [
+            "declaracion-estanteria"
+          ],
+          "permalink": "/blog/tags/declaracion",
+          "pages": [
+            {
+              "items": [
+                "declaracion-estanteria"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/declaracion",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
         "/blog/tags/actualizacion": {
           "label": "actualizacion",
           "items": [
-            "documentación",
-            "actualizacion-primavera"
+            "documentación"
           ],
           "permalink": "/blog/tags/actualizacion",
           "pages": [
             {
               "items": [
-                "documentación",
-                "actualizacion-primavera"
+                "documentación"
               ],
               "metadata": {
                 "permalink": "/blog/tags/actualizacion",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
-                "totalCount": 2,
+                "totalCount": 1,
                 "blogDescription": "Blog",
                 "blogTitle": "Blog"
               }
@@ -1939,81 +2007,6 @@
             }
           ]
         },
-        "/blog/tags/navidad": {
-          "label": "navidad",
-          "items": [
-            "actualizacion-primavera"
-          ],
-          "permalink": "/blog/tags/navidad",
-          "pages": [
-            {
-              "items": [
-                "actualizacion-primavera"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/navidad",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/blog/tags/docusaurus": {
-          "label": "docusaurus",
-          "items": [
-            "aviso-de-privacidad",
-            "estatutos-uno",
-            "/",
-            "consejo"
-          ],
-          "permalink": "/blog/tags/docusaurus",
-          "pages": [
-            {
-              "items": [
-                "aviso-de-privacidad",
-                "estatutos-uno",
-                "/",
-                "consejo"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/docusaurus",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 4,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/blog/tags/hola": {
-          "label": "hola",
-          "items": [
-            "estatutos-uno"
-          ],
-          "permalink": "/blog/tags/hola",
-          "pages": [
-            {
-              "items": [
-                "estatutos-uno"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/hola",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
         "/blog/tags/facebook": {
           "label": "facebook",
           "items": [
@@ -2041,14 +2034,14 @@
           "label": "hello",
           "items": [
             "/",
-            "consejo"
+            "consejo-de-contenido"
           ],
           "permalink": "/blog/tags/hello",
           "pages": [
             {
               "items": [
                 "/",
-                "consejo"
+                "consejo-de-contenido"
               ],
               "metadata": {
                 "permalink": "/blog/tags/hello",

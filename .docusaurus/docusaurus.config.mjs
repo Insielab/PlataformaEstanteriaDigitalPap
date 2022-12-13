@@ -18,7 +18,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/oscar/Escritorio/plataformaestanteria/sidebars.js",
+          "sidebarPath": "/home/oscar/Escritorio/estanteriadigital/sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/"
         },
@@ -27,7 +27,7 @@ export default {
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/oscar/Escritorio/plataformaestanteria/src/css/custom.css"
+          "customCss": "/home/oscar/Escritorio/estanteriadigital/src/css/custom.css"
         }
       }
     ]
@@ -67,11 +67,11 @@ export default {
           "items": [
             {
               "label": "Mesa de Administración",
-              "to": "/blog/estatutos-uno"
+              "to": "/blog/mesa-de-administracion"
             },
             {
               "label": "Consejo de Contenido",
-              "to": "/blog/consejo"
+              "to": "/blog/consejo-de-contenido"
             },
             {
               "label": "Estatutos de finaciación",

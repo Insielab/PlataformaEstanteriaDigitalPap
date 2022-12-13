@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/consejo",
+  "permalink": "/blog/consejo-de-contenido",
   "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
   "source": "@site/blog/2019-05-29-long-blog-post.mdx",
   "title": "Declaración sobre el Consejo de Contenido",
@@ -16,7 +16,7 @@
       "permalink": "/blog/tags/docusaurus"
     }
   ],
-  "readingTime": 0.69,
+  "readingTime": 0.865,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -28,7 +28,7 @@
     }
   ],
   "frontMatter": {
-    "slug": "consejo",
+    "slug": "consejo-de-contenido",
     "title": "Declaración sobre el Consejo de Contenido",
     "authors": "imp1",
     "tags": [

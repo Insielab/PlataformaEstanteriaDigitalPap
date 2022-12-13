@@ -4,152 +4,152 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '69c'),
+    component: ComponentCreator('/__docusaurus/debug', 'ab2'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '322'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'a8e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'd0f'),
+    component: ComponentCreator('/__docusaurus/debug/content', '4b5'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '215'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '712'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'd7e'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '85f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '5e5'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '227'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '1c6'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '9e6'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '23d'),
+    component: ComponentCreator('/blog', '9c0'),
     exact: true
   },
   {
     path: '/blog/',
-    component: ComponentCreator('/blog/', 'b32'),
-    exact: true
-  },
-  {
-    path: '/blog/actualizacion-primavera',
-    component: ComponentCreator('/blog/actualizacion-primavera', 'b8d'),
+    component: ComponentCreator('/blog/', 'b95'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '385'),
+    component: ComponentCreator('/blog/archive', '86e'),
     exact: true
   },
   {
     path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad', 'b81'),
+    component: ComponentCreator('/blog/aviso-de-privacidad', '810'),
     exact: true
   },
   {
     path: '/blog/codigo-de-conducta',
-    component: ComponentCreator('/blog/codigo-de-conducta', '43d'),
+    component: ComponentCreator('/blog/codigo-de-conducta', 'd2b'),
     exact: true
   },
   {
-    path: '/blog/consejo',
-    component: ComponentCreator('/blog/consejo', 'a0a'),
+    path: '/blog/consejo-de-contenido',
+    component: ComponentCreator('/blog/consejo-de-contenido', 'a35'),
+    exact: true
+  },
+  {
+    path: '/blog/declaracion-estanteria',
+    component: ComponentCreator('/blog/declaracion-estanteria', '877'),
     exact: true
   },
   {
     path: '/blog/documentación',
-    component: ComponentCreator('/blog/documentación', '19c'),
+    component: ComponentCreator('/blog/documentación', 'cc7'),
     exact: true
   },
   {
     path: '/blog/estatutos',
-    component: ComponentCreator('/blog/estatutos', 'c16'),
+    component: ComponentCreator('/blog/estatutos', 'e82'),
     exact: true
   },
   {
-    path: '/blog/estatutos-uno',
-    component: ComponentCreator('/blog/estatutos-uno', 'd55'),
+    path: '/blog/mesa-de-administracion',
+    component: ComponentCreator('/blog/mesa-de-administracion', '2c9'),
     exact: true
   },
   {
     path: '/blog/preguntas',
-    component: ComponentCreator('/blog/preguntas', '50d'),
+    component: ComponentCreator('/blog/preguntas', '46f'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'da2'),
+    component: ComponentCreator('/blog/tags', '3f5'),
     exact: true
   },
   {
     path: '/blog/tags/actualizacion',
-    component: ComponentCreator('/blog/tags/actualizacion', '553'),
+    component: ComponentCreator('/blog/tags/actualizacion', '2f2'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/declaracion',
+    component: ComponentCreator('/blog/tags/declaracion', '07e'),
     exact: true
   },
   {
     path: '/blog/tags/documentacion',
-    component: ComponentCreator('/blog/tags/documentacion', '1bb'),
+    component: ComponentCreator('/blog/tags/documentacion', '9cd'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '97d'),
+    component: ComponentCreator('/blog/tags/docusaurus', 'a35'),
     exact: true
   },
   {
     path: '/blog/tags/estatutos',
-    component: ComponentCreator('/blog/tags/estatutos', 'fb5'),
+    component: ComponentCreator('/blog/tags/estatutos', '0f4'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '091'),
+    component: ComponentCreator('/blog/tags/facebook', '07a'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'd0e'),
+    component: ComponentCreator('/blog/tags/hello', 'fe2'),
     exact: true
   },
   {
     path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'dbb'),
+    component: ComponentCreator('/blog/tags/hola', 'bee'),
     exact: true
   },
   {
     path: '/blog/tags/interno',
-    component: ComponentCreator('/blog/tags/interno', 'c84'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/navidad',
-    component: ComponentCreator('/blog/tags/navidad', 'd63'),
+    component: ComponentCreator('/blog/tags/interno', 'f6d'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '73d'),
+    component: ComponentCreator('/markdown-page', '533'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '144'),
+    component: ComponentCreator('/', 'd9b'),
     routes: [
       {
         path: '/',

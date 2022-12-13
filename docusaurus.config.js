@@ -70,12 +70,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'Mesa de Administración',
-                to: '/blog/estatutos-uno',
+                to: '/blog/mesa-de-administracion',
               },
 
               {
                 label: 'Consejo de Contenido',
-                to: '/blog/consejo',
+                to: '/blog/consejo-de-contenido',
               },
 
               {

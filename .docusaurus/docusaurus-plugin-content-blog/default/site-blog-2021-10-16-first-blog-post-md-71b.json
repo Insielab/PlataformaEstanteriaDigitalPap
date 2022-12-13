@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/estatutos-uno",
+  "permalink": "/blog/mesa-de-administracion",
   "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-10-16-first-blog-post.md",
   "source": "@site/blog/2021-10-16-first-blog-post.md",
   "title": "Declaraciones sobre la Mesa de Administración",
@@ -28,7 +28,7 @@
     }
   ],
   "frontMatter": {
-    "slug": "estatutos-uno",
+    "slug": "mesa-de-administracion",
     "title": "Declaraciones sobre la Mesa de Administración",
     "authors": "imp1",
     "tags": [

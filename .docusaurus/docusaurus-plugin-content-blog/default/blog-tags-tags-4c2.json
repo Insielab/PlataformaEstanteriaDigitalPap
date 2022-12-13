@@ -1,8 +1,23 @@
 [
   {
+    "label": "hola",
+    "permalink": "/blog/tags/hola",
+    "count": 1
+  },
+  {
+    "label": "docusaurus",
+    "permalink": "/blog/tags/docusaurus",
+    "count": 4
+  },
+  {
+    "label": "declaracion",
+    "permalink": "/blog/tags/declaracion",
+    "count": 1
+  },
+  {
     "label": "actualizacion",
     "permalink": "/blog/tags/actualizacion",
-    "count": 2
+    "count": 1
   },
   {
     "label": "documentacion",
@@ -12,21 +27,6 @@
   {
     "label": "interno",
     "permalink": "/blog/tags/interno",
-    "count": 1
-  },
-  {
-    "label": "navidad",
-    "permalink": "/blog/tags/navidad",
-    "count": 1
-  },
-  {
-    "label": "docusaurus",
-    "permalink": "/blog/tags/docusaurus",
-    "count": 4
-  },
-  {
-    "label": "hola",
-    "permalink": "/blog/tags/hola",
     "count": 1
   },
   {

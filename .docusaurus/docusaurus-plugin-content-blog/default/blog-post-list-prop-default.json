@@ -2,6 +2,14 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Declaraciones sobre la Mesa de Administración",
+      "permalink": "/blog/mesa-de-administracion"
+    },
+    {
+      "title": "Declaración de la Estantería Digital de Papalotla",
+      "permalink": "/blog/declaracion-estanteria"
+    },
+    {
       "title": "Preguntas frecuentes",
       "permalink": "/blog/preguntas"
     },
@@ -12,14 +20,6 @@
     {
       "title": "Documentación para desarrolladores y personas técnicas",
       "permalink": "/blog/documentación"
-    },
-    {
-      "title": "Actualización de Primavera",
-      "permalink": "/blog/actualizacion-primavera"
-    },
-    {
-      "title": "Aviso de privacidad",
-      "permalink": "/blog/aviso-de-privacidad"
     }
   ]
 }

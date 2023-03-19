@@ -1,26 +1,73 @@
 {
   "blogPosts": [
     {
-      "id": "mesa-de-administracion",
+      "id": "consejo-de-contenido",
       "metadata": {
-        "permalink": "/blog/mesa-de-administracion",
-        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-13-first-blog-post.md",
-        "source": "@site/blog/2022-12-13-first-blog-post.md",
-        "title": "Declaraciones sobre la Mesa de Administración",
-        "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
-        "date": "2022-12-13T00:00:00.000Z",
-        "formattedDate": "December 13, 2022",
+        "permalink": "/blog/consejo-de-contenido",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2023-01-24-long-blog-post.mdx",
+        "source": "@site/blog/2023-01-24-long-blog-post.mdx",
+        "title": "Declaración sobre el Consejo de Contenido",
+        "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos, proteger la libertad de expresión en la comunidad, fijar los límites de actuación de la Mesa de Administración y garantizar una toma de decisiones justa acorde con nuestros valores.",
+        "date": "2023-01-24T00:00:00.000Z",
+        "formattedDate": "January 24, 2023",
         "tags": [
           {
-            "label": "hola",
-            "permalink": "/blog/tags/hola"
+            "label": "hello",
+            "permalink": "/blog/tags/hello"
           },
           {
             "label": "docusaurus",
             "permalink": "/blog/tags/docusaurus"
           }
         ],
-        "readingTime": 1.74,
+        "readingTime": 1.98,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Impossible Box de México",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "imp1"
+          }
+        ],
+        "frontMatter": {
+          "slug": "consejo-de-contenido",
+          "title": "Declaración sobre el Consejo de Contenido",
+          "authors": "imp1",
+          "tags": [
+            "hello",
+            "docusaurus"
+          ]
+        },
+        "nextItem": {
+          "title": "Declaraciones sobre la Mesa de Administración",
+          "permalink": "/blog/mesa-de-administracion"
+        }
+      },
+      "content": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos, proteger la libertad de expresión en la comunidad, fijar los límites de actuación de la Mesa de Administración y garantizar una toma de decisiones justa acorde con nuestros valores.\n\nEl Consejo de Contenido es responsable de:\n\n- Ser el órgano deliberativo supremo de la Estantería.\n- Proponer nuevos contenidos a la Estantería.\n- Deliberar sobre la eliminación de un contenido de la Estantería.\n- Aportar recomendaciones sobre el manejo interno de la misma.\n- Instruir a la Mesa de Administración en cambios que este consejo considere urgentes o provoquen daño reputacional a la Estantería Digital de Papalotla.\n\n\nY está obligado a:\n\n- Reunirse trimestralmente y evaluar los artículos propuestos para una discusión de publicación o eliminación.\n- Reunirse, previa convocatoria, para evaluar las modificaciones correspondientes a las declaraciones de funcionamiento.\n- Emitir una resolución sobre la eliminación, publicación o modificación de un contenido.\n\nEl Consejo de Contenido funcionará como una asamblea, con no más de siete miembros. Sus resoluciones pueden ser aprobadas en condiciones de mayoría simple, mayoría calificada y unanimidad. Las condiciones de aprobación serán las siguientes:\n\n- Para la modificación del la Declaración de la Estantería Digital de Papalotla y las declaraciones de funcionamiento: *las que establece la propia         Declaración de la Estantería Digital de Papalotla.*\n- Para la eliminación o modificación de un archivo, documento o publicación de la Estantería: *mayoría simple.*\n- Para las otras atribuciones del Consejo de Contenido: *mayoría simple.*\n\nLos resultados de las votaciones  del Consejo de Contenido son vinculantes y deberán ser llevados a cabo por la Mesa de Administración.\n\nLos resultados de las votaciones deberán ser publicadas en la Estantería Digital de Papalotla en una sección especial y con una explicación del carácter de la resolución.\n\nLa jurisdicción de este texto es aplicable para la Estantería Digital de Papalotla como sitio web y para todos los espacios en redes sociales en los que se actúa en nombre de la misma.\n\nLas decisiones del Consejo de Contenido no obligan a Impossible Box de México a quebrantar alguna regulación aplicable en el territorio nacional (ni es su finalidad), pudiendo esta eliminar archivos de sus servidores sin consultar a ninguna instancia en caso de requerimientos judiciales.\n\n## Proceso de creación y votación de una resolución.\n\n## Miembros del Consejo de Contenido."
+    },
+    {
+      "id": "mesa-de-administracion",
+      "metadata": {
+        "permalink": "/blog/mesa-de-administracion",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-13-first-blog-post.md",
+        "source": "@site/blog/2022-12-13-first-blog-post.md",
+        "title": "Declaraciones sobre la Mesa de Administración",
+        "description": "En virtud de la importancia de garantizar la eficacia y eficiencia de la Estantería Digital de Papalotla, se crea la Mesa de Administración como órgano ejecutivo y de gobierno corporativo de la Estantería. La Mesa de Administración tendrá las siguientes responsabilidades:",
+        "date": "2022-12-13T00:00:00.000Z",
+        "formattedDate": "December 13, 2022",
+        "tags": [
+          {
+            "label": "Declaración de funcionamiento",
+            "permalink": "/blog/tags/declaracion-de-funcionamiento"
+          },
+          {
+            "label": "Messa de Administración",
+            "permalink": "/blog/tags/messa-de-administracion"
+          }
+        ],
+        "readingTime": 1.71,
         "hasTruncateMarker": false,
         "authors": [
           {
@@ -36,16 +83,20 @@
           "title": "Declaraciones sobre la Mesa de Administración",
           "authors": "imp1",
           "tags": [
-            "hola",
-            "docusaurus"
+            "Declaración de funcionamiento",
+            "Messa de Administración"
           ]
+        },
+        "prevItem": {
+          "title": "Declaración sobre el Consejo de Contenido",
+          "permalink": "/blog/consejo-de-contenido"
         },
         "nextItem": {
           "title": "Declaración de la Estantería Digital de Papalotla",
           "permalink": "/blog/declaracion-estanteria"
         }
       },
-      "content": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:\n\n- El financiamiento y gastos de la Estantería.\n- Las entradas y salidas del gobierno corporativo.\n- La aplicación de responsabilidades en el incumplimiento de **Código de Conducta**.\n\nY está obligado a:\n\n- Reunirse trimestralmente de manera física o remota al menos trimestralmente para tomar decisiones sobre el funcionamiento de la Estantería.\n- Formar parte del **Consejo de Contenido**.\n- Deliberar sobre los gastos e ingresos la misma.\n- Ratificar a los miembros del **Consejo de Contenido**.\n- Admitir a nuevos miembros en la Mesa de Administración.\n- Eliminar a miembros de la Mesa de Administración.\n\nLa Mesa de Administración estará compuesta por:\n\n- Impossible Box de México en su caracter de fundador y administrador principal.\n- Otros miembros que se comprometan a contribuir a la Estantería Digital de Papalotla, ya sea con contenido, trabajo o financiamiento.\n\nImpossible Box de México comienza con el 100% del poder de voto de la Mesa de Administración.\n\nImpossible Box de México es libre de buscar y  aprobar miembros de la Mesa de Administración hasta llegar al quinto miembro.\n\nA cada uno de los primeros cuatro miembros (sin incluir a Impossible Box de México) se les otorgará de un 10 al 15% del poder de voto. Este porcentaje se restará al poder de voto de Impossible Box de México. Al llegar de ser 5 miembros en la mesa directiva e invitar a otro miembro todos los miembros restarán su participación de manera igualitaria siguiendo la fórmula de Dilution Equity.\n\nLa inclusión del sexto miembro en adelante deberá ser aprobada por una votación de Mesa de Administración y en condición de unanimidad.\n\nLa eliminación de un miembro de la Mesa de Administración deberá ser aprobada en condiciones de mayoría calificada tanto en la Mesa de Administración como en el **Consejo de Contenido**.\n\nCuando Impossible Box de México tenga un poder de voto inferior al 30% La Estantería Digital de Papalotla dejará de ser una subsidiaria de Impossible Box de México y deberá ser transformada en una Sociedad o Asociación Civil."
+      "content": "En virtud de la importancia de garantizar la eficacia y eficiencia de la Estantería Digital de Papalotla, se crea la **Mesa de Administración** como órgano ejecutivo y de gobierno corporativo de la Estantería. La Mesa de Administración tendrá las siguientes responsabilidades: \n\n \n\n  - La aplicación de responsabilidades en los casos de infracción en incumplimiento del **Código de Conducta**. \n\n  - Manejar los aspectos técnicos, financieros y representativos de la Estantería Digital de Papalotla. \n\n  - Ser responsable de la publicación de archivos y datos en la plataforma. \n\n  - Administrar las dos ramas del desarrollo de la Estantería: **Plataforma y Archivo**, esta última en colaboración con el **Consejo de Contenid**o. \n\n  -  Fijar las políticas de digitalización, protección de datos personales y ciberseguridad de la comunidad. \n\nLa Mesa de Administración es autónoma en la forma de organizarse a sí misma, las atribuciones de la Mesa puede descargarse sobre una persona física o moral o en su caso, un grupo de estas. \n\nLa Mesa de Administración nombrará entre sus miembros a una persona física como *\"Director Ejecutivo de la Estantería Digital de Papalotla\"*. Esta decisión debe ser aprobada por el Consejo. \n\nEsta declaración da a *Impossible Box de México*, en su carácter de fundador de la Estantería Digital de Papalotla la responsabilidad de crear una Mesa de Administración. Así mismo le concede el poder de voto inicial del 100% en el **Consejo de Contenido**, bajo la promesa de buscar nuevos integrantes del **Consejo de Contenido**. \n\nLos nuevos integrantes del Consejo y su poder de voto son aprobados por medio una Resolución del **Consejo de Contenido** en condiciones de unanimidad. \n\nLa Mesa de Administración debe acatar siempre las **Resoluciones del Consejo de Contenido**. \n\nCualquier decisión de la Mesa de Administración puede ser derogada por el **Consejo de Contenido**, excepto cuando estás supongan quebrantar alguna legislación vigente o creen daño reputacional a nivel personal o empresarial a los miembros de la misma. \n\n> Última modificación: 1 de marzo de 2023 por la [ Resolución Número 2 del Consejo de Contenido que modifica las Declaraciones sobre la Mesa de Administración](https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla/blob/master/Resoluciones%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num.%202%20del%20Consejo%20de%20Conenido/Resoluci%C3%B3n%20Num.%202%20del%20Consejo%20de%20Contenido.md).\n>"
     },
     {
       "id": "declaracion-estanteria",
@@ -376,60 +427,9 @@
         "prevItem": {
           "title": "Preguntas frecuentes",
           "permalink": "/blog/"
-        },
-        "nextItem": {
-          "title": "Declaración sobre el Consejo de Contenido",
-          "permalink": "/blog/consejo-de-contenido"
         }
       },
       "content": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.\n2. La financiación se podrá dar mediante dos modalidades:\n    1. Donación particular: Donación en una sola exhibición. Esta donación se hará pública mediante los canales de comunicación de la Estantería Digital de Papalotla.\n    2. Financiación regular: La entrada de recursos de manera mensual a la Estantería.\n3. La entrada al tipo b de financiación deberá ser aprobada por la Mesa de Administración mediante una votación de acuerdo a lo establecido en las Declaraciónes sobre la Mesa de Administración, ya que esta entrada garantizará un lugar en la Mesa de Administración.\n4. Es responsabilidad de Impossible Box de México contribuir a la financiación de la Estantería (de acuerdo con sus posibilidades) ya sea de manera total o parcialmente en caso de tener no tener más financiadores.\n5. Al ser una subsidiaria de Impossible Box los recursos para la financiación deberán ser resguardados por la misma en sus cuentas bancarias.\n6. Impossible Box de México deberá entregar a la Mesa de Administración reportes de gastos e ingresos de manera trimestral. Los ingresos mediante extractos bancarios, los gastos mediante factura electrónica. Queda prohibido el uso de efectivo o cheques físicos.\n7. Como se detalla en la Declaración sobre la Mesa de Administración cuando el poder de voto de Impossible Box sea menor al 30% se deberá transformar a la Estantería Digital en una asociación civil."
-    },
-    {
-      "id": "consejo-de-contenido",
-      "metadata": {
-        "permalink": "/blog/consejo-de-contenido",
-        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2019-05-29-long-blog-post.mdx",
-        "source": "@site/blog/2019-05-29-long-blog-post.mdx",
-        "title": "Declaración sobre el Consejo de Contenido",
-        "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos",
-        "date": "2019-05-29T00:00:00.000Z",
-        "formattedDate": "May 29, 2019",
-        "tags": [
-          {
-            "label": "hello",
-            "permalink": "/blog/tags/hello"
-          },
-          {
-            "label": "docusaurus",
-            "permalink": "/blog/tags/docusaurus"
-          }
-        ],
-        "readingTime": 0.865,
-        "hasTruncateMarker": false,
-        "authors": [
-          {
-            "name": "Oscar Zambrano Lara",
-            "title": "Dirección General de Impossible Box de México",
-            "url": "https://github.com/endiliey",
-            "imageURL": "https://github.com/endiliey.png",
-            "key": "imp1"
-          }
-        ],
-        "frontMatter": {
-          "slug": "consejo-de-contenido",
-          "title": "Declaración sobre el Consejo de Contenido",
-          "authors": "imp1",
-          "tags": [
-            "hello",
-            "docusaurus"
-          ]
-        },
-        "prevItem": {
-          "title": "Estatutos de financiación y gastos",
-          "permalink": "/blog/estatutos"
-        }
-      },
-      "content": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos \n\nEl Consejo de Contenido es responsable de:\n\n- Ser el órgano deliberativo supremo de la Estantería.\n- Proponer nuevos contenidos a la Estantería.\n- Deliberar sobre la eliminación de un contenido de la Estantería.\n- Aportar recomendaciones sobre el manejo interno de la misma.\n\nY está obligado a:\n\n- Reunirse trimestralmente y evaluar los artículos propuestos para una discusión de publicación o eliminación.\n- Reunirse, previa convocatoria, para evaluar las modificaciones correspondientes a las declaracaciones de funcionamiento.\n- Emitir una resolución sobre la eliminación, publicación o modificación de un contenido.\n\nLos resultados de las votaciones  del Consejo de Contenido son vinculantes y deberán ser llevados a cabo por la Mesa de Administración.\n\nLos resultados de las votaciones deberán ser públicadas en la Estantería Digital de Papalotla en una sección especial y con una explicación del carácter de la resolución.\n\n## Proceso de creación y votación de una resolución.\n\n## Miembros del Consejo de Contenido."
     }
   ]
 }

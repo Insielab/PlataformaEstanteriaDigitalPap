@@ -4,152 +4,157 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'ab2'),
+    component: ComponentCreator('/__docusaurus/debug', '7af'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'a8e'),
+    component: ComponentCreator('/__docusaurus/debug/config', '698'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '4b5'),
+    component: ComponentCreator('/__docusaurus/debug/content', '868'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '712'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'e1f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '85f'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'd2f'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '227'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '13d'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '9e6'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '918'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '9c0'),
+    component: ComponentCreator('/blog', '850'),
     exact: true
   },
   {
     path: '/blog/',
-    component: ComponentCreator('/blog/', 'b95'),
+    component: ComponentCreator('/blog/', '70a'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '86e'),
+    component: ComponentCreator('/blog/archive', 'e0d'),
     exact: true
   },
   {
     path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad', '810'),
+    component: ComponentCreator('/blog/aviso-de-privacidad', '619'),
     exact: true
   },
   {
     path: '/blog/codigo-de-conducta',
-    component: ComponentCreator('/blog/codigo-de-conducta', 'd2b'),
+    component: ComponentCreator('/blog/codigo-de-conducta', 'bf1'),
     exact: true
   },
   {
     path: '/blog/consejo-de-contenido',
-    component: ComponentCreator('/blog/consejo-de-contenido', 'a35'),
+    component: ComponentCreator('/blog/consejo-de-contenido', '956'),
     exact: true
   },
   {
     path: '/blog/declaracion-estanteria',
-    component: ComponentCreator('/blog/declaracion-estanteria', '877'),
+    component: ComponentCreator('/blog/declaracion-estanteria', '0bf'),
     exact: true
   },
   {
     path: '/blog/documentación',
-    component: ComponentCreator('/blog/documentación', 'cc7'),
+    component: ComponentCreator('/blog/documentación', 'd3a'),
     exact: true
   },
   {
     path: '/blog/estatutos',
-    component: ComponentCreator('/blog/estatutos', 'e82'),
+    component: ComponentCreator('/blog/estatutos', '06b'),
     exact: true
   },
   {
     path: '/blog/mesa-de-administracion',
-    component: ComponentCreator('/blog/mesa-de-administracion', '2c9'),
+    component: ComponentCreator('/blog/mesa-de-administracion', '454'),
     exact: true
   },
   {
     path: '/blog/preguntas',
-    component: ComponentCreator('/blog/preguntas', '46f'),
+    component: ComponentCreator('/blog/preguntas', 'e48'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '3f5'),
+    component: ComponentCreator('/blog/tags', '0ee'),
     exact: true
   },
   {
     path: '/blog/tags/actualizacion',
-    component: ComponentCreator('/blog/tags/actualizacion', '2f2'),
+    component: ComponentCreator('/blog/tags/actualizacion', '0e1'),
     exact: true
   },
   {
     path: '/blog/tags/declaracion',
-    component: ComponentCreator('/blog/tags/declaracion', '07e'),
+    component: ComponentCreator('/blog/tags/declaracion', '231'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/declaracion-de-funcionamiento',
+    component: ComponentCreator('/blog/tags/declaracion-de-funcionamiento', 'c38'),
     exact: true
   },
   {
     path: '/blog/tags/documentacion',
-    component: ComponentCreator('/blog/tags/documentacion', '9cd'),
+    component: ComponentCreator('/blog/tags/documentacion', '313'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'a35'),
+    component: ComponentCreator('/blog/tags/docusaurus', '268'),
     exact: true
   },
   {
     path: '/blog/tags/estatutos',
-    component: ComponentCreator('/blog/tags/estatutos', '0f4'),
+    component: ComponentCreator('/blog/tags/estatutos', 'b1c'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '07a'),
+    component: ComponentCreator('/blog/tags/facebook', 'dce'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'fe2'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'bee'),
+    component: ComponentCreator('/blog/tags/hello', 'fbe'),
     exact: true
   },
   {
     path: '/blog/tags/interno',
-    component: ComponentCreator('/blog/tags/interno', 'f6d'),
+    component: ComponentCreator('/blog/tags/interno', '694'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/messa-de-administracion',
+    component: ComponentCreator('/blog/tags/messa-de-administracion', '6da'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '533'),
+    component: ComponentCreator('/markdown-page', 'c44'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'd9b'),
+    component: ComponentCreator('/', '409'),
     routes: [
       {
         path: '/',

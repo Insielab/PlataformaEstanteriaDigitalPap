@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Declaración sobre el Consejo de Contenido",
+      "permalink": "/blog/consejo-de-contenido"
+    },
+    {
       "title": "Declaraciones sobre la Mesa de Administración",
       "permalink": "/blog/mesa-de-administracion"
     },
@@ -16,10 +20,6 @@
     {
       "title": "Código de conducta de la comunidad y colaboradores.",
       "permalink": "/blog/codigo-de-conducta"
-    },
-    {
-      "title": "Documentación para desarrolladores y personas técnicas",
-      "permalink": "/blog/documentación"
     }
   ]
 }

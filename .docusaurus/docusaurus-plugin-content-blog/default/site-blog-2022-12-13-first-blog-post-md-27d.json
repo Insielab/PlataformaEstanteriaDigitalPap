@@ -3,20 +3,20 @@
   "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2022-12-13-first-blog-post.md",
   "source": "@site/blog/2022-12-13-first-blog-post.md",
   "title": "Declaraciones sobre la Mesa de Administración",
-  "description": "La Mesa de Administración es el órgano ejecutivo de la Estantería y maneja:",
+  "description": "En virtud de la importancia de garantizar la eficacia y eficiencia de la Estantería Digital de Papalotla, se crea la Mesa de Administración como órgano ejecutivo y de gobierno corporativo de la Estantería. La Mesa de Administración tendrá las siguientes responsabilidades:",
   "date": "2022-12-13T00:00:00.000Z",
   "formattedDate": "December 13, 2022",
   "tags": [
     {
-      "label": "hola",
-      "permalink": "/blog/tags/hola"
+      "label": "Declaración de funcionamiento",
+      "permalink": "/blog/tags/declaracion-de-funcionamiento"
     },
     {
-      "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "label": "Messa de Administración",
+      "permalink": "/blog/tags/messa-de-administracion"
     }
   ],
-  "readingTime": 1.74,
+  "readingTime": 1.71,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -32,9 +32,13 @@
     "title": "Declaraciones sobre la Mesa de Administración",
     "authors": "imp1",
     "tags": [
-      "hola",
-      "docusaurus"
+      "Declaración de funcionamiento",
+      "Messa de Administración"
     ]
+  },
+  "prevItem": {
+    "title": "Declaración sobre el Consejo de Contenido",
+    "permalink": "/blog/consejo-de-contenido"
   },
   "nextItem": {
     "title": "Declaración de la Estantería Digital de Papalotla",

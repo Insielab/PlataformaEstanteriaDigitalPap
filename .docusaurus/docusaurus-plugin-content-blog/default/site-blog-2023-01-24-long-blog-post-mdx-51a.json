@@ -1,0 +1,43 @@
+{
+  "permalink": "/blog/consejo-de-contenido",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2023-01-24-long-blog-post.mdx",
+  "source": "@site/blog/2023-01-24-long-blog-post.mdx",
+  "title": "Declaración sobre el Consejo de Contenido",
+  "description": "El Consejo de Contenido es el órgano encargado de mantener la neutralidad con respecto a la información que resguardamos, proteger la libertad de expresión en la comunidad, fijar los límites de actuación de la Mesa de Administración y garantizar una toma de decisiones justa acorde con nuestros valores.",
+  "date": "2023-01-24T00:00:00.000Z",
+  "formattedDate": "January 24, 2023",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 1.98,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "consejo-de-contenido",
+    "title": "Declaración sobre el Consejo de Contenido",
+    "authors": "imp1",
+    "tags": [
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "nextItem": {
+    "title": "Declaraciones sobre la Mesa de Administración",
+    "permalink": "/blog/mesa-de-administracion"
+  }
+}

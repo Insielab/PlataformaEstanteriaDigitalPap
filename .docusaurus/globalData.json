@@ -141,13 +141,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "recursos-estadisticos/censo-poblacion/etnicidad",
-              "path": "/recursos-estadisticos/censo-poblacion/etnicidad",
+              "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "path": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
-              "path": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion",
+              "id": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+              "path": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",
               "sidebar": "tutorialSidebar"
             },
             {

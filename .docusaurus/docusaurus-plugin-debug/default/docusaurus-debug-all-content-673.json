@@ -719,33 +719,6 @@
               }
             },
             {
-              "unversionedId": "recursos-estadisticos/censo-poblacion/etnicidad",
-              "id": "recursos-estadisticos/censo-poblacion/etnicidad",
-              "title": "Etnicidad",
-              "description": "Tabla de datos",
-              "source": "@site/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
-              "sourceDirName": "recursos-estadisticos/censo-poblacion",
-              "slug": "/recursos-estadisticos/censo-poblacion/etnicidad",
-              "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad",
-              "draft": false,
-              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/etnicidad.mdx",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Migración y fecundidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
-              },
-              "next": {
-                "title": "Población con capacidades diferentes",
-                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
-              }
-            },
-            {
               "unversionedId": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
               "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
               "title": "Migración y fecundidad",
@@ -768,8 +741,35 @@
                 "permalink": "/recursos-estadisticos/censo-poblacion/poblacion"
               },
               "next": {
-                "title": "Etnicidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+                "title": "Hablantes de lenguas indígenas",
+                "permalink": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass"
+              }
+            },
+            {
+              "unversionedId": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+              "id": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+              "title": "Hablantes de lenguas indígenas",
+              "description": "Easy to maintain open source documentation websites.📊",
+              "source": "@site/docs/recursos-estadisticos/censo-poblacion/lenguas-indigenass.mdx",
+              "sourceDirName": "recursos-estadisticos/censo-poblacion",
+              "slug": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+              "permalink": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/lenguas-indigenass.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Migración y fecundidad",
+                "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+              },
+              "next": {
+                "title": "Población con capacidades diferentes",
+                "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
               }
             },
             {
@@ -818,8 +818,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Etnicidad",
-                "permalink": "/recursos-estadisticos/censo-poblacion/etnicidad"
+                "title": "Hablantes de lenguas indígenas",
+                "permalink": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass"
               },
               "next": {
                 "title": "Religión y situación conyugal",
@@ -1300,7 +1300,7 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "Censo de Población y Vivienda 2021",
+                    "label": "Censo de Población y Vivienda 2020",
                     "collapsible": true,
                     "collapsed": true,
                     "items": [
@@ -1318,7 +1318,7 @@
                       },
                       {
                         "type": "doc",
-                        "id": "recursos-estadisticos/censo-poblacion/etnicidad"
+                        "id": "recursos-estadisticos/censo-poblacion/lenguas-indigenass"
                       },
                       {
                         "type": "doc",

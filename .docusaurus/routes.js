@@ -154,7 +154,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '409'),
+    component: ComponentCreator('/', '586'),
     routes: [
       {
         path: '/',
@@ -313,14 +313,14 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/recursos-estadisticos/censo-poblacion/etnicidad',
-        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/etnicidad', 'ee7'),
+        path: '/recursos-estadisticos/censo-poblacion/fecundidad-migracion',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/fecundidad-migracion', '0c2'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/recursos-estadisticos/censo-poblacion/fecundidad-migracion',
-        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/fecundidad-migracion', '0c2'),
+        path: '/recursos-estadisticos/censo-poblacion/lenguas-indigenass',
+        component: ComponentCreator('/recursos-estadisticos/censo-poblacion/lenguas-indigenass', '784'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

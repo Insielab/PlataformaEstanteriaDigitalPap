@@ -243,7 +243,7 @@
         "items": [
           {
             "type": "category",
-            "label": "Censo de Población y Vivienda 2021",
+            "label": "Censo de Población y Vivienda 2020",
             "collapsible": true,
             "collapsed": true,
             "items": [
@@ -267,9 +267,9 @@
               },
               {
                 "type": "link",
-                "label": "Etnicidad",
-                "href": "/recursos-estadisticos/censo-poblacion/etnicidad",
-                "docId": "recursos-estadisticos/censo-poblacion/etnicidad"
+                "label": "Hablantes de lenguas indígenas",
+                "href": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+                "docId": "recursos-estadisticos/censo-poblacion/lenguas-indigenass"
               },
               {
                 "type": "link",
@@ -526,16 +526,16 @@
       "description": "Tabla de datos",
       "sidebar": "tutorialSidebar"
     },
-    "recursos-estadisticos/censo-poblacion/etnicidad": {
-      "id": "recursos-estadisticos/censo-poblacion/etnicidad",
-      "title": "Etnicidad",
-      "description": "Tabla de datos",
-      "sidebar": "tutorialSidebar"
-    },
     "recursos-estadisticos/censo-poblacion/fecundidad-migracion": {
       "id": "recursos-estadisticos/censo-poblacion/fecundidad-migracion",
       "title": "Migración y fecundidad",
       "description": "Tabla de datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-estadisticos/censo-poblacion/lenguas-indigenass": {
+      "id": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+      "title": "Hablantes de lenguas indígenas",
+      "description": "Easy to maintain open source documentation websites.📊",
       "sidebar": "tutorialSidebar"
     },
     "recursos-estadisticos/censo-poblacion/poblacion": {

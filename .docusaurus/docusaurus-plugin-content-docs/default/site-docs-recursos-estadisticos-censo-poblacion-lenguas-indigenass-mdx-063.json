@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+  "id": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+  "title": "Hablantes de lenguas indígenas",
+  "description": "Easy to maintain open source documentation websites.📊",
+  "source": "@site/docs/recursos-estadisticos/censo-poblacion/lenguas-indigenass.mdx",
+  "sourceDirName": "recursos-estadisticos/censo-poblacion",
+  "slug": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+  "permalink": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-estadisticos/censo-poblacion/lenguas-indigenass.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Migración y fecundidad",
+    "permalink": "/recursos-estadisticos/censo-poblacion/fecundidad-migracion"
+  },
+  "next": {
+    "title": "Población con capacidades diferentes",
+    "permalink": "/recursos-estadisticos/censo-poblacion/poblacion-capacidad-diferentes"
+  }
+}

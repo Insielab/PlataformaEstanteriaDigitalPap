@@ -1,0 +1,29 @@
+{
+  "permalink": "/blog/aviso-de-privacidad",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2023-06-20-privacidad.mdx",
+  "source": "@site/blog/2023-06-20-privacidad.mdx",
+  "title": "Aviso de privacidad",
+  "description": "Impossible Box de México S.A.S. de C.V. (en adelante, \"Impossible Box de México\"), con domicilio en Tlaxcala 55, Centro, Papalotla de Xicohténcatl, Tlaxcala, México, es responsable del tratamiento de sus datos personales al usar la Estantería Digital de Papalotla, de acuerdo con la legislación aplicable en materia de protección de datos personales en los Estados Unidos Mexicanos. A continuación, le proporcionamos la siguiente información relevante:",
+  "date": "2023-06-20T00:00:00.000Z",
+  "formattedDate": "June 20, 2023",
+  "tags": [
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    }
+  ],
+  "readingTime": 4.09,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "aviso-de-privacidad",
+    "title": "Aviso de privacidad",
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "nextItem": {
+    "title": "Declaración sobre el Consejo de Contenido",
+    "permalink": "/blog/consejo-de-contenido"
+  }
+}

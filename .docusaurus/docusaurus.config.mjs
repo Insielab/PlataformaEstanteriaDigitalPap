@@ -74,12 +74,8 @@ export default {
               "to": "/blog/consejo-de-contenido"
             },
             {
-              "label": "Estatutos de finaciación",
-              "to": "/blog/estatutos"
-            },
-            {
-              "label": " ",
-              "to": " "
+              "label": "Declaración de la Estantería Digital de Papalotla ",
+              "to": "/blog/declaracion-estanteria"
             }
           ]
         },
@@ -89,6 +85,10 @@ export default {
             {
               "label": "Código de conducta",
               "href": "/blog/codigo-de-conducta"
+            },
+            {
+              "label": "Discord de la Estantería",
+              "href": "https://discord.gg/BsWRzAjhd"
             },
             {
               "label": "Facebook",
@@ -110,7 +110,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023. Estantería Digital de Papalotla/Impossible Box de México."
+      "copyright": "Copyright © 2023. Estantería Digital de Papalotla/Impossible Box de México. Todos los derechos reservados."
     },
     "prism": {
       "theme": {

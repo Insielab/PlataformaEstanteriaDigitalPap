@@ -16,7 +16,7 @@
       "permalink": "/blog/tags/docusaurus"
     }
   ],
-  "readingTime": 1.98,
+  "readingTime": 3.77,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -35,6 +35,10 @@
       "hello",
       "docusaurus"
     ]
+  },
+  "prevItem": {
+    "title": "Aviso de privacidad",
+    "permalink": "/blog/aviso-de-privacidad"
   },
   "nextItem": {
     "title": "Declaraciones sobre la Mesa de Administración",

@@ -1,13 +1,13 @@
 [
   {
-    "label": "hello",
-    "permalink": "/blog/tags/hello",
-    "count": 2
-  },
-  {
     "label": "docusaurus",
     "permalink": "/blog/tags/docusaurus",
     "count": 3
+  },
+  {
+    "label": "hello",
+    "permalink": "/blog/tags/hello",
+    "count": 2
   },
   {
     "label": "Declaración de funcionamiento",

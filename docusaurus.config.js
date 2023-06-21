@@ -79,13 +79,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
 
               {
-                label: 'Estatutos de finaciación',
-                to: '/blog/estatutos',
-              },
-
-              {
-                label: ' ',
-                to: ' ',
+                label: 'Declaración de la Estantería Digital de Papalotla ',
+                to: '/blog/declaracion-estanteria',
               },
 
 
@@ -97,6 +92,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               {
                 label: 'Código de conducta',
                 href: '/blog/codigo-de-conducta',
+              },
+              {
+                label: 'Discord de la Estantería',
+                href: 'https://discord.gg/BsWRzAjhd'
               },
               {
                 label: 'Facebook',
@@ -118,7 +117,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. Estantería Digital de Papalotla/Impossible Box de México.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. Estantería Digital de Papalotla/Impossible Box de México. Todos los derechos reservados.`,
       },
       prism: {
         theme: lightCodeTheme,

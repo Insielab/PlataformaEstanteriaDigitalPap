@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '850'),
+    component: ComponentCreator('/blog', 'b80'),
     exact: true
   },
   {
@@ -54,7 +54,7 @@ export default [
   },
   {
     path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad', '619'),
+    component: ComponentCreator('/blog/aviso-de-privacidad', 'baf'),
     exact: true
   },
   {
@@ -119,7 +119,7 @@ export default [
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '268'),
+    component: ComponentCreator('/blog/tags/docusaurus', 'a74'),
     exact: true
   },
   {

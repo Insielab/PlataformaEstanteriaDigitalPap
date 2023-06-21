@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Aviso de privacidad",
+      "permalink": "/blog/aviso-de-privacidad"
+    },
+    {
       "title": "Declaración sobre el Consejo de Contenido",
       "permalink": "/blog/consejo-de-contenido"
     },
@@ -16,10 +20,6 @@
     {
       "title": "Preguntas frecuentes",
       "permalink": "/blog/preguntas"
-    },
-    {
-      "title": "Código de conducta de la comunidad y colaboradores.",
-      "permalink": "/blog/codigo-de-conducta"
     }
   ]
 }

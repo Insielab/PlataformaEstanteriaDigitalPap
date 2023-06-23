@@ -5,12 +5,22 @@ slug: /
 
 # ¡Bienvenido a la Estantería Digital de Papalotla!
 
-La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.
+⚡️ La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.
 
 Somos una **plataforma gratuita** de acceso a la información histórica, gubernamental y legal sobre una ciudad específica.
 
-Te inivitamos a leer nuestro texto fundacional aquí:
+⬅️ Recuerda que nuestros archivos se pueden consultar en la columna de la parte izquierda.
 
-### **[La Estantería Digital como plataforma de democratización de la cultura](https://impossiblebox.substack.com/p/la-estanteria-digital-como-plataforma?utm_source=url)**
+Somos una comunidad que tiene su principal centro de reunión en el Servidor de Discord de la Estantería Digital de Papalotla. ¡Unete!
 
-Así mismo te invitamos a recorrer todo nuestro acervo.
+[![Discord la Estantería](/img/discord.png)](https://discord.gg/b5SV7z4S3N)
+
+
+Al utlizar la Estantería Digital de Papalotla aceptas los términos de uso de la misma, los cuales llamamos **«Declaraciones de funcionamiento»**. Estas son:
+- [Declaración de la Estantería Digital de Papalotla](/blog/declaracion-estanteria).
+
+#### De la cual se desprenden las siguientes cuatro regulaciones.
+- [Declaración sobre el Consejo de Contenido](/blog/consejo-de-contenido).
+- [Declaraciones sobre la Mesa de Administración](/blog/mesa-de-administracion).
+- [Código de conducta de la comunidad y colaboradores](/blog/codigo-de-conducta).
+- [Estatutos de financiación y gastos](/blog/estatutos).

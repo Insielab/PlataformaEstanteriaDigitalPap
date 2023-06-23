@@ -95,7 +95,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'Discord de la Estantería',
-                href: 'https://discord.gg/BsWRzAjhd'
+                href: 'https://discord.gg/b5SV7z4S3N'
               },
               {
                 label: 'Facebook',

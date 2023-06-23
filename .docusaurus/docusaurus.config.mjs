@@ -88,7 +88,7 @@ export default {
             },
             {
               "label": "Discord de la Estantería",
-              "href": "https://discord.gg/BsWRzAjhd"
+              "href": "https://discord.gg/b5SV7z4S3N"
             },
             {
               "label": "Facebook",

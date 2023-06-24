@@ -749,7 +749,7 @@
               "unversionedId": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
               "id": "recursos-estadisticos/censo-poblacion/lenguas-indigenass",
               "title": "Hablantes de lenguas indígenas",
-              "description": "Easy to maintain open source documentation websites.📊",
+              "description": "Puedes ver un grafico intecractivo de las lenguas habladas según el censo, click aquí.",
               "source": "@site/docs/recursos-estadisticos/censo-poblacion/lenguas-indigenass.mdx",
               "sourceDirName": "recursos-estadisticos/censo-poblacion",
               "slug": "/recursos-estadisticos/censo-poblacion/lenguas-indigenass",

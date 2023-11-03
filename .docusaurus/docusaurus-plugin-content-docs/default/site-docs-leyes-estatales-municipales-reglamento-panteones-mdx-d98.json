@@ -1,0 +1,27 @@
+{
+  "unversionedId": "leyes-estatales-municipales/reglamento-panteones",
+  "id": "leyes-estatales-municipales/reglamento-panteones",
+  "title": "Reglamento de panteones",
+  "description": "| Título | Reglamento de panteones del  Municipio de Papalotla de Xicohténcatl |",
+  "source": "@site/docs/leyes-estatales-municipales/reglamento-panteones.mdx",
+  "sourceDirName": "leyes-estatales-municipales",
+  "slug": "/leyes-estatales-municipales/reglamento-panteones",
+  "permalink": "/leyes-estatales-municipales/reglamento-panteones",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/reglamento-panteones.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reglamento de agua potable y alcantarillado 🚰",
+    "permalink": "/leyes-estatales-municipales/reglamento-aguas"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

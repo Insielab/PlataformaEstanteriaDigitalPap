@@ -154,7 +154,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '586'),
+    component: ComponentCreator('/', 'd15'),
     routes: [
       {
         path: '/',
@@ -253,6 +253,24 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/leyes-estatales-municipales/reglamento-aguas',
+        component: ComponentCreator('/leyes-estatales-municipales/reglamento-aguas', 'e57'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/leyes-estatales-municipales/reglamento-panteones',
+        component: ComponentCreator('/leyes-estatales-municipales/reglamento-panteones', '5e8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/leyes-estatales-municipales/reglamento-proteccion-perros',
+        component: ComponentCreator('/leyes-estatales-municipales/reglamento-proteccion-perros', '79f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/planes-de-desarrollo/desarrollo-artesanias',
         component: ComponentCreator('/planes-de-desarrollo/desarrollo-artesanias', '616'),
         exact: true,
@@ -261,6 +279,12 @@ export default [
       {
         path: '/planes-de-desarrollo/plan-desarrollo-2017-2021',
         component: ComponentCreator('/planes-de-desarrollo/plan-desarrollo-2017-2021', 'c9a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/planes-de-desarrollo/plan-desarrollo-2021-2024',
+        component: ComponentCreator('/planes-de-desarrollo/plan-desarrollo-2021-2024', '69a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

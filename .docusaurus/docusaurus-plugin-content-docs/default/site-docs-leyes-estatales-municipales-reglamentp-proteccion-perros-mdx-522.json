@@ -1,0 +1,27 @@
+{
+  "unversionedId": "leyes-estatales-municipales/reglamentp-proteccion-perros",
+  "id": "leyes-estatales-municipales/reglamentp-proteccion-perros",
+  "title": "Reglamento para la Protección de Peros y  Gatos 🦮",
+  "description": "| Título | Reglamento para la Protección de Peros y  Gatos  del Municipio  de  Papalotla  de  Xicohténcatl |",
+  "source": "@site/docs/leyes-estatales-municipales/reglamentp-proteccion-perros.mdx",
+  "sourceDirName": "leyes-estatales-municipales",
+  "slug": "/leyes-estatales-municipales/reglamentp-proteccion-perros",
+  "permalink": "/leyes-estatales-municipales/reglamentp-proteccion-perros",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/reglamentp-proteccion-perros.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reglamento de tránsito municipal",
+    "permalink": "/leyes-estatales-municipales/regalamento-transito"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

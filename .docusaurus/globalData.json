@@ -91,6 +91,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "leyes-estatales-municipales/reglamento-aguas",
+              "path": "/leyes-estatales-municipales/reglamento-aguas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "leyes-estatales-municipales/reglamento-panteones",
+              "path": "/leyes-estatales-municipales/reglamento-panteones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "leyes-estatales-municipales/reglamento-proteccion-perros",
+              "path": "/leyes-estatales-municipales/reglamento-proteccion-perros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "planes-de-desarrollo/desarrollo-artesanias",
               "path": "/planes-de-desarrollo/desarrollo-artesanias",
               "sidebar": "tutorialSidebar"
@@ -98,6 +113,11 @@
             {
               "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
               "path": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "planes-de-desarrollo/plan-desarrollo-2021-2024",
+              "path": "/planes-de-desarrollo/plan-desarrollo-2021-2024",
               "sidebar": "tutorialSidebar"
             },
             {

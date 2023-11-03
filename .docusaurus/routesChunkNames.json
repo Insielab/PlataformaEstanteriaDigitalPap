@@ -322,7 +322,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-586": {
+  "/-d15": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---097-572"
@@ -393,6 +393,18 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---leyes-estatales-municipales-regalamento-transito-0-ec-195"
   },
+  "/leyes-estatales-municipales/reglamento-aguas-e57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---leyes-estatales-municipales-reglamento-aguas-08-e-1ba"
+  },
+  "/leyes-estatales-municipales/reglamento-panteones-5e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---leyes-estatales-municipales-reglamento-panteonesd-98-436"
+  },
+  "/leyes-estatales-municipales/reglamento-proteccion-perros-79f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---leyes-estatales-municipales-reglamento-proteccion-perros-0-bb-09a"
+  },
   "/planes-de-desarrollo/desarrollo-artesanias-616": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---planes-de-desarrollo-desarrollo-artesaniasb-11-1c5"
@@ -400,6 +412,10 @@
   "/planes-de-desarrollo/plan-desarrollo-2017-2021-c9a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---planes-de-desarrollo-plan-desarrollo-2017-202116-f-8f5"
+  },
+  "/planes-de-desarrollo/plan-desarrollo-2021-2024-69a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---planes-de-desarrollo-plan-desarrollo-2021-20240-a-3-165"
   },
   "/polemicas-resoluciones/elecciones-san-buenaventura-bbb": {
     "__comp": "__comp---theme-doc-item-178-a40",

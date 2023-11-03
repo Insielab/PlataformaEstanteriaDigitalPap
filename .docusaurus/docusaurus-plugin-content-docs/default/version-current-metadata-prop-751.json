@@ -191,6 +191,12 @@
         "items": [
           {
             "type": "link",
+            "label": "Plan de Desarrollo Municipal 2021-2024 🆕",
+            "href": "/planes-de-desarrollo/plan-desarrollo-2021-2024",
+            "docId": "planes-de-desarrollo/plan-desarrollo-2021-2024"
+          },
+          {
+            "type": "link",
             "label": "Plan de desarrollo municipal 2017-2021",
             "href": "/planes-de-desarrollo/plan-desarrollo-2017-2021",
             "docId": "planes-de-desarrollo/plan-desarrollo-2017-2021"
@@ -350,6 +356,24 @@
             "label": "Reglamento de tránsito municipal",
             "href": "/leyes-estatales-municipales/regalamento-transito",
             "docId": "leyes-estatales-municipales/regalamento-transito"
+          },
+          {
+            "type": "link",
+            "label": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+            "href": "/leyes-estatales-municipales/reglamento-proteccion-perros",
+            "docId": "leyes-estatales-municipales/reglamento-proteccion-perros"
+          },
+          {
+            "type": "link",
+            "label": "Reglamento de agua potable y alcantarillado 🚰",
+            "href": "/leyes-estatales-municipales/reglamento-aguas",
+            "docId": "leyes-estatales-municipales/reglamento-aguas"
+          },
+          {
+            "type": "link",
+            "label": "Reglamento de panteones",
+            "href": "/leyes-estatales-municipales/reglamento-panteones",
+            "docId": "leyes-estatales-municipales/reglamento-panteones"
           }
         ]
       },
@@ -466,6 +490,24 @@
       "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
       "sidebar": "tutorialSidebar"
     },
+    "leyes-estatales-municipales/reglamento-aguas": {
+      "id": "leyes-estatales-municipales/reglamento-aguas",
+      "title": "Reglamento de agua potable y alcantarillado 🚰",
+      "description": "Título | Reglamento de agua potable y alcantarillado del Municipio de Papalotla de Xicohténcatl|",
+      "sidebar": "tutorialSidebar"
+    },
+    "leyes-estatales-municipales/reglamento-panteones": {
+      "id": "leyes-estatales-municipales/reglamento-panteones",
+      "title": "Reglamento de panteones",
+      "description": "| Título | Reglamento de panteones del  Municipio de Papalotla de Xicohténcatl |",
+      "sidebar": "tutorialSidebar"
+    },
+    "leyes-estatales-municipales/reglamento-proteccion-perros": {
+      "id": "leyes-estatales-municipales/reglamento-proteccion-perros",
+      "title": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+      "description": "| Título | Reglamento para la Protección de Peros y  Gatos  del Municipio  de  Papalotla  de  Xicohténcatl |",
+      "sidebar": "tutorialSidebar"
+    },
     "planes-de-desarrollo/desarrollo-artesanias": {
       "id": "planes-de-desarrollo/desarrollo-artesanias",
       "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
@@ -476,6 +518,12 @@
       "id": "planes-de-desarrollo/plan-desarrollo-2017-2021",
       "title": "Plan de desarrollo municipal 2017-2021",
       "description": "|Autor:| H. Ayuntamiento de Papalotla de Xicohténcatl 2017-2021 |",
+      "sidebar": "tutorialSidebar"
+    },
+    "planes-de-desarrollo/plan-desarrollo-2021-2024": {
+      "id": "planes-de-desarrollo/plan-desarrollo-2021-2024",
+      "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+      "description": "| Título | Plan Municipal de Desarrollo Papalotla 2021-2024 (PMD) |",
       "sidebar": "tutorialSidebar"
     },
     "polemicas-resoluciones/elecciones-san-buenaventura": {

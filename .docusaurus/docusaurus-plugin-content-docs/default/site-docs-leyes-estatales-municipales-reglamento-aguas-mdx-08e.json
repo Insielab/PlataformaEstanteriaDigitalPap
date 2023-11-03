@@ -1,0 +1,27 @@
+{
+  "unversionedId": "leyes-estatales-municipales/reglamento-aguas",
+  "id": "leyes-estatales-municipales/reglamento-aguas",
+  "title": "Reglamento de agua potable y alcantarillado 🚰",
+  "description": "Título | Reglamento de agua potable y alcantarillado del Municipio de Papalotla de Xicohténcatl|",
+  "source": "@site/docs/leyes-estatales-municipales/reglamento-aguas.mdx",
+  "sourceDirName": "leyes-estatales-municipales",
+  "slug": "/leyes-estatales-municipales/reglamento-aguas",
+  "permalink": "/leyes-estatales-municipales/reglamento-aguas",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/reglamento-aguas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+    "permalink": "/leyes-estatales-municipales/reglamento-proteccion-perros"
+  },
+  "next": {
+    "title": "Reglamento de panteones",
+    "permalink": "/leyes-estatales-municipales/reglamento-panteones"
+  }
+}

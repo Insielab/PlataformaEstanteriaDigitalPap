@@ -11,14 +11,14 @@
   "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2017-2021.mdx",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-    "permalink": "/recursos-graficos/escudo-e-identidades"
+    "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+    "permalink": "/planes-de-desarrollo/plan-desarrollo-2021-2024"
   },
   "next": {
     "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",

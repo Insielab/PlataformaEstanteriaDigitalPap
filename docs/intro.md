@@ -11,6 +11,8 @@ Somos una **plataforma gratuita** de acceso a la información histórica, gubern
 
 ⬅️ Recuerda que nuestros archivos se pueden consultar en la columna de la parte izquierda.
 
+[Lee el resumen de lo que hicimos en 2023 y lo que esperamos para 2024 aquí.](https://impossiblebox.substack.com/p/resumen-ejecutivo-metas-y-metricas)
+
 Somos una comunidad que tiene su principal centro de reunión en el Servidor de Discord de la Estantería Digital de Papalotla. ¡Unete!
 
 [![Discord la Estantería](/img/discord.png)](https://discord.gg/b5SV7z4S3N)

@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/OscarZambrano/Repositorios de la Estantería Digital de Papalotla/estanteriadigital/sidebars.js",
-          "contentPath": "/home/OscarZambrano/Repositorios de la Estantería Digital de Papalotla/estanteriadigital/docs",
-          "contentPathLocalized": "/home/OscarZambrano/Repositorios de la Estantería Digital de Papalotla/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/sidebars.js",
+          "contentPath": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/docs",
+          "contentPathLocalized": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",

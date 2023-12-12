@@ -4,157 +4,157 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '7af'),
+    component: ComponentCreator('/__docusaurus/debug', '471'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '698'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'e6c'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '868'),
+    component: ComponentCreator('/__docusaurus/debug/content', 'dfb'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'e1f'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '6a0'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'd2f'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', 'aad'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '13d'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '7f0'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '918'),
+    component: ComponentCreator('/__docusaurus/debug/routes', 'd93'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'b80'),
+    component: ComponentCreator('/blog', '407'),
     exact: true
   },
   {
     path: '/blog/',
-    component: ComponentCreator('/blog/', '70a'),
+    component: ComponentCreator('/blog/', '16f'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'e0d'),
+    component: ComponentCreator('/blog/archive', '1b6'),
     exact: true
   },
   {
     path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad', 'baf'),
+    component: ComponentCreator('/blog/aviso-de-privacidad', '9b5'),
     exact: true
   },
   {
     path: '/blog/codigo-de-conducta',
-    component: ComponentCreator('/blog/codigo-de-conducta', 'bf1'),
+    component: ComponentCreator('/blog/codigo-de-conducta', 'd42'),
     exact: true
   },
   {
     path: '/blog/consejo-de-contenido',
-    component: ComponentCreator('/blog/consejo-de-contenido', '956'),
+    component: ComponentCreator('/blog/consejo-de-contenido', '62b'),
     exact: true
   },
   {
     path: '/blog/declaracion-estanteria',
-    component: ComponentCreator('/blog/declaracion-estanteria', '0bf'),
+    component: ComponentCreator('/blog/declaracion-estanteria', '68f'),
     exact: true
   },
   {
     path: '/blog/documentación',
-    component: ComponentCreator('/blog/documentación', 'd3a'),
+    component: ComponentCreator('/blog/documentación', 'b82'),
     exact: true
   },
   {
     path: '/blog/estatutos',
-    component: ComponentCreator('/blog/estatutos', '06b'),
+    component: ComponentCreator('/blog/estatutos', 'ee1'),
     exact: true
   },
   {
     path: '/blog/mesa-de-administracion',
-    component: ComponentCreator('/blog/mesa-de-administracion', '454'),
+    component: ComponentCreator('/blog/mesa-de-administracion', 'd66'),
     exact: true
   },
   {
     path: '/blog/preguntas',
-    component: ComponentCreator('/blog/preguntas', 'e48'),
+    component: ComponentCreator('/blog/preguntas', '924'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '0ee'),
+    component: ComponentCreator('/blog/tags', 'f9e'),
     exact: true
   },
   {
     path: '/blog/tags/actualizacion',
-    component: ComponentCreator('/blog/tags/actualizacion', '0e1'),
+    component: ComponentCreator('/blog/tags/actualizacion', '7db'),
     exact: true
   },
   {
     path: '/blog/tags/declaracion',
-    component: ComponentCreator('/blog/tags/declaracion', '231'),
+    component: ComponentCreator('/blog/tags/declaracion', '65c'),
     exact: true
   },
   {
     path: '/blog/tags/declaracion-de-funcionamiento',
-    component: ComponentCreator('/blog/tags/declaracion-de-funcionamiento', 'c38'),
+    component: ComponentCreator('/blog/tags/declaracion-de-funcionamiento', '9b2'),
     exact: true
   },
   {
     path: '/blog/tags/documentacion',
-    component: ComponentCreator('/blog/tags/documentacion', '313'),
+    component: ComponentCreator('/blog/tags/documentacion', 'e9c'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'a74'),
+    component: ComponentCreator('/blog/tags/docusaurus', '098'),
     exact: true
   },
   {
     path: '/blog/tags/estatutos',
-    component: ComponentCreator('/blog/tags/estatutos', 'b1c'),
+    component: ComponentCreator('/blog/tags/estatutos', '0f1'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'dce'),
+    component: ComponentCreator('/blog/tags/facebook', 'c29'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'fbe'),
+    component: ComponentCreator('/blog/tags/hello', 'b9c'),
     exact: true
   },
   {
     path: '/blog/tags/interno',
-    component: ComponentCreator('/blog/tags/interno', '694'),
+    component: ComponentCreator('/blog/tags/interno', '556'),
     exact: true
   },
   {
     path: '/blog/tags/messa-de-administracion',
-    component: ComponentCreator('/blog/tags/messa-de-administracion', '6da'),
+    component: ComponentCreator('/blog/tags/messa-de-administracion', '072'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'c44'),
+    component: ComponentCreator('/markdown-page', '440'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'd15'),
+    component: ComponentCreator('/', '453'),
     routes: [
       {
         path: '/',

@@ -18,7 +18,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/OscarZambrano/Repositorios de la Estantería Digital de Papalotla/estanteriadigital/sidebars.js",
+          "sidebarPath": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/"
         },
@@ -27,7 +27,7 @@ export default {
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/OscarZambrano/Repositorios de la Estantería Digital de Papalotla/estanteriadigital/src/css/custom.css"
+          "customCss": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/src/css/custom.css"
         }
       }
     ]

@@ -110,7 +110,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023. Estantería Digital de Papalotla/Impossible Box de México. Todos los derechos reservados."
+      "copyright": "Copyright © 2024. Estantería Digital de Papalotla/Impossible Box de México. Todos los derechos reservados."
     },
     "prism": {
       "theme": {

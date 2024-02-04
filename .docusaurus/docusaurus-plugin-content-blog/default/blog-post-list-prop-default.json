@@ -2,6 +2,14 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+      "permalink": "/blog/manual-de-datos"
+    },
+    {
+      "title": "Estatuto de Sostenibilidad Económica",
+      "permalink": "/blog/estatuto-de-sostenibilidad-economica"
+    },
+    {
       "title": "Aviso de privacidad",
       "permalink": "/blog/aviso-de-privacidad"
     },
@@ -12,14 +20,6 @@
     {
       "title": "Declaraciones sobre la Mesa de Administración",
       "permalink": "/blog/mesa-de-administracion"
-    },
-    {
-      "title": "Declaración de la Estantería Digital de Papalotla",
-      "permalink": "/blog/declaracion-estanteria"
-    },
-    {
-      "title": "Preguntas frecuentes",
-      "permalink": "/blog/preguntas"
     }
   ]
 }

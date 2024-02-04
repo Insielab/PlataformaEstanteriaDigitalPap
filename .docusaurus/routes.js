@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', '407'),
+    component: ComponentCreator('/blog', 'dcc'),
     exact: true
   },
   {
@@ -78,8 +78,13 @@ export default [
     exact: true
   },
   {
-    path: '/blog/estatutos',
-    component: ComponentCreator('/blog/estatutos', 'ee1'),
+    path: '/blog/estatuto-de-sostenibilidad-economica',
+    component: ComponentCreator('/blog/estatuto-de-sostenibilidad-economica', '264'),
+    exact: true
+  },
+  {
+    path: '/blog/manual-de-datos',
+    component: ComponentCreator('/blog/manual-de-datos', 'fed'),
     exact: true
   },
   {
@@ -100,6 +105,11 @@ export default [
   {
     path: '/blog/tags/actualizacion',
     component: ComponentCreator('/blog/tags/actualizacion', '7db'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/datos',
+    component: ComponentCreator('/blog/tags/datos', '754'),
     exact: true
   },
   {
@@ -124,7 +134,7 @@ export default [
   },
   {
     path: '/blog/tags/estatutos',
-    component: ComponentCreator('/blog/tags/estatutos', '0f1'),
+    component: ComponentCreator('/blog/tags/estatutos', 'e30'),
     exact: true
   },
   {

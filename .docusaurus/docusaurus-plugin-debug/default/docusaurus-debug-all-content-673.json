@@ -1531,6 +1531,98 @@
       "blogSidebarTitle": "Recent posts",
       "blogPosts": [
         {
+          "id": "manual-de-datos",
+          "metadata": {
+            "permalink": "/blog/manual-de-datos",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2024-02-03-manual-datos.mdx",
+            "source": "@site/blog/2024-02-03-manual-datos.mdx",
+            "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+            "description": "La Estantería Digital de Papalotla se compromete a manejar los datos de manera ética y legal. Este manual establece nuestra política de datos, diseñada para garantizar que toda la información que recopilamos, almacenamos y compartimos esté en consonancia con nuestros valores de integridad, legalidad y respeto a la privacidad individual.",
+            "date": "2024-02-03T00:00:00.000Z",
+            "formattedDate": "February 3, 2024",
+            "tags": [
+              {
+                "label": "datos",
+                "permalink": "/blog/tags/datos"
+              }
+            ],
+            "readingTime": 1.88,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "frontMatter": {
+              "slug": "manual-de-datos",
+              "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "datos"
+              ]
+            },
+            "nextItem": {
+              "title": "Estatuto de Sostenibilidad Económica",
+              "permalink": "/blog/estatuto-de-sostenibilidad-economica"
+            }
+          },
+          "content": "La Estantería Digital de Papalotla se compromete a manejar los datos de manera ética y legal. Este manual establece nuestra política de datos, diseñada para garantizar que toda la información que recopilamos, almacenamos y compartimos esté en consonancia con nuestros valores de integridad, legalidad y respeto a la privacidad individual.\n\n## **Datos que No Resguardamos/Almacenamos**\n\n1. Datos cuyo almacenamiento implique quebrantar legislación aplicable en México y Estados Unidos.\n2. Datos de filtraciones en Internet.\n3. Información bancaria, financiera o contable privada, excepto la gubernamental bajo obligaciones de transparencia.\n4. Big Data.\n5. Información privilegiada.\n6. Padrones electorales y encuestas con datos de identidad personal.\n7. Contenido sensacionalista o de ataque político.\n8. Archivos históricos sin fuente comprobable.\n9. Grabaciones de vídeo o audio sin consentimiento, especialmente con menores de edad.\n\n## **Principios de Recolección de Datos.**\nNos adherimos a principios de recopilación responsable, asegurando que todos los datos se obtengan con transparencia, consentimiento y relevancia clara para nuestra misión.\n\n## **Procedimientos de Verificación de Datos.** \nCada conjunto de datos se somete a un proceso de verificación para confirmar su autenticidad, relevancia y alineación con nuestras políticas. Esto incluye la revisión de fuentes, el contexto y la legalidad.\n\n## **Manejo y Protección de Datos.** \nLos datos almacenados se manejan con el máximo cuidado, garantizando su seguridad y privacidad. Implementamos medidas de seguridad robustas para prevenir el acceso no autorizado o la filtración de datos.\n\n[Para más información le recomendamos visitar nuestro Aviso de Privacidad.](/blog/aviso-de-privacidad)\n\n## **Cumplimiento Legal y Ético.** \nNos comprometemos a cumplir con las leyes de protección de datos y privacidad de México y Estados Unidos. Respetamos los derechos de privacidad de los individuos y las obligaciones éticas en el manejo de datos.\n\n## **Procedimiento para Reportar y Manejar Infracciones**. \nEn caso de violaciones de nuestra política de datos, establecemos un canal claro para reportes y un proceso estructurado para responder y resolver tales incidentes.\n\n****\n\nimport Tabs from '@theme/Tabs';\nimport TabItem from '@theme/TabItem';\n\n<Tabs>\n  <TabItem value=\"news\" label=\" 📰 Consejo de Contenido\" default>\n    <a href=\"https://estanteriadigitalpapalotla.s3.us-east-2.amazonaws.com/EstanteriaDigitalDePapalotla/manuales/Infracciones-a-la-politica-de.contenido.pdf\">Reporte y manejo de infracciones en la política de contenido.</a>\n    </TabItem>\n  </Tabs>\n  \n  <br>\n  </br>\nRevisión y Actualización de la Política.\nEsta política será revisada y actualizada regularmente para reflejar cambios en las leyes, tecnologías y mejores prácticas en la gestión de datos."
+        },
+        {
+          "id": "estatuto-de-sostenibilidad-economica",
+          "metadata": {
+            "permalink": "/blog/estatuto-de-sostenibilidad-economica",
+            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2024-02-03-mdx-blog-post.mdx",
+            "source": "@site/blog/2024-02-03-mdx-blog-post.mdx",
+            "title": "Estatuto de Sostenibilidad Económica",
+            "description": "La sostenibilidad económica de la Estantería Digital de Papalotla depende de su comunidad y de sus auspiciantes.",
+            "date": "2024-02-03T00:00:00.000Z",
+            "formattedDate": "February 3, 2024",
+            "tags": [
+              {
+                "label": "estatutos",
+                "permalink": "/blog/tags/estatutos"
+              }
+            ],
+            "readingTime": 2.715,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Oscar Zambrano Lara",
+                "title": "Dirección General de Impossible Box de México",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "imp1"
+              }
+            ],
+            "frontMatter": {
+              "slug": "estatuto-de-sostenibilidad-economica",
+              "title": "Estatuto de Sostenibilidad Económica",
+              "authors": [
+                "imp1"
+              ],
+              "tags": [
+                "estatutos"
+              ]
+            },
+            "prevItem": {
+              "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+              "permalink": "/blog/manual-de-datos"
+            },
+            "nextItem": {
+              "title": "Aviso de privacidad",
+              "permalink": "/blog/aviso-de-privacidad"
+            }
+          },
+          "content": "**La sostenibilidad económica de la Estantería Digital de Papalotla depende de su comunidad y de sus auspiciantes.**\n\n## ¿Para qué la Estantería necesita recursos económicos?\n1.  Pago de infraestructura tecnólogica. La Estantería utiliza diversos servicios tecnólogicos para poder mantener su operatividad. Estos pueden ser, pero no están limitados, a:  \n\t1.  Servicios de almacenamiento de archivos, como Amazon Web Services.\n    2.  Software de reconocimiento de texto OCR, usamos Azure AI.\n    3.  Plataformas de despliegue (deploy) de nuestro sitio web, tales como Netlify o Heroku.\n    4.  Modelos de lenguaje de gran tamaño (inteligencia artificial), como ChatGPT+ y Perplexity.\n    5.  Pago de dominios asociados.\n2.  Gastos operativos y legales.\n\t1.  Defensa de los derechos de la Estantería en diferentes áreas.\n\t2.  Fondo de continuidad de operaciones en caso de fallos.\n\t3.  Compra de licencias, para documentos de acceso cerrado.\n3.  Publicidad y accesibilidad adecuada.\n\t1.\tMateriales impresos, stickers, tarjetas, flyers usado\n\tpara dar a conocer al proyecto en espacios no digitales.\n\t2.\tMateriales impresos, para su entrega gratuita a personas con debilidad visual o auditiva.\n\n## ¿Como obtiene la Estantería sus recursos económicos?\n\n1.  De sus auspiciantes, con una financiacion regular a la Estantería. Los auspiciantes tienen derecho a:\n\t1.  Formar parte de la comunidad de la Estantería Digital de Papalotla.\n\t2.  Que su contribución sea informada a la comunidad.\n\t3.  1.  La financiación regular es incompatible con el anonimato.\n\t4.  Presentarse a un proceso de elección a un lugar en el Consejo de Contenido.\n\t\t1.  El Consejo de Contenido puede negar, sin responsabilidad, la entrada de la financiación regular.\n        2.  El auspiciante se compromete, por escrito, a velar por los intereses de la Estantería, no intervenir en su política de contenido y respetar los valores de la misma.\n        3.  No pueden participar en la financiación: Partidos políticos, organizaciones o individuos ligados a ellos, organizaciones opacas o ilegales.\n        4.  Queda en manos del Consejo de Contenido verificar, de acuerdo a este estatuto y al espiritú de la Estantería, si se entrega el título de auspicante.\n        5.  La sesión del Consejo de Contenido que verifica el apartado anterior puede ser privada, así como su resolución. La resolución es inapelable.\n2.  De su comunidad, mediante donaciones espóradicas, pero siempre agradecidas. Ninguna cantidad es poca y no se discrimina la aportación en especie.\n\n## Obligaciones de transparencia\n\n1.  La Estantería Digital de Papalotla, por medio de su Mesa de Administración presentará trimestralmente reportes financieros y contables al Consejo de Contenido y a la comunidad.\n2.  El Consejo de Contenido emitirá una resolución de aceptación o sugerencia de revisión de dichos reportes.\n3.  Se recomienda encarecidamente evitar el uso de efectivos, cheques físicos, de caja o de viajero\n\n## Disposiciones transitorias.\n\n1.  Al momento de la primera publicación de este estatuto (3 de febrero de 2024). La Estantería es manejada como una subsidiaria de Impossible Box de México S.A.S. de C.V. Por ello los recursos económicos serán entregados a la misma y será su obligación emitir los reportes contables y financieros.\n2.  La Estantería Digital de Papalotla se convertirá en una asociación civil cuando Impossible Box de México tenga menos del 10% del poder de voto en el Consejo de Contenido.\n3.  Impossible Box de México debe contribuir siempre a la financiación de la Estantería, de acuerdo con sus posibilidades."
+        },
+        {
           "id": "aviso-de-privacidad",
           "metadata": {
             "permalink": "/blog/aviso-de-privacidad",
@@ -1555,6 +1647,10 @@
               "tags": [
                 "docusaurus"
               ]
+            },
+            "prevItem": {
+              "title": "Estatuto de Sostenibilidad Económica",
+              "permalink": "/blog/estatuto-de-sostenibilidad-economica"
             },
             "nextItem": {
               "title": "Declaración sobre el Consejo de Contenido",
@@ -1681,7 +1777,7 @@
                 "permalink": "/blog/tags/declaracion"
               }
             ],
-            "readingTime": 1.435,
+            "readingTime": 1.66,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -1711,7 +1807,7 @@
               "permalink": "/blog/preguntas"
             }
           },
-          "content": "Nosotros, en comunidad, declaramos que:\n\nLa **Estantería Digital de Papalotla** tiene por objeto conservar, resguardar y difundir los archivos históricos, culturales, estadísticos y geográficos de la ciudad.\nLa Estantería Digital de Papalotla debe ser construida en comunidad, de manera democrática y con software libre.\n\nTomando en cuenta lo anterior, establecemos:\n\nI. **Un Código de conducta**, que regirá nuestras relaciones internas y establecerá sanciones justas con el fin de tener una comunidad sana y sin discriminación.\n\nII. **Una Mesa de Administración**, que sea el órgano ejecutivo de la Estantería y se encargará de:\n\n- a) Administrar  los aspectos técnicos y administrativos de la misma.\n- b) Establecer las responsabilidades y sanciones en los casos de infracciones \t\t   al Código de conducta.\n\nIII. **Un Consejo de Contenido**, responsable de la neutralidad, independencia y transparencia de nuestros contenidos.\n\nIV. **Los Estatutos de financiación y gastos**, que garantizan nuestro funcionamiento económico.\n\nCon el fin de establecer un sistema de funcionamiento ágil y adaptable, las anteriores cuatro declaraciones **(I, II, III y IV)** pueden ser modificadas bajo las siguientes condiciones:\n- a) En condiciones de mayoría calificada en el Consejo de Contenido.\n- b) Emitiendo un documento público llamado **«Resolución del Consejo de Contenido»**, el cual después de su aprobación por el mismo modificará las declaraciones.\n\nPara modificar la presente declaración se seguirá el mismo proceso de modificación, en **condiciones de unanimidad**.\n\nEl proceso de creación, publicación y votación de resoluciones se detallará en la Declaración del Consejo de contenido.\n\n***\nPor una defensa de los derechos culturales, una lucha por un nuevo tipo de sociedad democrática digital.<br></br>\n<br></br>\n\nQueda refundada la Estantería Digital de Papalotla.\n\n**En representación de la Estantería Digital de Papalotla.** <br></br>\nOscar Zambrano Lara<br></br>\n12 de diciembre de 2022."
+          "content": "Nosotros, en comunidad, declaramos que:\n\nLa **Estantería Digital de Papalotla** tiene por objeto conservar, resguardar y difundir los archivos históricos, culturales, estadísticos y geográficos, mejorando así el entendimento histórico, social, económico y democrático de la ciudad. La Estantería Digital de Papalotla debe ser construida en comunidad, de manera democrática y con software libre.\n\nTomando en cuenta lo anterior, establecemos:\n\nI. **[Un Código de Conducta](/blog/consejo-de-contenido)**, que regirá nuestras relaciones internas y establecerá sanciones justas con el fin de tener una comunidad sana y sin discriminación.\n\nII. **[Una Mesa de Administración](/blog/mesa-de-administracion)**, que sea el órgano ejecutivo de la Estantería y se encargará de:\n\n- a) Administrar  los aspectos técnicos y administrativos de la misma.\n- b) Establecer las responsabilidades y sanciones en los casos de infracciones \t\t   al Código de conducta.\n\nIII. **[Un Consejo de Contenido](/blog/consejo-de-contenido)**, responsable de la neutralidad, independencia y transparencia de nuestros contenidos.\n\nIV. **[El Estatuto de Sostenibilidad Económica](/blog/estatuto-de-sostenibilidad-economica)**, que garantiza nuestro funcionamiento económico.\n\nCon el fin de establecer un sistema de funcionamiento ágil y adaptable, las anteriores cuatro declaraciones **(I, II, III y IV)** pueden ser modificadas bajo las siguientes condiciones:\n- a) En condiciones de mayoría calificada en el Consejo de Contenido.\n- b) Emitiendo un documento público llamado **«Resolución del Consejo de Contenido»**, el cual después de su aprobación por el mismo modificará las declaraciones.\n\nPara modificar la presente declaración se seguirá el mismo proceso de modificación, en **condiciones de unanimidad**.\n\nEl proceso de creación, publicación y votación de resoluciones se detallará en la Declaración del Consejo de contenido.\n\n***\nPor una defensa de los derechos culturales, una lucha por un nuevo tipo de sociedad democrática digital.<br></br>\n<br></br>\n\nQueda refundada la Estantería Digital de Papalotla.\n\n**En representación de la Estantería Digital de Papalotla.** <br></br>\nOscar Zambrano Lara<br></br>\n12 de diciembre de 2022.\n\n> Última modificación: 3 de febrero de 2024 por la [ Resolución Número 4 del Consejo de Contenido que modifica la Declaración de la Estantería Digital de Papalotla y deroga los Estatutos de Financiación y Gastos.](https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla/blob/master/Resoluciones%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num%204%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num%204%20del%20Consejo%20de%20Contenido.md).\n>"
         },
         {
           "id": "/preguntas",
@@ -1909,62 +2005,16 @@
             "prevItem": {
               "title": "Documentación para desarrolladores y personas técnicas",
               "permalink": "/blog/documentación"
-            },
-            "nextItem": {
-              "title": "Estatutos de financiación y gastos",
-              "permalink": "/blog/estatutos"
             }
           },
           "content": ""
-        },
-        {
-          "id": "estatutos",
-          "metadata": {
-            "permalink": "/blog/estatutos",
-            "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
-            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-            "title": "Estatutos de financiación y gastos",
-            "description": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.",
-            "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
-            "tags": [
-              {
-                "label": "estatutos",
-                "permalink": "/blog/tags/estatutos"
-              }
-            ],
-            "readingTime": 1.24,
-            "hasTruncateMarker": false,
-            "authors": [
-              {
-                "name": "Oscar Zambrano Lara",
-                "title": "Dirección General de Impossible Box de México",
-                "url": "https://github.com/endiliey",
-                "imageURL": "https://github.com/endiliey.png",
-                "key": "imp1"
-              }
-            ],
-            "frontMatter": {
-              "slug": "estatutos",
-              "title": "Estatutos de financiación y gastos",
-              "authors": [
-                "imp1"
-              ],
-              "tags": [
-                "estatutos"
-              ]
-            },
-            "prevItem": {
-              "title": "Preguntas frecuentes",
-              "permalink": "/blog/"
-            }
-          },
-          "content": "1. La financiación de la Estantería Digital de Papalotla por parte de un ente (persona física o moral) garantizará un lugar en la Mesa de Administración.\n2. La financiación se podrá dar mediante dos modalidades:\n    1. Donación particular: Donación en una sola exhibición. Esta donación se hará pública mediante los canales de comunicación de la Estantería Digital de Papalotla.\n    2. Financiación regular: La entrada de recursos de manera mensual a la Estantería.\n3. La entrada al tipo b de financiación deberá ser aprobada por la Mesa de Administración mediante una votación de acuerdo a lo establecido en las Declaraciónes sobre la Mesa de Administración, ya que esta entrada garantizará un lugar en la Mesa de Administración.\n4. Es responsabilidad de Impossible Box de México contribuir a la financiación de la Estantería (de acuerdo con sus posibilidades) ya sea de manera total o parcialmente en caso de tener no tener más financiadores.\n5. Al ser una subsidiaria de Impossible Box los recursos para la financiación deberán ser resguardados por la misma en sus cuentas bancarias.\n6. Impossible Box de México deberá entregar a la Mesa de Administración reportes de gastos e ingresos de manera trimestral. Los ingresos mediante extractos bancarios, los gastos mediante factura electrónica. Queda prohibido el uso de efectivo o cheques físicos.\n7. Como se detalla en la Declaración sobre la Mesa de Administración cuando el poder de voto de Impossible Box sea menor al 30% se deberá transformar a la Estantería Digital en una asociación civil."
         }
       ],
       "blogListPaginated": [
         {
           "items": [
+            "manual-de-datos",
+            "estatuto-de-sostenibilidad-economica",
             "aviso-de-privacidad",
             "consejo-de-contenido",
             "mesa-de-administracion",
@@ -1972,21 +2022,66 @@
             "/preguntas",
             "/codigo-de-conducta",
             "documentación",
-            "/",
-            "estatutos"
+            "/"
           ],
           "metadata": {
             "permalink": "/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
-            "totalCount": 9,
+            "totalCount": 10,
             "blogDescription": "Blog",
             "blogTitle": "Blog"
           }
         }
       ],
       "blogTags": {
+        "/blog/tags/datos": {
+          "label": "datos",
+          "items": [
+            "manual-de-datos"
+          ],
+          "permalink": "/blog/tags/datos",
+          "pages": [
+            {
+              "items": [
+                "manual-de-datos"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/datos",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/estatutos": {
+          "label": "estatutos",
+          "items": [
+            "estatuto-de-sostenibilidad-economica"
+          ],
+          "permalink": "/blog/tags/estatutos",
+          "pages": [
+            {
+              "items": [
+                "estatuto-de-sostenibilidad-economica"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/estatutos",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
         "/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
@@ -2190,29 +2285,6 @@
               ],
               "metadata": {
                 "permalink": "/blog/tags/facebook",
-                "page": 1,
-                "postsPerPage": 10,
-                "totalPages": 1,
-                "totalCount": 1,
-                "blogDescription": "Blog",
-                "blogTitle": "Blog"
-              }
-            }
-          ]
-        },
-        "/blog/tags/estatutos": {
-          "label": "estatutos",
-          "items": [
-            "estatutos"
-          ],
-          "permalink": "/blog/tags/estatutos",
-          "pages": [
-            {
-              "items": [
-                "estatutos"
-              ],
-              "metadata": {
-                "permalink": "/blog/tags/estatutos",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,

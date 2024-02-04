@@ -42,13 +42,19 @@
       "plugin": "plugin---docusaurus-debugfa-0-6d7"
     }
   },
-  "/blog-407": {
+  "/blog-dcc": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-664-ec2"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-7-ea-500"
+      },
+      {
+        "content": "content---blog-355-6cf"
+      },
       {
         "content": "content---blogec-5-42e"
       },
@@ -72,9 +78,6 @@
       },
       {
         "content": "content---blog-766-e3c"
-      },
-      {
-        "content": "content---blogf-4-f-cd7"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
@@ -134,13 +137,21 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-documentacionf-26-008"
   },
-  "/blog/estatutos-ee1": {
+  "/blog/estatuto-de-sostenibilidad-economica-264": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
       "plugin": "plugin---blog-664-ec2"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-estatutos-593-da0"
+    "content": "content---blog-estatuto-de-sostenibilidad-economica-317-b97"
+  },
+  "/blog/manual-de-datos-fed": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-664-ec2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-manual-de-datos-803-526"
   },
   "/blog/mesa-de-administracion-d66": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -179,6 +190,20 @@
     ],
     "tag": "tag---blog-tags-actualizacion-124-75f",
     "listMetadata": "listMetadata---blog-tags-actualizacion-382-53e"
+  },
+  "/blog/tags/datos-754": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-664-ec2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-7-ea-500"
+      }
+    ],
+    "tag": "tag---blog-tags-datosc-77-ab5",
+    "listMetadata": "listMetadata---blog-tags-datos-279-421"
   },
   "/blog/tags/declaracion-65c": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -242,7 +267,7 @@
     "tag": "tag---blog-tags-docusaurusa-80-728",
     "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
-  "/blog/tags/estatutos-0f1": {
+  "/blog/tags/estatutos-e30": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
       "plugin": "plugin---blog-664-ec2"
@@ -250,7 +275,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blogf-4-f-cd7"
+        "content": "content---blog-355-6cf"
       }
     ],
     "tag": "tag---blog-tags-estatutos-474-666",

@@ -1,0 +1,40 @@
+{
+  "permalink": "/blog/manual-de-datos",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2024-02-03-manual-datos.mdx",
+  "source": "@site/blog/2024-02-03-manual-datos.mdx",
+  "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+  "description": "La Estantería Digital de Papalotla se compromete a manejar los datos de manera ética y legal. Este manual establece nuestra política de datos, diseñada para garantizar que toda la información que recopilamos, almacenamos y compartimos esté en consonancia con nuestros valores de integridad, legalidad y respeto a la privacidad individual.",
+  "date": "2024-02-03T00:00:00.000Z",
+  "formattedDate": "February 3, 2024",
+  "tags": [
+    {
+      "label": "datos",
+      "permalink": "/blog/tags/datos"
+    }
+  ],
+  "readingTime": 1.88,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Impossible Box de México",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "manual-de-datos",
+    "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "datos"
+    ]
+  },
+  "nextItem": {
+    "title": "Estatuto de Sostenibilidad Económica",
+    "permalink": "/blog/estatuto-de-sostenibilidad-economica"
+  }
+}

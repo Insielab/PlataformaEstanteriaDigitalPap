@@ -18,7 +18,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/sidebars.js",
+          "sidebarPath": "/home/oscarz/Estanteria Digital/estanteriadigital/sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/"
         },
@@ -27,7 +27,7 @@ export default {
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/ImpossibleBoxMX/Repositorios de la Estanteria Digital/estanteriadigital/src/css/custom.css"
+          "customCss": "/home/oscarz/Estanteria Digital/estanteriadigital/src/css/custom.css"
         }
       }
     ]

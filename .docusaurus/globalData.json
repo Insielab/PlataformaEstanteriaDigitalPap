@@ -86,6 +86,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "leyes-estatales-municipales/marco-juridico",
+              "path": "/leyes-estatales-municipales/marco-juridico",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "leyes-estatales-municipales/regalamento-transito",
               "path": "/leyes-estatales-municipales/regalamento-transito",
               "sidebar": "tutorialSidebar"

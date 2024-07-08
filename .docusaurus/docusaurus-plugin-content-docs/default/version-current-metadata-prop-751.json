@@ -374,6 +374,12 @@
             "label": "Reglamento de panteones",
             "href": "/leyes-estatales-municipales/reglamento-panteones",
             "docId": "leyes-estatales-municipales/reglamento-panteones"
+          },
+          {
+            "type": "link",
+            "label": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+            "href": "/leyes-estatales-municipales/marco-juridico",
+            "docId": "leyes-estatales-municipales/marco-juridico"
           }
         ]
       },
@@ -482,6 +488,12 @@
       "id": "intro",
       "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
       "description": "⚡️ La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+      "sidebar": "tutorialSidebar"
+    },
+    "leyes-estatales-municipales/marco-juridico": {
+      "id": "leyes-estatales-municipales/marco-juridico",
+      "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+      "description": "Papalotla de Xicohténcatl es un municipio en el Estado Libre y Soberano de Tlaxcala, parte integrante de los Estados Unidos Mexicanos (México).",
       "sidebar": "tutorialSidebar"
     },
     "leyes-estatales-municipales/regalamento-transito": {

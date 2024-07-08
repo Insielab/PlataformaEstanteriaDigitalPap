@@ -4,167 +4,167 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '471'),
+    component: ComponentCreator('/__docusaurus/debug', 'bb5'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'e6c'),
+    component: ComponentCreator('/__docusaurus/debug/config', 'b58'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'dfb'),
+    component: ComponentCreator('/__docusaurus/debug/content', '953'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '6a0'),
+    component: ComponentCreator('/__docusaurus/debug/globalData', '92e'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'aad'),
+    component: ComponentCreator('/__docusaurus/debug/metadata', '6b5'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '7f0'),
+    component: ComponentCreator('/__docusaurus/debug/registry', '7f8'),
     exact: true
   },
   {
     path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'd93'),
+    component: ComponentCreator('/__docusaurus/debug/routes', '6cb'),
     exact: true
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'dcc'),
+    component: ComponentCreator('/blog', 'd46'),
     exact: true
   },
   {
     path: '/blog/',
-    component: ComponentCreator('/blog/', '16f'),
+    component: ComponentCreator('/blog/', '8f6'),
     exact: true
   },
   {
     path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '1b6'),
+    component: ComponentCreator('/blog/archive', '55a'),
     exact: true
   },
   {
     path: '/blog/aviso-de-privacidad',
-    component: ComponentCreator('/blog/aviso-de-privacidad', '9b5'),
+    component: ComponentCreator('/blog/aviso-de-privacidad', '242'),
     exact: true
   },
   {
     path: '/blog/codigo-de-conducta',
-    component: ComponentCreator('/blog/codigo-de-conducta', 'd42'),
+    component: ComponentCreator('/blog/codigo-de-conducta', 'a02'),
     exact: true
   },
   {
     path: '/blog/consejo-de-contenido',
-    component: ComponentCreator('/blog/consejo-de-contenido', '62b'),
+    component: ComponentCreator('/blog/consejo-de-contenido', 'cb2'),
     exact: true
   },
   {
     path: '/blog/declaracion-estanteria',
-    component: ComponentCreator('/blog/declaracion-estanteria', '68f'),
+    component: ComponentCreator('/blog/declaracion-estanteria', '480'),
     exact: true
   },
   {
     path: '/blog/documentación',
-    component: ComponentCreator('/blog/documentación', 'b82'),
+    component: ComponentCreator('/blog/documentación', 'b9d'),
     exact: true
   },
   {
     path: '/blog/estatuto-de-sostenibilidad-economica',
-    component: ComponentCreator('/blog/estatuto-de-sostenibilidad-economica', '264'),
+    component: ComponentCreator('/blog/estatuto-de-sostenibilidad-economica', '18e'),
     exact: true
   },
   {
     path: '/blog/manual-de-datos',
-    component: ComponentCreator('/blog/manual-de-datos', 'fed'),
+    component: ComponentCreator('/blog/manual-de-datos', 'e3e'),
     exact: true
   },
   {
     path: '/blog/mesa-de-administracion',
-    component: ComponentCreator('/blog/mesa-de-administracion', 'd66'),
+    component: ComponentCreator('/blog/mesa-de-administracion', 'fc8'),
     exact: true
   },
   {
     path: '/blog/preguntas',
-    component: ComponentCreator('/blog/preguntas', '924'),
+    component: ComponentCreator('/blog/preguntas', '529'),
     exact: true
   },
   {
     path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'f9e'),
+    component: ComponentCreator('/blog/tags', '5bc'),
     exact: true
   },
   {
     path: '/blog/tags/actualizacion',
-    component: ComponentCreator('/blog/tags/actualizacion', '7db'),
+    component: ComponentCreator('/blog/tags/actualizacion', '279'),
     exact: true
   },
   {
     path: '/blog/tags/datos',
-    component: ComponentCreator('/blog/tags/datos', '754'),
+    component: ComponentCreator('/blog/tags/datos', 'a3a'),
     exact: true
   },
   {
     path: '/blog/tags/declaracion',
-    component: ComponentCreator('/blog/tags/declaracion', '65c'),
+    component: ComponentCreator('/blog/tags/declaracion', '585'),
     exact: true
   },
   {
     path: '/blog/tags/declaracion-de-funcionamiento',
-    component: ComponentCreator('/blog/tags/declaracion-de-funcionamiento', '9b2'),
+    component: ComponentCreator('/blog/tags/declaracion-de-funcionamiento', '36c'),
     exact: true
   },
   {
     path: '/blog/tags/documentacion',
-    component: ComponentCreator('/blog/tags/documentacion', 'e9c'),
+    component: ComponentCreator('/blog/tags/documentacion', 'bc3'),
     exact: true
   },
   {
     path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '098'),
+    component: ComponentCreator('/blog/tags/docusaurus', 'e6e'),
     exact: true
   },
   {
     path: '/blog/tags/estatutos',
-    component: ComponentCreator('/blog/tags/estatutos', 'e30'),
+    component: ComponentCreator('/blog/tags/estatutos', 'e4b'),
     exact: true
   },
   {
     path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'c29'),
+    component: ComponentCreator('/blog/tags/facebook', '72d'),
     exact: true
   },
   {
     path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'b9c'),
+    component: ComponentCreator('/blog/tags/hello', 'b4c'),
     exact: true
   },
   {
     path: '/blog/tags/interno',
-    component: ComponentCreator('/blog/tags/interno', '556'),
+    component: ComponentCreator('/blog/tags/interno', 'cf4'),
     exact: true
   },
   {
     path: '/blog/tags/messa-de-administracion',
-    component: ComponentCreator('/blog/tags/messa-de-administracion', '072'),
+    component: ComponentCreator('/blog/tags/messa-de-administracion', 'd8b'),
     exact: true
   },
   {
     path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '440'),
+    component: ComponentCreator('/markdown-page', '251'),
     exact: true
   },
   {
     path: '/',
-    component: ComponentCreator('/', '453'),
+    component: ComponentCreator('/', 'c26'),
     routes: [
       {
         path: '/',
@@ -253,6 +253,12 @@ export default [
       {
         path: '/historias-constumbres.mdx/senor_del_monte',
         component: ComponentCreator('/historias-constumbres.mdx/senor_del_monte', 'e4e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/leyes-estatales-municipales/marco-juridico',
+        component: ComponentCreator('/leyes-estatales-municipales/marco-juridico', '59c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

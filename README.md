@@ -26,7 +26,7 @@ Instalación local mediante git y yarn
 ## Contribuidores
 
 - Comunidad de la Estantería Digital de Papalotla.
-    - Impossible Box de México S.A.S. de C.V.
+    - Insielab
         - [@hubbazambranol](https://twitter.com/hubbazambranol)
 
 

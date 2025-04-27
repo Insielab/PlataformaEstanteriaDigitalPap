@@ -117,7 +117,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. Estantería Digital de Papalotla/Impossible Box de México. Todos los derechos reservados.`,
+        copyright: `Copyright © ${new Date().getFullYear()}. Estantería Digital de Papalotla/Insielab. Todos los derechos reservados.`,
       },
       prism: {
         theme: lightCodeTheme,

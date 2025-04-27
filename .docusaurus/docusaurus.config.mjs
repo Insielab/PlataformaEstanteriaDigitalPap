@@ -18,7 +18,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "/home/oscarz/Estanteria Digital/estanteriadigital/sidebars.js",
+          "sidebarPath": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/"
         },
@@ -27,7 +27,7 @@ export default {
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "/home/oscarz/Estanteria Digital/estanteriadigital/src/css/custom.css"
+          "customCss": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\src\\css\\custom.css"
         }
       }
     ]
@@ -110,7 +110,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2024. Estantería Digital de Papalotla/Impossible Box de México. Todos los derechos reservados."
+      "copyright": "Copyright © 2025. Estantería Digital de Papalotla/Insielab. Todos los derechos reservados."
     },
     "prism": {
       "theme": {

@@ -3,26 +3,39 @@ sidebar_position: 1
 slug: /
 ---
 
-# ¡Bienvenido a la Estantería Digital de Papalotla!
+#📜 Bienvenido a la Estantería Digital de Papalotla
+⚡ La Estantería Digital de Papalotla es el repositorio digital más completo sobre la historia, cultura, gobierno y vida social de nuestra ciudad.
 
-⚡️ La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.
+Somos una plataforma gratuita de acceso abierto a la memoria histórica, gubernamental, cultural y legal de Papalotla, Tlaxcala.
 
-Somos una **plataforma gratuita** de acceso a la información histórica, gubernamental y legal sobre una ciudad específica.
+📚 ¿Cómo navegar la Estantería?
+Los archivos están organizados en la columna izquierda.
 
-⬅️ Recuerda que nuestros archivos se pueden consultar en la columna de la parte izquierda.
+Puedes consultar documentos históricos, informes oficiales, estadísticas, memorias comunitarias y más.
 
-[Lee el resumen de lo que hicimos en 2023 y lo que esperamos para 2024 aquí.](https://impossiblebox.substack.com/p/resumen-ejecutivo-metas-y-metricas)
+Todo el contenido está disponible de manera libre y gratuita para la comunidad.
 
-Somos una comunidad que tiene su principal centro de reunión en el Servidor de Discord de la Estantería Digital de Papalotla. ¡Unete!
+📈 Lo que hicimos en 2023 y nuestras metas para 2024
+Descubre nuestro resumen de actividades, logros y objetivos futuros aquí.
+(Agrega después el link cuando esté listo.)
 
-[![Discord la Estantería](/img/discord.png)](https://discord.gg/b5SV7z4S3N)
+🌿 ¡Somos comunidad!
+Nuestro principal centro de reunión es el Servidor de Discord de la Estantería Digital de Papalotla.
+Únete a nosotros para participar, proponer mejoras y construir juntos la memoria viva de Papalotla.
 
+⚖️ Sobre el uso de la Estantería
+Al utilizar la Estantería Digital de Papalotla, aceptas las reglas y principios que llamamos nuestras Declaraciones de Funcionamiento:
 
-Al utlizar la Estantería Digital de Papalotla aceptas los términos de uso de la misma, los cuales llamamos **«Declaraciones de funcionamiento»**. Estas son:
-- [Declaración de la Estantería Digital de Papalotla](/blog/declaracion-estanteria).
+Declaración de la Estantería Digital de Papalotla
 
-#### De la cual se desprenden las siguientes cuatro regulaciones.
-- [Declaración sobre el Consejo de Contenido](/blog/consejo-de-contenido).
-- [Declaraciones sobre la Mesa de Administración](/blog/mesa-de-administracion).
-- [Código de conducta de la comunidad y colaboradores](/blog/codigo-de-conducta).
-- [Estatutos de financiación y gastos](/blog/estatutos).
+Declaración sobre el Consejo de Contenido
+
+Declaraciones sobre la Mesa de Administración
+
+Código de Conducta de la Comunidad y Colaboradores
+
+Estatuto de Sostenibilidad Económica
+
+✏️ ¿Tienes sugerencias o mejoras?
+Puedes editar esta página o contactarnos en estanteria@inisielab.com.
+

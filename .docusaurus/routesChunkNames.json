@@ -42,13 +42,16 @@
       "plugin": "plugin---docusaurus-debuga-84-c15"
     }
   },
-  "/blog-d7e": {
+  "/blog-e9c": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---blog-68-c-6df"
     },
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
+      {
+        "content": "content---blog-3-f-6-bf8"
+      },
       {
         "content": "content---blog-7-ea-500"
       },
@@ -75,9 +78,6 @@
       },
       {
         "content": "content---blog-80-b-c82"
-      },
-      {
-        "content": "content---blog-766-e3c"
       }
     ],
     "metadata": "metadata---blogb-2-b-df1"
@@ -104,6 +104,14 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-aviso-de-privacidadfd-9-1b6"
+  },
+  "/blog/carta-de-derechos-1ec": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-68-c-6df"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-2025-06-17-carta-de-derechosb-54-eb2"
   },
   "/blog/codigo-de-conducta-2ca": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -160,6 +168,19 @@
     },
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-mesa-de-administracion-27-d-b1a"
+  },
+  "/blog/page/2-05d": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-68-c-6df"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "metadata": "metadata---blog-page-28-eb-625"
   },
   "/blog/preguntas-f31": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -232,6 +253,20 @@
     ],
     "tag": "tag---blog-tags-declaracion-de-funcionamiento-097-31f",
     "listMetadata": "listMetadata---blog-tags-declaracion-de-funcionamiento-435-32a"
+  },
+  "/blog/tags/derechos-0c9": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-68-c-6df"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-f-6-bf8"
+      }
+    ],
+    "tag": "tag---blog-tags-derechos-2-b-2-0e5",
+    "listMetadata": "listMetadata---blog-tags-derechos-908-ba3"
   },
   "/blog/tags/documentacion-c89": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
@@ -339,6 +374,20 @@
     ],
     "tag": "tag---blog-tags-messa-de-administracion-2-f-9-ac4",
     "listMetadata": "listMetadata---blog-tags-messa-de-administracion-834-0ef"
+  },
+  "/blog/tags/usuarios-e3f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-68-c-6df"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-3-f-6-bf8"
+      }
+    ],
+    "tag": "tag---blog-tags-usuarios-10-d-f66",
+    "listMetadata": "listMetadata---blog-tags-usuarios-8-c-1-705"
   },
   "/markdown-page-d34": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",

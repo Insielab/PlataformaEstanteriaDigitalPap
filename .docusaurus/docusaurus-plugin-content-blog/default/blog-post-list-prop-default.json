@@ -2,6 +2,10 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Carta de Derechos de los Usuarios y la Comunidad de la Estantería Digital de Papalotla",
+      "permalink": "/blog/carta-de-derechos"
+    },
+    {
       "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
       "permalink": "/blog/manual-de-datos"
     },
@@ -16,10 +20,6 @@
     {
       "title": "Declaración sobre el Consejo de Contenido",
       "permalink": "/blog/consejo-de-contenido"
-    },
-    {
-      "title": "Declaraciones sobre la Mesa de Administración",
-      "permalink": "/blog/mesa-de-administracion"
     }
   ]
 }

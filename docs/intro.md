@@ -21,13 +21,13 @@ Somos una plataforma gratuita de **acceso abierto a la memoria histórica, guber
 
 ## 📈 Lo que hicimos en 2023 y nuestras metas para 2024
 
-Descubre nuestro resumen de actividades, logros y objetivos futuros [**aquí**](#).
+Descubre nuestro resumen de actividades, logros y objetivos futuros [**aquí**](https://impossiblebox.substack.com/p/resumen-ejecutivo-metas-y-metricas).
 
 ---
 
 ## 🌿 ¡Somos comunidad!
 
-Nuestro principal centro de reunión es el [**Servidor de Discord de la Estantería Digital de Papalotla**](#).  
+Nuestro principal centro de reunión es el [**Servidor de Discord de la Estantería Digital de Papalotla**](https://discord.gg/RtXPPEB8).  
 Únete a nosotros para participar, proponer mejoras y construir juntos la memoria viva de Papalotla.
 
 ---
@@ -37,10 +37,10 @@ Nuestro principal centro de reunión es el [**Servidor de Discord de la Estanter
 Al utilizar la Estantería Digital de Papalotla, aceptas las reglas y principios que llamamos nuestras **Declaraciones de Funcionamiento**:
 
 - [Declaración de la Estantería Digital de Papalotla](https://estanteria.insielab.com/blog/declaracion-estanteria)
-- [Declaración sobre el Consejo de Contenido](#)
-- [Declaraciones sobre la Mesa de Administración](#)
-- [Código de Conducta de la Comunidad y Colaboradores](#)
-- [Estatuto de Sostenibilidad Económica](#)
+- [Declaración sobre el Consejo de Contenido](https://estanteria.insielab.com/blog/consejo-de-contenido)
+- [Declaraciones sobre la Mesa de Administración](https://estanteria.insielab.com/blog/mesa-de-administracion)
+- [Código de Conducta de la Comunidad y Colaboradores](https://estanteria.insielab.com/blog/codigo-de-conducta)
+- [Estatuto de Sostenibilidad Económica](https://estanteria.insielab.com/blog/estatuto-de-sostenibilidad-economica)
 
 ---
 

@@ -1,0 +1,45 @@
+{
+  "permalink": "/blog/carta-de-derechos",
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2025-06-17-carta-de-derechos.mdx",
+  "source": "@site/blog/2025-06-17-carta-de-derechos.mdx",
+  "title": "Carta de Derechos de los Usuarios y la Comunidad de la Estantería Digital de Papalotla",
+  "description": "",
+  "date": "2025-06-17T00:00:00.000Z",
+  "formattedDate": "June 17, 2025",
+  "tags": [
+    {
+      "label": "usuarios",
+      "permalink": "/blog/tags/usuarios"
+    },
+    {
+      "label": "derechos",
+      "permalink": "/blog/tags/derechos"
+    }
+  ],
+  "readingTime": 0,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Oscar Zambrano Lara",
+      "title": "Dirección General de Insielab",
+      "url": "https://github.com/endiliey",
+      "imageURL": "https://github.com/endiliey.png",
+      "key": "imp1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "carta-de-derechos",
+    "title": "Carta de Derechos de los Usuarios y la Comunidad de la Estantería Digital de Papalotla",
+    "authors": [
+      "imp1"
+    ],
+    "tags": [
+      "usuarios",
+      "derechos"
+    ]
+  },
+  "nextItem": {
+    "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+    "permalink": "/blog/manual-de-datos"
+  }
+}

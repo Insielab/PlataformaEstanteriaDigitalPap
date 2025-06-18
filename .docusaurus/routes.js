@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/blog',
-    component: ComponentCreator('/blog', 'd7e'),
+    component: ComponentCreator('/blog', 'e9c'),
     exact: true
   },
   {
@@ -55,6 +55,11 @@ export default [
   {
     path: '/blog/aviso-de-privacidad',
     component: ComponentCreator('/blog/aviso-de-privacidad', '2e8'),
+    exact: true
+  },
+  {
+    path: '/blog/carta-de-derechos',
+    component: ComponentCreator('/blog/carta-de-derechos', '1ec'),
     exact: true
   },
   {
@@ -93,6 +98,11 @@ export default [
     exact: true
   },
   {
+    path: '/blog/page/2',
+    component: ComponentCreator('/blog/page/2', '05d'),
+    exact: true
+  },
+  {
     path: '/blog/preguntas',
     component: ComponentCreator('/blog/preguntas', 'f31'),
     exact: true
@@ -120,6 +130,11 @@ export default [
   {
     path: '/blog/tags/declaracion-de-funcionamiento',
     component: ComponentCreator('/blog/tags/declaracion-de-funcionamiento', '8ea'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/derechos',
+    component: ComponentCreator('/blog/tags/derechos', '0c9'),
     exact: true
   },
   {
@@ -155,6 +170,11 @@ export default [
   {
     path: '/blog/tags/messa-de-administracion',
     component: ComponentCreator('/blog/tags/messa-de-administracion', '68c'),
+    exact: true
+  },
+  {
+    path: '/blog/tags/usuarios',
+    component: ComponentCreator('/blog/tags/usuarios', 'e3f'),
     exact: true
   },
   {

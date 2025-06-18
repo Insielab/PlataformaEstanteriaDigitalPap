@@ -1,6 +1,55 @@
 {
   "blogPosts": [
     {
+      "id": "carta-de-derechos",
+      "metadata": {
+        "permalink": "/blog/carta-de-derechos",
+        "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/blog/2025-06-17-carta-de-derechos.mdx",
+        "source": "@site/blog/2025-06-17-carta-de-derechos.mdx",
+        "title": "Carta de Derechos de los Usuarios y la Comunidad de la Estantería Digital de Papalotla",
+        "description": "",
+        "date": "2025-06-17T00:00:00.000Z",
+        "formattedDate": "June 17, 2025",
+        "tags": [
+          {
+            "label": "usuarios",
+            "permalink": "/blog/tags/usuarios"
+          },
+          {
+            "label": "derechos",
+            "permalink": "/blog/tags/derechos"
+          }
+        ],
+        "readingTime": 0,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "Oscar Zambrano Lara",
+            "title": "Dirección General de Insielab",
+            "url": "https://github.com/endiliey",
+            "imageURL": "https://github.com/endiliey.png",
+            "key": "imp1"
+          }
+        ],
+        "frontMatter": {
+          "slug": "carta-de-derechos",
+          "title": "Carta de Derechos de los Usuarios y la Comunidad de la Estantería Digital de Papalotla",
+          "authors": [
+            "imp1"
+          ],
+          "tags": [
+            "usuarios",
+            "derechos"
+          ]
+        },
+        "nextItem": {
+          "title": "Manual de Política de Datos para la Estantería Digital de Papalotla",
+          "permalink": "/blog/manual-de-datos"
+        }
+      },
+      "content": ""
+    },
+    {
       "id": "manual-de-datos",
       "metadata": {
         "permalink": "/blog/manual-de-datos",
@@ -36,6 +85,10 @@
           "tags": [
             "datos"
           ]
+        },
+        "prevItem": {
+          "title": "Carta de Derechos de los Usuarios y la Comunidad de la Estantería Digital de Papalotla",
+          "permalink": "/blog/carta-de-derechos"
         },
         "nextItem": {
           "title": "Estatuto de Sostenibilidad Económica",
@@ -277,7 +330,7 @@
           "permalink": "/blog/preguntas"
         }
       },
-      "content": "Nosotros, en comunidad, declaramos que:\r\n\r\nLa **Estantería Digital de Papalotla** tiene por objeto conservar, resguardar y difundir los archivos históricos, culturales, estadísticos y geográficos, mejorando así el entendimento histórico, social, económico y democrático de la ciudad. La Estantería Digital de Papalotla debe ser construida en comunidad, de manera democrática y con software libre.\r\n\r\nTomando en cuenta lo anterior, establecemos:\r\n\r\nI. **[Un Código de Conducta](/blog/consejo-de-contenido)**, que regirá nuestras relaciones internas y establecerá sanciones justas con el fin de tener una comunidad sana y sin discriminación.\r\n\r\nII. **[Una Mesa de Administración](/blog/mesa-de-administracion)**, que sea el órgano ejecutivo de la Estantería y se encargará de:\r\n\r\n- a) Administrar  los aspectos técnicos y administrativos de la misma.\r\n- b) Establecer las responsabilidades y sanciones en los casos de infracciones \t\t   al Código de conducta.\r\n\r\nIII. **[Un Consejo de Contenido](/blog/consejo-de-contenido)**, responsable de la neutralidad, independencia y transparencia de nuestros contenidos.\r\n\r\nIV. **[El Estatuto de Sostenibilidad Económica](/blog/estatuto-de-sostenibilidad-economica)**, que garantiza nuestro funcionamiento económico.\r\n\r\nCon el fin de establecer un sistema de funcionamiento ágil y adaptable, las anteriores cuatro declaraciones **(I, II, III y IV)** pueden ser modificadas bajo las siguientes condiciones:\r\n- a) En condiciones de mayoría calificada en el Consejo de Contenido.\r\n- b) Emitiendo un documento público llamado **«Resolución del Consejo de Contenido»**, el cual después de su aprobación por el mismo modificará las declaraciones.\r\n\r\nPara modificar la presente declaración se seguirá el mismo proceso de modificación, en **condiciones de unanimidad**.\r\n\r\nEl proceso de creación, publicación y votación de resoluciones se detallará en la Declaración del Consejo de contenido.\r\n\r\n***\r\nPor una defensa de los derechos culturales, una lucha por un nuevo tipo de sociedad democrática digital.<br></br>\r\n<br></br>\r\n\r\nQueda refundada la Estantería Digital de Papalotla.\r\n\r\n**En representación de la Estantería Digital de Papalotla.** <br></br>\r\nOscar Zambrano Lara<br></br>\r\n12 de diciembre de 2022.\r\n\r\n> Última modificación: 3 de febrero de 2024 por la [ Resolución Número 4 del Consejo de Contenido que modifica la Declaración de la Estantería Digital de Papalotla y deroga los Estatutos de Financiación y Gastos.](https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla/blob/master/Resoluciones%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num%204%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num%204%20del%20Consejo%20de%20Contenido.md).\r\n>"
+      "content": "Nosotros, en comunidad, declaramos que:\r\n\r\nLa **Estantería Digital de Papalotla** tiene por objeto conservar, resguardar y difundir los archivos históricos, culturales, estadísticos y geográficos, mejorando así el entendimento histórico, social, económico y democrático de la ciudad. La Estantería Digital de Papalotla debe ser construida en comunidad, de manera democrática y con software libre.\r\n\r\nTomando en cuenta lo anterior, establecemos:\r\n\r\nI. **[Un Código de Conducta](/blog/codigo-de-conducta)**, que regirá nuestras relaciones internas y establecerá sanciones justas con el fin de tener una comunidad sana y sin discriminación.\r\n\r\nII. **[Una Mesa de Administración](/blog/mesa-de-administracion)**, que sea el órgano ejecutivo de la Estantería y se encargará de:\r\n\r\n- a) Administrar  los aspectos técnicos y administrativos de la misma.\r\n- b) Establecer las responsabilidades y sanciones en los casos de infracciones \t\t   al Código de conducta.\r\n\r\nIII. **[Un Consejo de Contenido](/blog/consejo-de-contenido)**, responsable de la neutralidad, independencia y transparencia de nuestros contenidos.\r\n\r\nIV. **[El Estatuto de Sostenibilidad Económica](/blog/estatuto-de-sostenibilidad-economica)**, que garantiza nuestro funcionamiento económico.\r\n\r\nCon el fin de establecer un sistema de funcionamiento ágil y adaptable, las anteriores cuatro declaraciones **(I, II, III y IV)** pueden ser modificadas bajo las siguientes condiciones:\r\n- a) En condiciones de mayoría calificada en el Consejo de Contenido.\r\n- b) Emitiendo un documento público llamado **«Resolución del Consejo de Contenido»**, el cual después de su aprobación por el mismo modificará las declaraciones.\r\n\r\nPara modificar la presente declaración se seguirá el mismo proceso de modificación, en **condiciones de unanimidad**.\r\n\r\nEl proceso de creación, publicación y votación de resoluciones se detallará en la Declaración del Consejo de contenido.\r\n\r\n***\r\nPor una defensa de los derechos culturales, una lucha por un nuevo tipo de sociedad democrática digital.<br></br>\r\n<br></br>\r\n\r\nQueda refundada la Estantería Digital de Papalotla.\r\n\r\n**En representación de la Estantería Digital de Papalotla.** <br></br>\r\nOscar Zambrano Lara<br></br>\r\n12 de diciembre de 2022.\r\n\r\n> Última modificación: 3 de febrero de 2024 por la [ Resolución Número 4 del Consejo de Contenido que modifica la Declaración de la Estantería Digital de Papalotla y deroga los Estatutos de Financiación y Gastos.](https://github.com/ImpossibleBoxMX/EstanteriaDigitalDePapalotla/blob/master/Resoluciones%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num%204%20del%20Consejo%20de%20Contenido/Resoluci%C3%B3n%20Num%204%20del%20Consejo%20de%20Contenido.md).\r\n>"
     },
     {
       "id": "/preguntas",

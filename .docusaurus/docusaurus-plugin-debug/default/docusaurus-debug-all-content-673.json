@@ -15,9 +15,9 @@
           "editUrlLocalized": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\sidebars.js",
-          "contentPath": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\docs",
-          "contentPathLocalized": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "C:\\Users\\PC\\OneDrive\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\sidebars.js",
+          "contentPath": "C:\\Users\\PC\\OneDrive\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\docs",
+          "contentPathLocalized": "C:\\Users\\PC\\OneDrive\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "archivos-musicales.mdx/carnaval-papalotla",
@@ -65,7 +65,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+                "title": "📜 Bienvenido a la Estantería Digital de Papalotla",
                 "permalink": "/"
               },
               "next": {
@@ -285,7 +285,7 @@
                 "permalink": "/historias-constumbres.mdx/impacto-volkswagen"
               },
               "next": {
-                "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
+                "title": "📜 Bienvenido a la Estantería Digital de Papalotla",
                 "permalink": "/"
               }
             },
@@ -396,8 +396,8 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-              "description": "⚡️ La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+              "title": "📜 Bienvenido a la Estantería Digital de Papalotla",
+              "description": "️ La Estantería Digital de Papalotla es el repositorio digital más completo sobre la historia, cultura, gobierno y vida social de nuestra ciudad.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",

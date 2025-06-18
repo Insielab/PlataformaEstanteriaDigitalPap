@@ -75,7 +75,7 @@
       },
       {
         "type": "link",
-        "label": "¡Bienvenido a la Estantería Digital de Papalotla!",
+        "label": "📜 Bienvenido a la Estantería Digital de Papalotla",
         "href": "/",
         "docId": "intro"
       },
@@ -486,8 +486,8 @@
     },
     "intro": {
       "id": "intro",
-      "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-      "description": "⚡️ La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+      "title": "📜 Bienvenido a la Estantería Digital de Papalotla",
+      "description": "️ La Estantería Digital de Papalotla es el repositorio digital más completo sobre la historia, cultura, gobierno y vida social de nuestra ciudad.",
       "sidebar": "tutorialSidebar"
     },
     "leyes-estatales-municipales/marco-juridico": {

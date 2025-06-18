@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "¡Bienvenido a la Estantería Digital de Papalotla!",
-  "description": "⚡️ La Estantería Digital de Papalotla es el repositorio digital más amplio con información sobre la ciudad.",
+  "title": "📜 Bienvenido a la Estantería Digital de Papalotla",
+  "description": "️ La Estantería Digital de Papalotla es el repositorio digital más completo sobre la historia, cultura, gobierno y vida social de nuestra ciudad.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",

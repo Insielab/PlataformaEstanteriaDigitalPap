@@ -18,7 +18,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\sidebars.js",
+          "sidebarPath": "C:\\Users\\PC\\OneDrive\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\sidebars.js",
           "routeBasePath": "/",
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/"
         },
@@ -27,7 +27,7 @@ export default {
           "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/blog/"
         },
         "theme": {
-          "customCss": "C:\\Users\\PC\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\PC\\OneDrive\\Documents\\GitHub\\PlataformaEstanteriaDigitalPap\\src\\css\\custom.css"
         }
       }
     ]

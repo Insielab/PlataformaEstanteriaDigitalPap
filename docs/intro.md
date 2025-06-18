@@ -36,7 +36,7 @@ Nuestro principal centro de reunión es el [**Servidor de Discord de la Estanter
 
 Al utilizar la Estantería Digital de Papalotla, aceptas las reglas y principios que llamamos nuestras **Declaraciones de Funcionamiento**:
 
-- [Declaración de la Estantería Digital de Papalotla](#)
+- [Declaración de la Estantería Digital de Papalotla](https://estanteria.insielab.com/blog/declaracion-estanteria)
 - [Declaración sobre el Consejo de Contenido](#)
 - [Declaraciones sobre la Mesa de Administración](#)
 - [Código de Conducta de la Comunidad y Colaboradores](#)

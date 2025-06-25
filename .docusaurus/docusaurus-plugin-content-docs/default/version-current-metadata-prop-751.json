@@ -180,6 +180,12 @@
             "label": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
             "href": "/recursos-graficos/escudo-e-identidades",
             "docId": "recursos-graficos/escudo-e-identidades"
+          },
+          {
+            "type": "link",
+            "label": "Topografía del Cerro de la Luna - Papalotla (TopoExport, 2025) 🏞️",
+            "href": "/recursos-graficos/mapa-topografico-cerro-luna",
+            "docId": "recursos-graficos/mapa-topografico-cerro-luna"
           }
         ]
       },
@@ -380,6 +386,12 @@
             "label": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
             "href": "/leyes-estatales-municipales/marco-juridico",
             "docId": "leyes-estatales-municipales/marco-juridico"
+          },
+          {
+            "type": "link",
+            "label": "Protocolo de Primer Respondiente LGBTTTIQ+ – Papalotla 2024 🏳️‍🌈🏳️‍⚧️",
+            "href": "/leyes-estatales-municipales/protocolo-lgbt",
+            "docId": "leyes-estatales-municipales/protocolo-lgbt"
           }
         ]
       },
@@ -494,6 +506,12 @@
       "id": "leyes-estatales-municipales/marco-juridico",
       "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
       "description": "Papalotla de Xicohténcatl es un municipio en el Estado Libre y Soberano de Tlaxcala, parte integrante de los Estados Unidos Mexicanos (México).",
+      "sidebar": "tutorialSidebar"
+    },
+    "leyes-estatales-municipales/protocolo-lgbt": {
+      "id": "leyes-estatales-municipales/protocolo-lgbt",
+      "title": "Protocolo de Primer Respondiente LGBTTTIQ+ – Papalotla 2024 🏳️‍🌈🏳️‍⚧️",
+      "description": "Protocolo aprobado en mayo de 2024 por el Ayuntamiento de Papalotla que establece directrices para que la Policía Municipal actúe con respeto a los derechos humanos ante delitos de odio contra poblaciones LGBTTTIQ+, garantizando trato digno, identidad de género, confidencialidad y no discriminación.",
       "sidebar": "tutorialSidebar"
     },
     "leyes-estatales-municipales/regalamento-transito": {
@@ -650,6 +668,12 @@
       "id": "recursos-graficos/mapa",
       "title": "Mapa del Municipio de Papalotla",
       "description": "Mancha urbana y de caminos de la Ciudad de Papalotla de Xicohténcatl",
+      "sidebar": "tutorialSidebar"
+    },
+    "recursos-graficos/mapa-topografico-cerro-luna": {
+      "id": "recursos-graficos/mapa-topografico-cerro-luna",
+      "title": "Topografía del Cerro de la Luna - Papalotla (TopoExport, 2025) 🏞️",
+      "description": "Levantamiento topográfico realizado en 2025 mediante la herramienta TopoExport, que documenta con precisión las características físicas del Cerro de la Luna, punto emblemático de Papalotla de Xicohténcatl. Esta topografía forma parte de los recursos gráficos estratégicos para ordenamiento territorial, preservación ambiental y planeación urbana.",
       "sidebar": "tutorialSidebar"
     },
     "salud-publica/pandemia-datos/positivo-presidente": {

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "recursos-graficos/mapa-topografico-cerro-luna",
+  "id": "recursos-graficos/mapa-topografico-cerro-luna",
+  "title": "Topografía del Cerro de la Luna - Papalotla (TopoExport, 2025) 🏞️",
+  "description": "Levantamiento topográfico realizado en 2025 mediante la herramienta TopoExport, que documenta con precisión las características físicas del Cerro de la Luna, punto emblemático de Papalotla de Xicohténcatl. Esta topografía forma parte de los recursos gráficos estratégicos para ordenamiento territorial, preservación ambiental y planeación urbana.",
+  "source": "@site/docs/recursos-graficos/mapa-topografico-cerro-luna.mdx",
+  "sourceDirName": "recursos-graficos",
+  "slug": "/recursos-graficos/mapa-topografico-cerro-luna",
+  "permalink": "/recursos-graficos/mapa-topografico-cerro-luna",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mapa-topografico-cerro-luna.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+    "permalink": "/recursos-graficos/escudo-e-identidades"
+  },
+  "next": {
+    "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+    "permalink": "/planes-de-desarrollo/plan-desarrollo-2021-2024"
+  }
+}

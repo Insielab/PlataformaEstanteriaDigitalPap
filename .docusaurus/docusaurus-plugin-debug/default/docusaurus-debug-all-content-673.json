@@ -444,6 +444,33 @@
                 "permalink": "/leyes-estatales-municipales/reglamento-panteones"
               },
               "next": {
+                "title": "Protocolo de Primer Respondiente LGBTTTIQ+ – Papalotla 2024 🏳️‍🌈🏳️‍⚧️",
+                "permalink": "/leyes-estatales-municipales/protocolo-lgbt"
+              }
+            },
+            {
+              "unversionedId": "leyes-estatales-municipales/protocolo-lgbt",
+              "id": "leyes-estatales-municipales/protocolo-lgbt",
+              "title": "Protocolo de Primer Respondiente LGBTTTIQ+ – Papalotla 2024 🏳️‍🌈🏳️‍⚧️",
+              "description": "Protocolo aprobado en mayo de 2024 por el Ayuntamiento de Papalotla que establece directrices para que la Policía Municipal actúe con respeto a los derechos humanos ante delitos de odio contra poblaciones LGBTTTIQ+, garantizando trato digno, identidad de género, confidencialidad y no discriminación.",
+              "source": "@site/docs/leyes-estatales-municipales/protocolo-lgbt.mdx",
+              "sourceDirName": "leyes-estatales-municipales",
+              "slug": "/leyes-estatales-municipales/protocolo-lgbt",
+              "permalink": "/leyes-estatales-municipales/protocolo-lgbt",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/protocolo-lgbt.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+                "permalink": "/leyes-estatales-municipales/marco-juridico"
+              },
+              "next": {
                 "title": "congratultions",
                 "permalink": "/tutorial-basics/congratultions"
               }
@@ -629,8 +656,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
-                "permalink": "/recursos-graficos/escudo-e-identidades"
+                "title": "Topografía del Cerro de la Luna - Papalotla (TopoExport, 2025) 🏞️",
+                "permalink": "/recursos-graficos/mapa-topografico-cerro-luna"
               },
               "next": {
                 "title": "Plan de desarrollo municipal 2017-2021",
@@ -1092,8 +1119,8 @@
                 "permalink": "/recursos-graficos/mapa"
               },
               "next": {
-                "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
-                "permalink": "/planes-de-desarrollo/plan-desarrollo-2021-2024"
+                "title": "Topografía del Cerro de la Luna - Papalotla (TopoExport, 2025) 🏞️",
+                "permalink": "/recursos-graficos/mapa-topografico-cerro-luna"
               }
             },
             {
@@ -1148,6 +1175,33 @@
               "next": {
                 "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
                 "permalink": "/recursos-graficos/escudo-e-identidades"
+              }
+            },
+            {
+              "unversionedId": "recursos-graficos/mapa-topografico-cerro-luna",
+              "id": "recursos-graficos/mapa-topografico-cerro-luna",
+              "title": "Topografía del Cerro de la Luna - Papalotla (TopoExport, 2025) 🏞️",
+              "description": "Levantamiento topográfico realizado en 2025 mediante la herramienta TopoExport, que documenta con precisión las características físicas del Cerro de la Luna, punto emblemático de Papalotla de Xicohténcatl. Esta topografía forma parte de los recursos gráficos estratégicos para ordenamiento territorial, preservación ambiental y planeación urbana.",
+              "source": "@site/docs/recursos-graficos/mapa-topografico-cerro-luna.mdx",
+              "sourceDirName": "recursos-graficos",
+              "slug": "/recursos-graficos/mapa-topografico-cerro-luna",
+              "permalink": "/recursos-graficos/mapa-topografico-cerro-luna",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/recursos-graficos/mapa-topografico-cerro-luna.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Escudo de Papalotla e Identidades Gráficas de los gobiernos municipales históricos.",
+                "permalink": "/recursos-graficos/escudo-e-identidades"
+              },
+              "next": {
+                "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2021-2024"
               }
             },
             {
@@ -1247,8 +1301,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
-                "permalink": "/leyes-estatales-municipales/marco-juridico"
+                "title": "Protocolo de Primer Respondiente LGBTTTIQ+ – Papalotla 2024 🏳️‍🌈🏳️‍⚧️",
+                "permalink": "/leyes-estatales-municipales/protocolo-lgbt"
               }
             }
           ],
@@ -1384,6 +1438,10 @@
                   {
                     "type": "doc",
                     "id": "recursos-graficos/escudo-e-identidades"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "recursos-graficos/mapa-topografico-cerro-luna"
                   }
                 ]
               },
@@ -1536,6 +1594,10 @@
                   {
                     "type": "doc",
                     "id": "leyes-estatales-municipales/marco-juridico"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "leyes-estatales-municipales/protocolo-lgbt"
                   }
                 ]
               },

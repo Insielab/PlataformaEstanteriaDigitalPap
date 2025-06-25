@@ -111,7 +111,7 @@
       "plugin": "plugin---blog-68-c-6df"
     },
     "sidebar": "sidebar---blog-814-8ac",
-    "content": "content---blog-2025-06-17-carta-de-derechosb-54-eb2"
+    "content": "content---blog-carta-de-derechosb-54-0c6"
   },
   "/blog/codigo-de-conducta-2ca": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -177,7 +177,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       }
     ],
     "metadata": "metadata---blog-page-28-eb-625"
@@ -296,7 +296,7 @@
         "content": "content---blogea-0-02d"
       },
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       }
     ],
     "tag": "tag---blog-tags-docusaurusa-80-728",
@@ -324,7 +324,7 @@
     "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       }
     ],
     "tag": "tag---blog-tags-facebook-031-c52",
@@ -341,7 +341,7 @@
         "content": "content---blogea-0-02d"
       },
       {
-        "content": "content---blog-766-e3c"
+        "content": "content---blog-page-2766-8ad"
       }
     ],
     "tag": "tag---blog-tags-hello-30-a-bed",
@@ -396,7 +396,7 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/-236": {
+  "/-a43": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---b-74-850"
@@ -466,6 +466,10 @@
   "/leyes-estatales-municipales/marco-juridico-59c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---leyes-estatales-municipales-marco-juridico-6-c-5-eab"
+  },
+  "/leyes-estatales-municipales/protocolo-lgbt-863": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---leyes-estatales-municipales-protocolo-lgbt-035-3aa"
   },
   "/leyes-estatales-municipales/regalamento-transito-7b5": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -570,6 +574,10 @@
   "/recursos-graficos/mapa-4fa": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---recursos-graficos-mapab-02-2c9"
+  },
+  "/recursos-graficos/mapa-topografico-cerro-luna-c1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---recursos-graficos-mapa-topografico-cerro-luna-354-372"
   },
   "/salud-publica/pandemia-datos/positivo-presidente-be3": {
     "__comp": "__comp---theme-doc-item-178-a40",

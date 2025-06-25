@@ -184,7 +184,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '236'),
+    component: ComponentCreator('/', 'a43'),
     routes: [
       {
         path: '/',
@@ -279,6 +279,12 @@ export default [
       {
         path: '/leyes-estatales-municipales/marco-juridico',
         component: ComponentCreator('/leyes-estatales-municipales/marco-juridico', '59c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/leyes-estatales-municipales/protocolo-lgbt',
+        component: ComponentCreator('/leyes-estatales-municipales/protocolo-lgbt', '863'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -435,6 +441,12 @@ export default [
       {
         path: '/recursos-graficos/mapa',
         component: ComponentCreator('/recursos-graficos/mapa', '4fa'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/recursos-graficos/mapa-topografico-cerro-luna',
+        component: ComponentCreator('/recursos-graficos/mapa-topografico-cerro-luna', 'c1b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

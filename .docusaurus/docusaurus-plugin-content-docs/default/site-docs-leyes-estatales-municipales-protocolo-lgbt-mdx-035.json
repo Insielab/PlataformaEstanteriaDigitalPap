@@ -1,0 +1,27 @@
+{
+  "unversionedId": "leyes-estatales-municipales/protocolo-lgbt",
+  "id": "leyes-estatales-municipales/protocolo-lgbt",
+  "title": "Protocolo de Primer Respondiente LGBTTTIQ+ – Papalotla 2024 🏳️‍🌈🏳️‍⚧️",
+  "description": "Protocolo aprobado en mayo de 2024 por el Ayuntamiento de Papalotla que establece directrices para que la Policía Municipal actúe con respeto a los derechos humanos ante delitos de odio contra poblaciones LGBTTTIQ+, garantizando trato digno, identidad de género, confidencialidad y no discriminación.",
+  "source": "@site/docs/leyes-estatales-municipales/protocolo-lgbt.mdx",
+  "sourceDirName": "leyes-estatales-municipales",
+  "slug": "/leyes-estatales-municipales/protocolo-lgbt",
+  "permalink": "/leyes-estatales-municipales/protocolo-lgbt",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/leyes-estatales-municipales/protocolo-lgbt.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+    "permalink": "/leyes-estatales-municipales/marco-juridico"
+  },
+  "next": {
+    "title": "congratultions",
+    "permalink": "/tutorial-basics/congratultions"
+  }
+}

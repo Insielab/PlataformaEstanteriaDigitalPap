@@ -91,6 +91,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "leyes-estatales-municipales/protocolo-lgbt",
+              "path": "/leyes-estatales-municipales/protocolo-lgbt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "leyes-estatales-municipales/regalamento-transito",
               "path": "/leyes-estatales-municipales/regalamento-transito",
               "sidebar": "tutorialSidebar"
@@ -218,6 +223,11 @@
             {
               "id": "recursos-graficos/mapa",
               "path": "/recursos-graficos/mapa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "recursos-graficos/mapa-topografico-cerro-luna",
+              "path": "/recursos-graficos/mapa-topografico-cerro-luna",
               "sidebar": "tutorialSidebar"
             },
             {

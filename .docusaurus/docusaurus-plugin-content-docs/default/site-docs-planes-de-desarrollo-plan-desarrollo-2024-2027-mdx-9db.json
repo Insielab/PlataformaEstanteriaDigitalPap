@@ -1,0 +1,27 @@
+{
+  "unversionedId": "planes-de-desarrollo/plan-desarrollo-2024-2027",
+  "id": "planes-de-desarrollo/plan-desarrollo-2024-2027",
+  "title": "Plan de Desarrollo Municipal 2022-2027 🆕",
+  "description": "| Campo                | Detalle                                                                                     |",
+  "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2024-2027.mdx",
+  "sourceDirName": "planes-de-desarrollo",
+  "slug": "/planes-de-desarrollo/plan-desarrollo-2024-2027",
+  "permalink": "/planes-de-desarrollo/plan-desarrollo-2024-2027",
+  "draft": false,
+  "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2024-2027.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+    "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+  },
+  "next": {
+    "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+    "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+  }
+}

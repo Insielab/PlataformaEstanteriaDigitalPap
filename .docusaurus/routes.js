@@ -184,7 +184,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'a43'),
+    component: ComponentCreator('/', 'ec2'),
     routes: [
       {
         path: '/',
@@ -327,6 +327,12 @@ export default [
       {
         path: '/planes-de-desarrollo/plan-desarrollo-2021-2024',
         component: ComponentCreator('/planes-de-desarrollo/plan-desarrollo-2021-2024', '69a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/planes-de-desarrollo/plan-desarrollo-2024-2027',
+        component: ComponentCreator('/planes-de-desarrollo/plan-desarrollo-2024-2027', '151'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

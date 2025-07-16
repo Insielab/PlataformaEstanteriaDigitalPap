@@ -197,7 +197,7 @@
         "items": [
           {
             "type": "link",
-            "label": "Plan de Desarrollo Municipal 2021-2024 🆕",
+            "label": "Plan de Desarrollo Municipal 2021-2024",
             "href": "/planes-de-desarrollo/plan-desarrollo-2021-2024",
             "docId": "planes-de-desarrollo/plan-desarrollo-2021-2024"
           },
@@ -212,6 +212,12 @@
             "label": "Plan de desarrollo de artesanías para el municipio de Papalotla",
             "href": "/planes-de-desarrollo/desarrollo-artesanias",
             "docId": "planes-de-desarrollo/desarrollo-artesanias"
+          },
+          {
+            "type": "link",
+            "label": "Plan de Desarrollo Municipal 2022-2027 🆕",
+            "href": "/planes-de-desarrollo/plan-desarrollo-2024-2027",
+            "docId": "planes-de-desarrollo/plan-desarrollo-2024-2027"
           }
         ]
       },
@@ -365,7 +371,7 @@
           },
           {
             "type": "link",
-            "label": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+            "label": "Reglamento para la Protección de Perros y  Gatos 🦮 🐈",
             "href": "/leyes-estatales-municipales/reglamento-proteccion-perros",
             "docId": "leyes-estatales-municipales/reglamento-proteccion-perros"
           },
@@ -383,7 +389,7 @@
           },
           {
             "type": "link",
-            "label": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+            "label": "Marco juridíco para el Municipio de Papalotla de Xicohténcatl.",
             "href": "/leyes-estatales-municipales/marco-juridico",
             "docId": "leyes-estatales-municipales/marco-juridico"
           },
@@ -504,7 +510,7 @@
     },
     "leyes-estatales-municipales/marco-juridico": {
       "id": "leyes-estatales-municipales/marco-juridico",
-      "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+      "title": "Marco juridíco para el Municipio de Papalotla de Xicohténcatl.",
       "description": "Papalotla de Xicohténcatl es un municipio en el Estado Libre y Soberano de Tlaxcala, parte integrante de los Estados Unidos Mexicanos (México).",
       "sidebar": "tutorialSidebar"
     },
@@ -534,7 +540,7 @@
     },
     "leyes-estatales-municipales/reglamento-proteccion-perros": {
       "id": "leyes-estatales-municipales/reglamento-proteccion-perros",
-      "title": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+      "title": "Reglamento para la Protección de Perros y  Gatos 🦮 🐈",
       "description": "| Título | Reglamento para la Protección de Peros y  Gatos  del Municipio  de  Papalotla  de  Xicohténcatl |",
       "sidebar": "tutorialSidebar"
     },
@@ -552,8 +558,14 @@
     },
     "planes-de-desarrollo/plan-desarrollo-2021-2024": {
       "id": "planes-de-desarrollo/plan-desarrollo-2021-2024",
-      "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+      "title": "Plan de Desarrollo Municipal 2021-2024",
       "description": "| Título | Plan Municipal de Desarrollo Papalotla 2021-2024 (PMD) |",
+      "sidebar": "tutorialSidebar"
+    },
+    "planes-de-desarrollo/plan-desarrollo-2024-2027": {
+      "id": "planes-de-desarrollo/plan-desarrollo-2024-2027",
+      "title": "Plan de Desarrollo Municipal 2022-2027 🆕",
+      "description": "| Campo                | Detalle                                                                                     |",
       "sidebar": "tutorialSidebar"
     },
     "polemicas-resoluciones/elecciones-san-buenaventura": {

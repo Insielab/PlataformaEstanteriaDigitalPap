@@ -424,7 +424,7 @@
             {
               "unversionedId": "leyes-estatales-municipales/marco-juridico",
               "id": "leyes-estatales-municipales/marco-juridico",
-              "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+              "title": "Marco juridíco para el Municipio de Papalotla de Xicohténcatl.",
               "description": "Papalotla de Xicohténcatl es un municipio en el Estado Libre y Soberano de Tlaxcala, parte integrante de los Estados Unidos Mexicanos (México).",
               "source": "@site/docs/leyes-estatales-municipales/marco-juridico.mdx",
               "sourceDirName": "leyes-estatales-municipales",
@@ -467,7 +467,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+                "title": "Marco juridíco para el Municipio de Papalotla de Xicohténcatl.",
                 "permalink": "/leyes-estatales-municipales/marco-juridico"
               },
               "next": {
@@ -498,7 +498,7 @@
                 "permalink": "/proteccion-civil/atlas-riesgos"
               },
               "next": {
-                "title": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+                "title": "Reglamento para la Protección de Perros y  Gatos 🦮 🐈",
                 "permalink": "/leyes-estatales-municipales/reglamento-proteccion-perros"
               }
             },
@@ -521,7 +521,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+                "title": "Reglamento para la Protección de Perros y  Gatos 🦮 🐈",
                 "permalink": "/leyes-estatales-municipales/reglamento-proteccion-perros"
               },
               "next": {
@@ -552,14 +552,14 @@
                 "permalink": "/leyes-estatales-municipales/reglamento-aguas"
               },
               "next": {
-                "title": "Marco júridico para el Municipio de Papalotla de Xicohténcatl.",
+                "title": "Marco juridíco para el Municipio de Papalotla de Xicohténcatl.",
                 "permalink": "/leyes-estatales-municipales/marco-juridico"
               }
             },
             {
               "unversionedId": "leyes-estatales-municipales/reglamento-proteccion-perros",
               "id": "leyes-estatales-municipales/reglamento-proteccion-perros",
-              "title": "Reglamento para la Protección de Peros y  Gatos 🦮 🐈",
+              "title": "Reglamento para la Protección de Perros y  Gatos 🦮 🐈",
               "description": "| Título | Reglamento para la Protección de Peros y  Gatos  del Municipio  de  Papalotla  de  Xicohténcatl |",
               "source": "@site/docs/leyes-estatales-municipales/reglamento-proteccion-perros.mdx",
               "sourceDirName": "leyes-estatales-municipales",
@@ -606,8 +606,8 @@
                 "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
               },
               "next": {
-                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
-                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
+                "title": "Plan de Desarrollo Municipal 2022-2027 🆕",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2024-2027"
               }
             },
             {
@@ -629,7 +629,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+                "title": "Plan de Desarrollo Municipal 2021-2024",
                 "permalink": "/planes-de-desarrollo/plan-desarrollo-2021-2024"
               },
               "next": {
@@ -640,7 +640,7 @@
             {
               "unversionedId": "planes-de-desarrollo/plan-desarrollo-2021-2024",
               "id": "planes-de-desarrollo/plan-desarrollo-2021-2024",
-              "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+              "title": "Plan de Desarrollo Municipal 2021-2024",
               "description": "| Título | Plan Municipal de Desarrollo Papalotla 2021-2024 (PMD) |",
               "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2021-2024.mdx",
               "sourceDirName": "planes-de-desarrollo",
@@ -662,6 +662,33 @@
               "next": {
                 "title": "Plan de desarrollo municipal 2017-2021",
                 "permalink": "/planes-de-desarrollo/plan-desarrollo-2017-2021"
+              }
+            },
+            {
+              "unversionedId": "planes-de-desarrollo/plan-desarrollo-2024-2027",
+              "id": "planes-de-desarrollo/plan-desarrollo-2024-2027",
+              "title": "Plan de Desarrollo Municipal 2022-2027 🆕",
+              "description": "| Campo                | Detalle                                                                                     |",
+              "source": "@site/docs/planes-de-desarrollo/plan-desarrollo-2024-2027.mdx",
+              "sourceDirName": "planes-de-desarrollo",
+              "slug": "/planes-de-desarrollo/plan-desarrollo-2024-2027",
+              "permalink": "/planes-de-desarrollo/plan-desarrollo-2024-2027",
+              "draft": false,
+              "editUrl": "https://github.com/ImpossibleBoxMX/estanteriadigital/edit/main/website/docs/planes-de-desarrollo/plan-desarrollo-2024-2027.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
+                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+              },
+              "next": {
+                "title": "Polémica territorial entre Papalotla y Xicohtzinco por el predio \"Los Lavaderos\" (2001)",
+                "permalink": "/polemicas-resoluciones/papalotla-xicohtzinco-lavaderos"
               }
             },
             {
@@ -737,8 +764,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Plan de desarrollo de artesanías para el municipio de Papalotla",
-                "permalink": "/planes-de-desarrollo/desarrollo-artesanias"
+                "title": "Plan de Desarrollo Municipal 2022-2027 🆕",
+                "permalink": "/planes-de-desarrollo/plan-desarrollo-2024-2027"
               },
               "next": {
                 "title": "Petición del esclarecimiento del fallecimiento de Blanca X.",
@@ -1200,7 +1227,7 @@
                 "permalink": "/recursos-graficos/escudo-e-identidades"
               },
               "next": {
-                "title": "Plan de Desarrollo Municipal 2021-2024 🆕",
+                "title": "Plan de Desarrollo Municipal 2021-2024",
                 "permalink": "/planes-de-desarrollo/plan-desarrollo-2021-2024"
               }
             },
@@ -1462,6 +1489,10 @@
                   {
                     "type": "doc",
                     "id": "planes-de-desarrollo/desarrollo-artesanias"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "planes-de-desarrollo/plan-desarrollo-2024-2027"
                   }
                 ]
               },
